@@ -1,5 +1,2284 @@
 [
   {
+    "id": "b67fa8168752444c",
+    "title": "maximhq/bifrost",
+    "url": "https://github.com/maximhq/bifrost",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-09-29T11:08:22Z",
+    "discovered_at": "2026-09-29T11:09:58+00:00",
+    "category": "MODEL",
+    "subcategories": [
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "author": "maximhq",
+    "tags": [
+      "Go"
+    ],
+    "raw_data": {
+      "stars": 8437,
+      "forks": 1307,
+      "language": "Go",
+      "open_issues": 1153,
+      "updated_at": "2026-09-29T11:05:04Z",
+      "pushed_at": "2026-09-29T11:08:22Z"
+    },
+    "cluster_id": "b67fa8168752444c",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/maximhq/bifrost"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/maximhq/bifrost",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 51,
+    "importance_reasons": [
+      "Published in last 24h",
+      "8,437 GitHub stars",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 50,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "maximhq/bifrost (MODEL) via GitHub. Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: maximhq/bifrost عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "maximhq/bifrost — reported by GitHub.",
+      "why": "Categorized as MODEL with importance 51/100: Published in last 24h; 8,437 GitHub stars; Open-source",
+      "whats_new": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 57,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested maximhq/bifrost so you don't have to",
+        "maximhq/bifrost explained in 10 minutes",
+        "Is maximhq/bifrost actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at maximhq/bifrost: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with maximhq/bifrost.",
+      "comparison_angle": "maximhq/bifrost vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "e8ab3ec010d4796a",
+    "title": "kshitiz14/gesture_recogination",
+    "url": "https://huggingface.co/kshitiz14/gesture_recogination",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:09:53.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: keras, region:us",
+    "author": "kshitiz14",
+    "tags": [
+      "keras",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "kshitiz14/gesture_recogination",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "keras",
+      "last_modified": "2026-09-29T11:09:53.000Z",
+      "gated": false
+    },
+    "cluster_id": "e8ab3ec010d4796a",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/kshitiz14/gesture_recogination"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/kshitiz14/gesture_recogination",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "kshitiz14/gesture_recogination (MODEL) via Hugging Face. Tags: keras, region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: kshitiz14/gesture_recogination عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "kshitiz14/gesture_recogination — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: keras, region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested kshitiz14/gesture_recogination so you don't have to",
+        "kshitiz14/gesture_recogination explained in 10 minutes",
+        "Is kshitiz14/gesture_recogination actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at kshitiz14/gesture_recogination: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with kshitiz14/gesture_recogination.",
+      "comparison_angle": "kshitiz14/gesture_recogination vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "db6579696fab965b",
+    "title": "juergengunz/fluxer",
+    "url": "https://huggingface.co/juergengunz/fluxer",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:09:48.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: region:us",
+    "author": "juergengunz",
+    "tags": [
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "juergengunz/fluxer",
+      "likes": 13,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:09:48.000Z",
+      "gated": false
+    },
+    "cluster_id": "db6579696fab965b",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/juergengunz/fluxer"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/juergengunz/fluxer",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "juergengunz/fluxer (MODEL) via Hugging Face. Tags: region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: juergengunz/fluxer عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "juergengunz/fluxer — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested juergengunz/fluxer so you don't have to",
+        "juergengunz/fluxer explained in 10 minutes",
+        "Is juergengunz/fluxer actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at juergengunz/fluxer: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with juergengunz/fluxer.",
+      "comparison_angle": "juergengunz/fluxer vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "73b4002ec13fd8b1",
+    "title": "Shaleen123/gemma4-12b-sql",
+    "url": "https://huggingface.co/Shaleen123/gemma4-12b-sql",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:09:47.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [
+      "DATASET"
+    ],
+    "description": "Tags: transformers, safetensors, gemma4_unified, image-text-to-text, text-generation",
+    "author": "Shaleen123",
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gemma4_unified",
+      "image-text-to-text",
+      "text-generation",
+      "conversational",
+      "en",
+      "dataset:Shaleen123/text2sql-v1",
+      "base_model:google/gemma-4-12B-it",
+      "base_model:finetune:google/gemma-4-12B-it"
+    ],
+    "raw_data": {
+      "model_id": "Shaleen123/gemma4-12b-sql",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "text-generation",
+      "library": "transformers",
+      "last_modified": "2026-09-29T11:09:47.000Z",
+      "gated": false
+    },
+    "cluster_id": "73b4002ec13fd8b1",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/Shaleen123/gemma4-12b-sql"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/Shaleen123/gemma4-12b-sql",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "NOT PRACTICAL",
+        "ram8": "DIFFICULT",
+        "vram8": "DIFFICULT",
+        "vram16": "POSSIBLE",
+        "cloud_demo": "POSSIBLE",
+        "params_b": 12.0
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "Shaleen123/gemma4-12b-sql (MODEL) via Hugging Face. Tags: transformers, safetensors, gemma4_unified, image-text-to-text, text-generation",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: Shaleen123/gemma4-12b-sql عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "Shaleen123/gemma4-12b-sql — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: transformers, safetensors, gemma4_unified, image-text-to-text, text-generation",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested Shaleen123/gemma4-12b-sql so you don't have to",
+        "Shaleen123/gemma4-12b-sql explained in 10 minutes",
+        "Is Shaleen123/gemma4-12b-sql actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at Shaleen123/gemma4-12b-sql: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with Shaleen123/gemma4-12b-sql.",
+      "comparison_angle": "Shaleen123/gemma4-12b-sql vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "4c9c381f5849dc60",
+    "title": "haic-hmgu/dermatology-captioning-12b",
+    "url": "https://huggingface.co/haic-hmgu/dermatology-captioning-12b",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:09:44.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: transformers, safetensors, gemma3, image-text-to-text, dermatology",
+    "author": "haic-hmgu",
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gemma3",
+      "image-text-to-text",
+      "dermatology",
+      "medical",
+      "image-captioning",
+      "base_model:google/gemma-3-12b-pt",
+      "base_model:finetune:google/gemma-3-12b-pt",
+      "license:gemma"
+    ],
+    "raw_data": {
+      "model_id": "haic-hmgu/dermatology-captioning-12b",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text",
+      "library": "transformers",
+      "last_modified": "2026-09-29T11:09:44.000Z",
+      "gated": false
+    },
+    "cluster_id": "4c9c381f5849dc60",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/haic-hmgu/dermatology-captioning-12b"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/haic-hmgu/dermatology-captioning-12b",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "NOT PRACTICAL",
+        "ram8": "DIFFICULT",
+        "vram8": "DIFFICULT",
+        "vram16": "POSSIBLE",
+        "cloud_demo": "POSSIBLE",
+        "params_b": 12.0
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "haic-hmgu/dermatology-captioning-12b (MODEL) via Hugging Face. Tags: transformers, safetensors, gemma3, image-text-to-text, dermatology",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: haic-hmgu/dermatology-captioning-12b عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "haic-hmgu/dermatology-captioning-12b — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: transformers, safetensors, gemma3, image-text-to-text, dermatology",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested haic-hmgu/dermatology-captioning-12b so you don't have to",
+        "haic-hmgu/dermatology-captioning-12b explained in 10 minutes",
+        "Is haic-hmgu/dermatology-captioning-12b actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at haic-hmgu/dermatology-captioning-12b: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with haic-hmgu/dermatology-captioning-12b.",
+      "comparison_angle": "haic-hmgu/dermatology-captioning-12b vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "1d0fc1069d6e9ee3",
+    "title": "dheeren-tejani/unet-conditional",
+    "url": "https://huggingface.co/dheeren-tejani/unet-conditional",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:09:32.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: region:us",
+    "author": "dheeren-tejani",
+    "tags": [
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "dheeren-tejani/unet-conditional",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:09:32.000Z",
+      "gated": false
+    },
+    "cluster_id": "1d0fc1069d6e9ee3",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/dheeren-tejani/unet-conditional"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/dheeren-tejani/unet-conditional",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "dheeren-tejani/unet-conditional (MODEL) via Hugging Face. Tags: region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: dheeren-tejani/unet-conditional عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "dheeren-tejani/unet-conditional — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested dheeren-tejani/unet-conditional so you don't have to",
+        "dheeren-tejani/unet-conditional explained in 10 minutes",
+        "Is dheeren-tejani/unet-conditional actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at dheeren-tejani/unet-conditional: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with dheeren-tejani/unet-conditional.",
+      "comparison_angle": "dheeren-tejani/unet-conditional vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "d2a6c120aad70e2f",
+    "title": "jayasriii/extras",
+    "url": "https://huggingface.co/jayasriii/extras",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:09:21.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: region:us",
+    "author": "jayasriii",
+    "tags": [
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "jayasriii/extras",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:09:21.000Z",
+      "gated": false
+    },
+    "cluster_id": "d2a6c120aad70e2f",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/jayasriii/extras"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/jayasriii/extras",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "jayasriii/extras (MODEL) via Hugging Face. Tags: region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: jayasriii/extras عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "jayasriii/extras — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested jayasriii/extras so you don't have to",
+        "jayasriii/extras explained in 10 minutes",
+        "Is jayasriii/extras actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at jayasriii/extras: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with jayasriii/extras.",
+      "comparison_angle": "jayasriii/extras vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "ec092032d5bf119f",
+    "title": "SHSemi/my-brain-v1",
+    "url": "https://huggingface.co/SHSemi/my-brain-v1",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:09:20.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [
+      "TOOL"
+    ],
+    "description": "Tags: transformers, safetensors, gemma4, image-text-to-text, text-generation-inference",
+    "author": "SHSemi",
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gemma4",
+      "image-text-to-text",
+      "text-generation-inference",
+      "unsloth",
+      "conversational",
+      "en",
+      "license:apache-2.0",
+      "endpoints_compatible"
+    ],
+    "raw_data": {
+      "model_id": "SHSemi/my-brain-v1",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text",
+      "library": "transformers",
+      "last_modified": "2026-09-29T11:09:20.000Z",
+      "gated": false
+    },
+    "cluster_id": "ec092032d5bf119f",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/SHSemi/my-brain-v1"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/SHSemi/my-brain-v1",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "SHSemi/my-brain-v1 (MODEL) via Hugging Face. Tags: transformers, safetensors, gemma4, image-text-to-text, text-generation-inference",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: SHSemi/my-brain-v1 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "SHSemi/my-brain-v1 — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: transformers, safetensors, gemma4, image-text-to-text, text-generation-inference",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested SHSemi/my-brain-v1 so you don't have to",
+        "SHSemi/my-brain-v1 explained in 10 minutes",
+        "Is SHSemi/my-brain-v1 actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at SHSemi/my-brain-v1: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with SHSemi/my-brain-v1.",
+      "comparison_angle": "SHSemi/my-brain-v1 vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "edcbf65e4ce2f933",
+    "title": "leoyuer/pi0246-gate-pass-campaign",
+    "url": "https://huggingface.co/leoyuer/pi0246-gate-pass-campaign",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:09:17.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: safetensors, region:us",
+    "author": "leoyuer",
+    "tags": [
+      "safetensors",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "leoyuer/pi0246-gate-pass-campaign",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:09:17.000Z",
+      "gated": false
+    },
+    "cluster_id": "edcbf65e4ce2f933",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/leoyuer/pi0246-gate-pass-campaign"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/leoyuer/pi0246-gate-pass-campaign",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "leoyuer/pi0246-gate-pass-campaign (MODEL) via Hugging Face. Tags: safetensors, region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: leoyuer/pi0246-gate-pass-campaign عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "leoyuer/pi0246-gate-pass-campaign — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: safetensors, region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested leoyuer/pi0246-gate-pass-campaign so you don't have to",
+        "leoyuer/pi0246-gate-pass-campaign explained in 10 minutes",
+        "Is leoyuer/pi0246-gate-pass-campaign actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at leoyuer/pi0246-gate-pass-campaign: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with leoyuer/pi0246-gate-pass-campaign.",
+      "comparison_angle": "leoyuer/pi0246-gate-pass-campaign vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "0378d4a185786243",
+    "title": "zhangxinjie2026/Qwen3.8-27B-NVFP4",
+    "url": "https://huggingface.co/zhangxinjie2026/Qwen3.8-27B-NVFP4",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:43.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: safetensors, qwen3_5, unsloth, base_model:Qwen/Qwen3.8-27B, base_model:quantized:Qwen/Qwen3.8-27B",
+    "author": "zhangxinjie2026",
+    "tags": [
+      "safetensors",
+      "qwen3_5",
+      "unsloth",
+      "base_model:Qwen/Qwen3.8-27B",
+      "base_model:quantized:Qwen/Qwen3.8-27B",
+      "license:apache-2.0",
+      "compressed-tensors",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "zhangxinjie2026/Qwen3.8-27B-NVFP4",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:08:43.000Z",
+      "gated": false
+    },
+    "cluster_id": "0378d4a185786243",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/zhangxinjie2026/Qwen3.8-27B-NVFP4"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/zhangxinjie2026/Qwen3.8-27B-NVFP4",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "NOT PRACTICAL",
+        "ram8": "NOT PRACTICAL",
+        "vram8": "NOT PRACTICAL",
+        "vram16": "DIFFICULT",
+        "cloud_demo": "POSSIBLE",
+        "params_b": 27.0
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "zhangxinjie2026/Qwen3.8-27B-NVFP4 (MODEL) via Hugging Face. Tags: safetensors, qwen3_5, unsloth, base_model:Qwen/Qwen3.8-27B, base_model:quantized:Qwen/Qwen3.8-27B",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: zhangxinjie2026/Qwen3.8-27B-NVFP4 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "zhangxinjie2026/Qwen3.8-27B-NVFP4 — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: safetensors, qwen3_5, unsloth, base_model:Qwen/Qwen3.8-27B, base_model:quantized:Qwen/Qwen3.8-27B",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested zhangxinjie2026/Qwen3.8-27B-NVFP4 so you don't have to",
+        "zhangxinjie2026/Qwen3.8-27B-NVFP4 explained in 10 minutes",
+        "Is zhangxinjie2026/Qwen3.8-27B-NVFP4 actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at zhangxinjie2026/Qwen3.8-27B-NVFP4: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with zhangxinjie2026/Qwen3.8-27B-NVFP4.",
+      "comparison_angle": "zhangxinjie2026/Qwen3.8-27B-NVFP4 vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "7ef6cc72f7ccba8a",
+    "title": "birlaailabs/Prism",
+    "url": "https://huggingface.co/birlaailabs/Prism",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:30.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: Time Series Forecasting, Ensemble, Foundation Models, gift-eval, model-index",
+    "author": "birlaailabs",
+    "tags": [
+      "Time Series Forecasting",
+      "Ensemble",
+      "Foundation Models",
+      "gift-eval",
+      "model-index",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "birlaailabs/Prism",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:08:30.000Z",
+      "gated": false
+    },
+    "cluster_id": "7ef6cc72f7ccba8a",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/birlaailabs/Prism"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/birlaailabs/Prism",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "birlaailabs/Prism (MODEL) via Hugging Face. Tags: Time Series Forecasting, Ensemble, Foundation Models, gift-eval, model-index",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: birlaailabs/Prism عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "birlaailabs/Prism — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: Time Series Forecasting, Ensemble, Foundation Models, gift-eval, model-index",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested birlaailabs/Prism so you don't have to",
+        "birlaailabs/Prism explained in 10 minutes",
+        "Is birlaailabs/Prism actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at birlaailabs/Prism: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with birlaailabs/Prism.",
+      "comparison_angle": "birlaailabs/Prism vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "08f7a15793529270",
+    "title": "zeechimp/zee",
+    "url": "https://huggingface.co/zeechimp/zee",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:15.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: hv-intent, hv-intent-router, hyperdimensional-computing, vector-symbolic-architecture, intent-classification",
+    "author": "zeechimp",
+    "tags": [
+      "hv-intent",
+      "hv-intent-router",
+      "hyperdimensional-computing",
+      "vector-symbolic-architecture",
+      "intent-classification",
+      "tiny-models",
+      "cpu-only",
+      "few-shot",
+      "text-classification",
+      "en"
+    ],
+    "raw_data": {
+      "model_id": "zeechimp/zee",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "text-classification",
+      "library": "hv-intent",
+      "last_modified": "2026-09-29T11:08:15.000Z",
+      "gated": false
+    },
+    "cluster_id": "08f7a15793529270",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/zeechimp/zee"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/zeechimp/zee",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "zeechimp/zee (MODEL) via Hugging Face. Tags: hv-intent, hv-intent-router, hyperdimensional-computing, vector-symbolic-architecture, intent-classification",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: zeechimp/zee عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "zeechimp/zee — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: hv-intent, hv-intent-router, hyperdimensional-computing, vector-symbolic-architecture, intent-classification",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested zeechimp/zee so you don't have to",
+        "zeechimp/zee explained in 10 minutes",
+        "Is zeechimp/zee actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at zeechimp/zee: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with zeechimp/zee.",
+      "comparison_angle": "zeechimp/zee vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "4feb54ff5fe2a863",
+    "title": "andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic",
+    "url": "https://huggingface.co/andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:11.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: exllamav3, safetensors, qwen4_exp, exl3, moe",
+    "author": "andrevp",
+    "tags": [
+      "exllamav3",
+      "safetensors",
+      "qwen4_exp",
+      "exl3",
+      "moe",
+      "heretic",
+      "abliterated",
+      "uncensored",
+      "decensored",
+      "image-text-to-text"
+    ],
+    "raw_data": {
+      "model_id": "andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic",
+      "likes": 0,
+      "downloads": 13,
+      "pipeline_tag": "image-text-to-text",
+      "library": "exllamav3",
+      "last_modified": "2026-09-29T11:08:11.000Z",
+      "gated": false
+    },
+    "cluster_id": "4feb54ff5fe2a863",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic (MODEL) via Hugging Face. Tags: exllamav3, safetensors, qwen4_exp, exl3, moe",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: exllamav3, safetensors, qwen4_exp, exl3, moe",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic so you don't have to",
+        "andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic explained in 10 minutes",
+        "Is andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic.",
+      "comparison_angle": "andrevp/Qwen3.8-Flash-Next-exl3-3.05bpw-heretic vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "2a4e6dbe0a141453",
+    "title": "tsangb34/g05-so101-cube-drawer-10ep",
+    "url": "https://huggingface.co/tsangb34/g05-so101-cube-drawer-10ep",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:09.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: region:us",
+    "author": "tsangb34",
+    "tags": [
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "tsangb34/g05-so101-cube-drawer-10ep",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:08:09.000Z",
+      "gated": false
+    },
+    "cluster_id": "2a4e6dbe0a141453",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/tsangb34/g05-so101-cube-drawer-10ep"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/tsangb34/g05-so101-cube-drawer-10ep",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "tsangb34/g05-so101-cube-drawer-10ep (MODEL) via Hugging Face. Tags: region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: tsangb34/g05-so101-cube-drawer-10ep عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "tsangb34/g05-so101-cube-drawer-10ep — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested tsangb34/g05-so101-cube-drawer-10ep so you don't have to",
+        "tsangb34/g05-so101-cube-drawer-10ep explained in 10 minutes",
+        "Is tsangb34/g05-so101-cube-drawer-10ep actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at tsangb34/g05-so101-cube-drawer-10ep: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with tsangb34/g05-so101-cube-drawer-10ep.",
+      "comparison_angle": "tsangb34/g05-so101-cube-drawer-10ep vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "4c578316ff29f922",
+    "title": "aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased",
+    "url": "https://huggingface.co/aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:07.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [
+      "TOOL"
+    ],
+    "description": "Tags: transformers, safetensors, distilbert, text-classification, generated_from_trainer",
+    "author": "aakashdeep1",
+    "tags": [
+      "transformers",
+      "safetensors",
+      "distilbert",
+      "text-classification",
+      "generated_from_trainer",
+      "base_model:distilbert/distilbert-base-uncased",
+      "base_model:finetune:distilbert/distilbert-base-uncased",
+      "license:apache-2.0",
+      "text-embeddings-inference",
+      "endpoints_compatible"
+    ],
+    "raw_data": {
+      "model_id": "aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification",
+      "library": "transformers",
+      "last_modified": "2026-09-29T11:08:07.000Z",
+      "gated": false
+    },
+    "cluster_id": "4c578316ff29f922",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased (MODEL) via Hugging Face. Tags: transformers, safetensors, distilbert, text-classification, generated_from_trainer",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: transformers, safetensors, distilbert, text-classification, generated_from_trainer",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased so you don't have to",
+        "aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased explained in 10 minutes",
+        "Is aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased.",
+      "comparison_angle": "aakashdeep1/learn_hf_food_not_food_text_classifier-distilbert-base-uncased vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "8d89b3f4a2fe934e",
+    "title": "papylove/alpaca-crypto-model",
+    "url": "https://huggingface.co/papylove/alpaca-crypto-model",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:06.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: joblib, region:us",
+    "author": "papylove",
+    "tags": [
+      "joblib",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "papylove/alpaca-crypto-model",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:08:06.000Z",
+      "gated": false
+    },
+    "cluster_id": "8d89b3f4a2fe934e",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/papylove/alpaca-crypto-model"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/papylove/alpaca-crypto-model",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "papylove/alpaca-crypto-model (MODEL) via Hugging Face. Tags: joblib, region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: papylove/alpaca-crypto-model عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "papylove/alpaca-crypto-model — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: joblib, region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested papylove/alpaca-crypto-model so you don't have to",
+        "papylove/alpaca-crypto-model explained in 10 minutes",
+        "Is papylove/alpaca-crypto-model actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at papylove/alpaca-crypto-model: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with papylove/alpaca-crypto-model.",
+      "comparison_angle": "papylove/alpaca-crypto-model vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "35b93ab547d0e000",
+    "title": "chortochki/JevmaxxxinG",
+    "url": "https://huggingface.co/chortochki/JevmaxxxinG",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:03.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: onnx, safetensors, nli, intent, decision-making",
+    "author": "chortochki",
+    "tags": [
+      "onnx",
+      "safetensors",
+      "nli",
+      "intent",
+      "decision-making",
+      "system-1",
+      "encoder-only",
+      "text-classification",
+      "base_model:answerdotai/ModernBERT-large",
+      "base_model:quantized:answerdotai/ModernBERT-large"
+    ],
+    "raw_data": {
+      "model_id": "chortochki/JevmaxxxinG",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification",
+      "library": "",
+      "last_modified": "2026-09-29T11:08:03.000Z",
+      "gated": false
+    },
+    "cluster_id": "35b93ab547d0e000",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/chortochki/JevmaxxxinG"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/chortochki/JevmaxxxinG",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "chortochki/JevmaxxxinG (MODEL) via Hugging Face. Tags: onnx, safetensors, nli, intent, decision-making",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: chortochki/JevmaxxxinG عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "chortochki/JevmaxxxinG — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: onnx, safetensors, nli, intent, decision-making",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested chortochki/JevmaxxxinG so you don't have to",
+        "chortochki/JevmaxxxinG explained in 10 minutes",
+        "Is chortochki/JevmaxxxinG actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at chortochki/JevmaxxxinG: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with chortochki/JevmaxxxinG.",
+      "comparison_angle": "chortochki/JevmaxxxinG vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "298dc8be7a7aace6",
+    "title": "jayasriii/121M_10B",
+    "url": "https://huggingface.co/jayasriii/121M_10B",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:08:03.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: region:us",
+    "author": "jayasriii",
+    "tags": [
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "jayasriii/121M_10B",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:08:03.000Z",
+      "gated": false
+    },
+    "cluster_id": "298dc8be7a7aace6",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/jayasriii/121M_10B"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/jayasriii/121M_10B",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "NOT PRACTICAL",
+        "ram8": "DIFFICULT",
+        "vram8": "DIFFICULT",
+        "vram16": "POSSIBLE",
+        "cloud_demo": "POSSIBLE",
+        "params_b": 10.0
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "jayasriii/121M_10B (MODEL) via Hugging Face. Tags: region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: jayasriii/121M_10B عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "jayasriii/121M_10B — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested jayasriii/121M_10B so you don't have to",
+        "jayasriii/121M_10B explained in 10 minutes",
+        "Is jayasriii/121M_10B actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at jayasriii/121M_10B: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with jayasriii/121M_10B.",
+      "comparison_angle": "jayasriii/121M_10B vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "0d5643545020af4c",
+    "title": "IMPULSARGT2026/raiz-transcribe-app",
+    "url": "https://huggingface.co/IMPULSARGT2026/raiz-transcribe-app",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:07:59.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: region:us",
+    "author": "IMPULSARGT2026",
+    "tags": [
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "IMPULSARGT2026/raiz-transcribe-app",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:07:59.000Z",
+      "gated": false
+    },
+    "cluster_id": "0d5643545020af4c",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/IMPULSARGT2026/raiz-transcribe-app"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/IMPULSARGT2026/raiz-transcribe-app",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "IMPULSARGT2026/raiz-transcribe-app (MODEL) via Hugging Face. Tags: region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: IMPULSARGT2026/raiz-transcribe-app عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "IMPULSARGT2026/raiz-transcribe-app — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested IMPULSARGT2026/raiz-transcribe-app so you don't have to",
+        "IMPULSARGT2026/raiz-transcribe-app explained in 10 minutes",
+        "Is IMPULSARGT2026/raiz-transcribe-app actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at IMPULSARGT2026/raiz-transcribe-app: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with IMPULSARGT2026/raiz-transcribe-app.",
+      "comparison_angle": "IMPULSARGT2026/raiz-transcribe-app vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "5367ef85f7747f27",
+    "title": "rahman777/voice-to-form",
+    "url": "https://huggingface.co/rahman777/voice-to-form",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:07:57.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: onnx, license:unknown, region:us",
+    "author": "rahman777",
+    "tags": [
+      "onnx",
+      "license:unknown",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "rahman777/voice-to-form",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:07:57.000Z",
+      "gated": false
+    },
+    "cluster_id": "5367ef85f7747f27",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/rahman777/voice-to-form"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/rahman777/voice-to-form",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "rahman777/voice-to-form (MODEL) via Hugging Face. Tags: onnx, license:unknown, region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: rahman777/voice-to-form عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "rahman777/voice-to-form — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: onnx, license:unknown, region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested rahman777/voice-to-form so you don't have to",
+        "rahman777/voice-to-form explained in 10 minutes",
+        "Is rahman777/voice-to-form actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at rahman777/voice-to-form: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with rahman777/voice-to-form.",
+      "comparison_angle": "rahman777/voice-to-form vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "3d171246e935071b",
+    "title": "ArjunSharmaSSS/vision-detection-models",
+    "url": "https://huggingface.co/ArjunSharmaSSS/vision-detection-models",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:07:50.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: onnx, safetensors, region:us",
+    "author": "ArjunSharmaSSS",
+    "tags": [
+      "onnx",
+      "safetensors",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "ArjunSharmaSSS/vision-detection-models",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-09-29T11:07:50.000Z",
+      "gated": false
+    },
+    "cluster_id": "3d171246e935071b",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/ArjunSharmaSSS/vision-detection-models"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/ArjunSharmaSSS/vision-detection-models",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "ArjunSharmaSSS/vision-detection-models (MODEL) via Hugging Face. Tags: onnx, safetensors, region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: ArjunSharmaSSS/vision-detection-models عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "ArjunSharmaSSS/vision-detection-models — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: onnx, safetensors, region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested ArjunSharmaSSS/vision-detection-models so you don't have to",
+        "ArjunSharmaSSS/vision-detection-models explained in 10 minutes",
+        "Is ArjunSharmaSSS/vision-detection-models actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at ArjunSharmaSSS/vision-detection-models: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with ArjunSharmaSSS/vision-detection-models.",
+      "comparison_angle": "ArjunSharmaSSS/vision-detection-models vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "fe0f34aa0a9ef9f4",
+    "title": "angel-gitt/gliner-gbai",
+    "url": "https://huggingface.co/angel-gitt/gliner-gbai",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-09-29T11:07:50.000Z",
+    "discovered_at": "2026-09-29T11:09:57+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: gliner, pytorch, token-classification, ner, pii",
+    "author": "angel-gitt",
+    "tags": [
+      "gliner",
+      "pytorch",
+      "token-classification",
+      "ner",
+      "pii",
+      "medical",
+      "healthcare",
+      "anonymization",
+      "deidentification",
+      "es"
+    ],
+    "raw_data": {
+      "model_id": "angel-gitt/gliner-gbai",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "token-classification",
+      "library": "gliner",
+      "last_modified": "2026-09-29T11:07:50.000Z",
+      "gated": false
+    },
+    "cluster_id": "fe0f34aa0a9ef9f4",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/angel-gitt/gliner-gbai"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/angel-gitt/gliner-gbai",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 30,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 40,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "angel-gitt/gliner-gbai (MODEL) via Hugging Face. Tags: gliner, pytorch, token-classification, ner, pii",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: angel-gitt/gliner-gbai عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "angel-gitt/gliner-gbai — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: gliner, pytorch, token-classification, ner, pii",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 36,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested angel-gitt/gliner-gbai so you don't have to",
+        "angel-gitt/gliner-gbai explained in 10 minutes",
+        "Is angel-gitt/gliner-gbai actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at angel-gitt/gliner-gbai: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with angel-gitt/gliner-gbai.",
+      "comparison_angle": "angel-gitt/gliner-gbai vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
     "id": "451d27ef87d649a4",
     "title": "Vxtzq/Crowd-v1",
     "url": "https://huggingface.co/Vxtzq/Crowd-v1",
@@ -28,7 +2307,7 @@
       "downloads": 35283,
       "pipeline_tag": "text-generation",
       "library": "",
-      "last_modified": "2026-09-29T10:38:10.000Z",
+      "last_modified": "2026-09-29T11:08:15.000Z",
       "gated": false
     },
     "cluster_id": "451d27ef87d649a4",
@@ -68,7 +2347,7 @@
     "importance_level": "LOW",
     "trend_score": 48,
     "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
+    "trend_basis": "history-compared",
     "ai": {
       "summary_en": "Vxtzq/Crowd-v1 (MODEL) via Hugging Face. Tags: text-generation, ia, dataset:openbmb/Ultra-FineWeb-L3, dataset:HuggingFaceFW/fineweb, dataset:Vxtzq/CrowdGPT",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: Vxtzq/Crowd-v1 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
@@ -179,8 +2458,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "maksymK4198/29a4c87b03c6047e (MODEL) via Hugging Face. Tags: transformers, safetensors, qwen3_5_moe_text, text-generation, affine",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: maksymK4198/29a4c87b03c6047e عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "maksymK4198/29a4c87b03c6047e — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: maksymK4198/29a4c87b03c6047e ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "maksymK4198/29a4c87b03c6047e â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: transformers, safetensors, qwen3_5_moe_text, text-generation, affine",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -244,7 +2523,7 @@
       "downloads": 0,
       "pipeline_tag": "robotics",
       "library": "",
-      "last_modified": "2026-09-29T10:39:11.000Z",
+      "last_modified": "2026-09-29T11:08:43.000Z",
       "gated": false
     },
     "cluster_id": "34f2fc875b10515c",
@@ -284,7 +2563,7 @@
     "importance_level": "LOW",
     "trend_score": 40,
     "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
+    "trend_basis": "history-compared",
     "ai": {
       "summary_en": "happyhappy-jun/iclr2027-unused-checkpoint-archive-20260929 (MODEL) via Hugging Face. Tags: safetensors, robotics, robocasa, checkpoint-archive, gr00t",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: happyhappy-jun/iclr2027-unused-checkpoint-archive-20260929 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
@@ -386,8 +2665,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "14A4/suaGCRpE9Iu45azz (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: 14A4/suaGCRpE9Iu45azz عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "14A4/suaGCRpE9Iu45azz — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: 14A4/suaGCRpE9Iu45azz ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "14A4/suaGCRpE9Iu45azz â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -486,8 +2765,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "VMuccio/smolvla_rgb_freeze_g (MODEL) via Hugging Face. Tags: safetensors, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: VMuccio/smolvla_rgb_freeze_g عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "VMuccio/smolvla_rgb_freeze_g — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: VMuccio/smolvla_rgb_freeze_g ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "VMuccio/smolvla_rgb_freeze_g â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -585,8 +2864,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "hongwinner/minimind-checkpoints (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: hongwinner/minimind-checkpoints عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "hongwinner/minimind-checkpoints — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: hongwinner/minimind-checkpoints ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "hongwinner/minimind-checkpoints â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -686,8 +2965,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "artoowang/hf-audio-wav2vec2-bert-CV16-en-finetune (MODEL) via Hugging Face. Tags: safetensors, wav2vec2-bert, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: artoowang/hf-audio-wav2vec2-bert-CV16-en-finetune عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "artoowang/hf-audio-wav2vec2-bert-CV16-en-finetune — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: artoowang/hf-audio-wav2vec2-bert-CV16-en-finetune ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "artoowang/hf-audio-wav2vec2-bert-CV16-en-finetune â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, wav2vec2-bert, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -785,8 +3064,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "asaishu/WAMU_v3_WAN2.2_I2V_ComfyUI_fp8 (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: asaishu/WAMU_v3_WAN2.2_I2V_ComfyUI_fp8 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "asaishu/WAMU_v3_WAN2.2_I2V_ComfyUI_fp8 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: asaishu/WAMU_v3_WAN2.2_I2V_ComfyUI_fp8 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "asaishu/WAMU_v3_WAN2.2_I2V_ComfyUI_fp8 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -852,7 +3131,7 @@
       "downloads": 0,
       "pipeline_tag": "text-generation",
       "library": "transformers",
-      "last_modified": "2026-09-29T10:38:19.000Z",
+      "last_modified": "2026-09-29T11:09:17.000Z",
       "gated": false
     },
     "cluster_id": "ac5c016e8ac3d7fd",
@@ -892,7 +3171,7 @@
     "importance_level": "LOW",
     "trend_score": 40,
     "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
+    "trend_basis": "history-compared",
     "ai": {
       "summary_en": "francesca9805/eng-latn-10mb-after-ppt-Dp-100mb-packed-bfdiso-ckpt500_seed3407 (MODEL) via Hugging Face. Tags: transformers, safetensors, gpt2, text-generation, generated_from_trainer",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: francesca9805/eng-latn-10mb-after-ppt-Dp-100mb-packed-bfdiso-ckpt500_seed3407 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
@@ -994,8 +3273,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "RunningHubAI/rh-qw-checkpoint (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: RunningHubAI/rh-qw-checkpoint عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "RunningHubAI/rh-qw-checkpoint — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: RunningHubAI/rh-qw-checkpoint ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "RunningHubAI/rh-qw-checkpoint â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1096,8 +3375,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "KittyLM/kittylm-qwen3-4b-gguf (MODEL) via Hugging Face. Tags: gguf, endpoints_compatible, region:us, conversational",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: KittyLM/kittylm-qwen3-4b-gguf عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "KittyLM/kittylm-qwen3-4b-gguf — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: KittyLM/kittylm-qwen3-4b-gguf ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "KittyLM/kittylm-qwen3-4b-gguf â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: gguf, endpoints_compatible, region:us, conversational",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1195,8 +3474,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "g-connito/co-archive (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: g-connito/co-archive عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "g-connito/co-archive — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: g-connito/co-archive ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "g-connito/co-archive â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1294,8 +3573,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "yijuchen/Kimi-K3-FP8PTPC (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: yijuchen/Kimi-K3-FP8PTPC عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "yijuchen/Kimi-K3-FP8PTPC — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: yijuchen/Kimi-K3-FP8PTPC ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "yijuchen/Kimi-K3-FP8PTPC â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1402,8 +3681,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "patriotmemory-ai/PMA-1.3-Rosa-256M (MODEL) via Hugging Face. Tags: transformers, safetensors, pma3, patriot-memory, viper-gaming",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: patriotmemory-ai/PMA-1.3-Rosa-256M عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "patriotmemory-ai/PMA-1.3-Rosa-256M — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: patriotmemory-ai/PMA-1.3-Rosa-256M ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "patriotmemory-ai/PMA-1.3-Rosa-256M â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: transformers, safetensors, pma3, patriot-memory, viper-gaming",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1510,8 +3789,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "KartiOS/Karti-Small-Support-9B (MODEL) via Hugging Face. Tags: peft, safetensors, customer-support, fintech, triage",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: KartiOS/Karti-Small-Support-9B عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "KartiOS/Karti-Small-Support-9B — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: KartiOS/Karti-Small-Support-9B ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "KartiOS/Karti-Small-Support-9B â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: peft, safetensors, customer-support, fintech, triage",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1609,8 +3888,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "rizzo2/cyc (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: rizzo2/cyc عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "rizzo2/cyc — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: rizzo2/cyc ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "rizzo2/cyc â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1717,8 +3996,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "WhirlwindAI/MetaNova-1-60M (MODEL) via Hugging Face. Tags: safetensors, metanova_1, causal-lm, language-model, small-language-model",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: WhirlwindAI/MetaNova-1-60M عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "WhirlwindAI/MetaNova-1-60M — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: WhirlwindAI/MetaNova-1-60M ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "WhirlwindAI/MetaNova-1-60M â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, metanova_1, causal-lm, language-model, small-language-model",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1816,8 +4095,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "g-connito/co (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: g-connito/co عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "g-connito/co — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: g-connito/co ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "g-connito/co â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -1872,7 +4151,7 @@
       "downloads": 0,
       "pipeline_tag": "",
       "library": "",
-      "last_modified": "2026-09-29T10:37:50.000Z",
+      "last_modified": "2026-09-29T11:07:56.000Z",
       "gated": false
     },
     "cluster_id": "712c2089d791cfaf",
@@ -2014,8 +4293,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "g-connito/up (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: g-connito/up عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "g-connito/up — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: g-connito/up ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "g-connito/up â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -2075,11 +4354,11 @@
     ],
     "raw_data": {
       "model_id": "mradermacher/Hemmingway-1-Heretic-i1-GGUF",
-      "likes": 0,
+      "likes": 1,
       "downloads": 0,
       "pipeline_tag": "",
       "library": "transformers",
-      "last_modified": "2026-09-29T10:37:46.000Z",
+      "last_modified": "2026-09-29T11:09:43.000Z",
       "gated": false
     },
     "cluster_id": "e9100127177b08cf",
@@ -2221,8 +4500,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "atelasi/mzs01 (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: atelasi/mzs01 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "atelasi/mzs01 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: atelasi/mzs01 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "atelasi/mzs01 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -3053,7 +5332,7 @@
       "RESEARCH"
     ],
     "description": "Structured span annotations, such as quantities with their units, uncertainty modifiers, and event classes, are expensive to create and hard to keep trustworthy once language models enter the loop. We present QuanReview, an open-source system for auditing and correcting such annotation layers. QuanReview aligns two annotation streams over the same documents at character level, resolves unambiguous cases by an explicit and logged policy, and routes candidate conflicts to a browser-based adjudication interface where reviewers accept either side, build field-level hybrids, or flag items for re-annotation. A campaign manager assigns documents to multiple annotators with configurable redundancy, computes agreement at document and span level, auto-merges unanimous documents, and exports the corrected layer in the original file format, so that it can replace the original annotation files directly. Applied to a 4,457-record humanitarian benchmark and an LLM extraction stream, the system fully auto-merged 8% of documents, applied automatic policy decisions to a further 1,513 records, and concentrated human attention on 3,131 candidate conflicts, a mean of 5.4 per reviewed document.",
-    "author": "Matteo Musacchio, Juan Cruz Giner Pulero, Isabel Castañeda, Naomi Couriel, Yelena Mejova",
+    "author": "Matteo Musacchio, Juan Cruz Giner Pulero, Isabel Castaأ±eda, Naomi Couriel, Yelena Mejova",
     "tags": [
       "cs.CL"
     ],
@@ -3161,7 +5440,7 @@
       "downloads": 2216,
       "pipeline_tag": "",
       "library": "",
-      "last_modified": "2026-09-29T10:38:19.000Z",
+      "last_modified": "2026-09-29T11:09:05.000Z",
       "gated": false
     },
     "cluster_id": "931b2677acbcd7be",
@@ -3303,8 +5582,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "danieledaccordo/HAReW (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: danieledaccordo/HAReW عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "danieledaccordo/HAReW — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: danieledaccordo/HAReW ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "danieledaccordo/HAReW â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -3404,8 +5683,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "devpotatopotato/qwen3-8b-sft-260928-bigmath-hard-gpt-oss-120b-epoch-6 (MODEL) via Hugging Face. Tags: safetensors, qwen3, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: devpotatopotato/qwen3-8b-sft-260928-bigmath-hard-gpt-oss-120b-epoch-6 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "devpotatopotato/qwen3-8b-sft-260928-bigmath-hard-gpt-oss-120b-epoch-6 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: devpotatopotato/qwen3-8b-sft-260928-bigmath-hard-gpt-oss-120b-epoch-6 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "devpotatopotato/qwen3-8b-sft-260928-bigmath-hard-gpt-oss-120b-epoch-6 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, qwen3, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -3503,8 +5782,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "Mohith202/img-sr-ckpts (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Mohith202/img-sr-ckpts عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "Mohith202/img-sr-ckpts — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: Mohith202/img-sr-ckpts ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "Mohith202/img-sr-ckpts â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -3607,8 +5886,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "yusukewwf/albef-experiment (MODEL) via Hugging Face. Tags: safetensors, albef, pytorch, retrieval, license:bsd-3-clause",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: yusukewwf/albef-experiment عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "yusukewwf/albef-experiment — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: yusukewwf/albef-experiment ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "yusukewwf/albef-experiment â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, albef, pytorch, retrieval, license:bsd-3-clause",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -3709,8 +5988,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "arunmcops/FinanceParam-GGUF (MODEL) via Hugging Face. Tags: gguf, endpoints_compatible, region:us, conversational",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: arunmcops/FinanceParam-GGUF عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "arunmcops/FinanceParam-GGUF — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: arunmcops/FinanceParam-GGUF ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "arunmcops/FinanceParam-GGUF â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: gguf, endpoints_compatible, region:us, conversational",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -3810,8 +6089,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "gradients-io-tournaments/tournament-tourn_c8068e356b7c22c8_20260928-295abe7a-d722-4ec4-b7ce-5183c45cb022-5FtF14uZ (MODEL) via Hugging Face. Tags: safetensors, qwen2, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: gradients-io-tournaments/tournament-tourn_c8068e356b7c22c8_20260928-295abe7a-d722-4ec4-b7ce-5183c45cb022-5FtF14uZ عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "gradients-io-tournaments/tournament-tourn_c8068e356b7c22c8_20260928-295abe7a-d722-4ec4-b7ce-5183c45cb022-5FtF14uZ — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: gradients-io-tournaments/tournament-tourn_c8068e356b7c22c8_20260928-295abe7a-d722-4ec4-b7ce-5183c45cb022-5FtF14uZ ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "gradients-io-tournaments/tournament-tourn_c8068e356b7c22c8_20260928-295abe7a-d722-4ec4-b7ce-5183c45cb022-5FtF14uZ â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, qwen2, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -3918,8 +6197,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "cstr/uni-mumer-qwen3-vl-2b-GGUF (MODEL) via Hugging Face. Tags: gguf, math-ocr, handwritten-math, latex, hmer",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: cstr/uni-mumer-qwen3-vl-2b-GGUF عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "cstr/uni-mumer-qwen3-vl-2b-GGUF — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: cstr/uni-mumer-qwen3-vl-2b-GGUF ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "cstr/uni-mumer-qwen3-vl-2b-GGUF â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: gguf, math-ocr, handwritten-math, latex, hmer",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4028,8 +6307,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "leapshared/Redox_131epi_subtask_pi05 (MODEL) via Hugging Face. Tags: lerobot, safetensors, robotics, pi05, dataset:leapshared/Redox_131epi_subtask",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: leapshared/Redox_131epi_subtask_pi05 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "leapshared/Redox_131epi_subtask_pi05 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: leapshared/Redox_131epi_subtask_pi05 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "leapshared/Redox_131epi_subtask_pi05 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: lerobot, safetensors, robotics, pi05, dataset:leapshared/Redox_131epi_subtask",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4138,8 +6417,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "ujheo/my_policy (MODEL) via Hugging Face. Tags: lerobot, safetensors, act, robotics, dataset:ujheo/pen5_20260929_164816",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: ujheo/my_policy عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "ujheo/my_policy — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: ujheo/my_policy ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "ujheo/my_policy â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: lerobot, safetensors, act, robotics, dataset:ujheo/pen5_20260929_164816",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4238,8 +6517,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "SurjoLabs/Surjo-50m-mix7 (MODEL) via Hugging Face. Tags: safetensors, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: SurjoLabs/Surjo-50m-mix7 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "SurjoLabs/Surjo-50m-mix7 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: SurjoLabs/Surjo-50m-mix7 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "SurjoLabs/Surjo-50m-mix7 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4346,8 +6625,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "xay2001/dreamlite-android (MODEL) via Hugging Face. Tags: onnxruntime, onnx, dreamlite, android, experimental",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: xay2001/dreamlite-android عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "xay2001/dreamlite-android — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: xay2001/dreamlite-android ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "xay2001/dreamlite-android â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: onnxruntime, onnx, dreamlite, android, experimental",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4448,8 +6727,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "AgafonovArtem/bert-finetuned-ner (MODEL) via Hugging Face. Tags: tensorboard, safetensors, bert, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: AgafonovArtem/bert-finetuned-ner عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "AgafonovArtem/bert-finetuned-ner — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: AgafonovArtem/bert-finetuned-ner ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "AgafonovArtem/bert-finetuned-ner â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: tensorboard, safetensors, bert, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4550,8 +6829,8 @@
     "trend_basis": "history-compared",
     "ai": {
       "summary_en": "RunningHubAI/rh-krea2-lora-2093412005783814146 (MODEL) via Hugging Face. Tags: comfyui, lora, image-text-to-image, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: RunningHubAI/rh-krea2-lora-2093412005783814146 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "RunningHubAI/rh-krea2-lora-2093412005783814146 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: RunningHubAI/rh-krea2-lora-2093412005783814146 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "RunningHubAI/rh-krea2-lora-2093412005783814146 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: comfyui, lora, image-text-to-image, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4657,8 +6936,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "DanKau/von-1.2-onnx (MODEL) via Hugging Face. Tags: onnx, text-classification, zero-shot-classification, modernbert, decision-model",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: DanKau/von-1.2-onnx عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "DanKau/von-1.2-onnx — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: DanKau/von-1.2-onnx ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "DanKau/von-1.2-onnx â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: onnx, text-classification, zero-shot-classification, modernbert, decision-model",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4756,8 +7035,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "Attila115/co153 (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Attila115/co153 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "Attila115/co153 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: Attila115/co153 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "Attila115/co153 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4855,8 +7134,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "Attila115/co142 (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Attila115/co142 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "Attila115/co142 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: Attila115/co142 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "Attila115/co142 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -4954,8 +7233,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "Attila115/co106 (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Attila115/co106 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "Attila115/co106 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: Attila115/co106 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "Attila115/co106 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -5053,8 +7332,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "tntprojects/archivos (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: tntprojects/archivos عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "tntprojects/archivos — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: tntprojects/archivos ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "tntprojects/archivos â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -5152,8 +7431,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "Attila115/co113 (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Attila115/co113 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "Attila115/co113 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: Attila115/co113 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "Attila115/co113 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -5251,8 +7530,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "Attila115/co152 (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Attila115/co152 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "Attila115/co152 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: Attila115/co152 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "Attila115/co152 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -5350,8 +7629,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "Attila115/co105 (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Attila115/co105 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "Attila115/co105 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: Attila115/co105 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "Attila115/co105 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -5460,8 +7739,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "blue-machines/tundra-mimi-encoder (MODEL) via Hugging Face. Tags: transformers, audio, speech, codec, mimi",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: blue-machines/tundra-mimi-encoder عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "blue-machines/tundra-mimi-encoder — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: blue-machines/tundra-mimi-encoder ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "blue-machines/tundra-mimi-encoder â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: transformers, audio, speech, codec, mimi",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -5516,7 +7795,7 @@
       "downloads": 0,
       "pipeline_tag": "",
       "library": "",
-      "last_modified": "2026-09-29T10:36:41.000Z",
+      "last_modified": "2026-09-29T11:09:22.000Z",
       "gated": false
     },
     "cluster_id": "29abb03f3fcc7829",
@@ -5556,7 +7835,7 @@
     "importance_level": "LOW",
     "trend_score": 40,
     "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
+    "trend_basis": "history-compared",
     "ai": {
       "summary_en": "mmknnk/star-checkpoints (MODEL) via Hugging Face. Tags: region:us",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: mmknnk/star-checkpoints عبر Hugging Face. يمكن تجربته: Hugging Face model page",
@@ -5659,8 +7938,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "SurjoLabs/Surjo-50m-mix10 (MODEL) via Hugging Face. Tags: safetensors, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: SurjoLabs/Surjo-50m-mix10 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "SurjoLabs/Surjo-50m-mix10 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: SurjoLabs/Surjo-50m-mix10 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "SurjoLabs/Surjo-50m-mix10 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -5763,8 +8042,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "yinita/ps4mas-rl-checkpoints (MODEL) via Hugging Face. Tags: peft, safetensors, text-generation, base_model:Qwen/Qwen3.5-4B, base_model:adapter:Qwen/Qwen3.5-4B",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: yinita/ps4mas-rl-checkpoints عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "yinita/ps4mas-rl-checkpoints — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: yinita/ps4mas-rl-checkpoints ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "yinita/ps4mas-rl-checkpoints â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: peft, safetensors, text-generation, base_model:Qwen/Qwen3.5-4B, base_model:adapter:Qwen/Qwen3.5-4B",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -5820,7 +8099,7 @@
       "downloads": 0,
       "pipeline_tag": "",
       "library": "",
-      "last_modified": "2026-09-29T10:36:27.000Z",
+      "last_modified": "2026-09-29T11:08:33.000Z",
       "gated": false
     },
     "cluster_id": "cb56ab7e4375ecb5",
@@ -5860,7 +8139,7 @@
     "importance_level": "LOW",
     "trend_score": 40,
     "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
+    "trend_basis": "history-compared",
     "ai": {
       "summary_en": "190305phan/llie (MODEL) via Hugging Face. Tags: license:apache-2.0, region:us",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: 190305phan/llie عبر Hugging Face. يمكن تجربته: Hugging Face model page",
@@ -5962,8 +8241,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "alexHeihei/ym (MODEL) via Hugging Face. Tags: region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: alexHeihei/ym عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "alexHeihei/ym — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: alexHeihei/ym ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "alexHeihei/ym â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -6062,8 +8341,8 @@
     "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "SurjoLabs/Surjo-50m-mix9 (MODEL) via Hugging Face. Tags: safetensors, region:us",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: SurjoLabs/Surjo-50m-mix9 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "SurjoLabs/Surjo-50m-mix9 — reported by Hugging Face.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: SurjoLabs/Surjo-50m-mix9 ط¹ط¨ط± Hugging Face. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: Hugging Face model page",
+      "what": "SurjoLabs/Surjo-50m-mix9 â€” reported by Hugging Face.",
       "why": "Categorized as MODEL with importance 30/100: Published in last 24h; Free demo available",
       "whats_new": "Tags: safetensors, region:us",
       "who": "AI builders, students, and content creators following open AI releases.",
@@ -6594,7 +8873,7 @@
     "id": "8c81b5f3773d84a2",
     "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
     "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-    "source": "YouTube · Example AI Channel",
+    "source": "YouTube آ· Example AI Channel",
     "source_type": "youtube",
     "published_at": "2026-09-15T10:12:34+00:00",
     "discovered_at": "2026-09-29T10:37:48+00:00",
@@ -6694,7 +8973,7 @@
       "API",
       "TOOL"
     ],
-    "description": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+    "description": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop â€” all through one unified, production-ready inference API.",
     "author": "xorbitsai",
     "tags": [
       "Python"
@@ -6748,11 +9027,11 @@
     "trend_status": "RISING",
     "trend_basis": "history-compared",
     "ai": {
-      "summary_en": "xorbitsai/inference (MODEL) via GitHub. Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: xorbitsai/inference عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "xorbitsai/inference — reported by GitHub.",
+      "summary_en": "xorbitsai/inference (MODEL) via GitHub. Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop â€” all through one unified, production-ready inference API.",
+      "summary_ar": "ط±طµط¯ ط±ط§ط¯ط§ط± ط§ظ„ط°ظƒط§ط، ط§ظ„ط§طµط·ظ†ط§ط¹ظٹ: xorbitsai/inference ط¹ط¨ط± GitHub. ظٹظ…ظƒظ† طھط¬ط±ط¨طھظ‡: GitHub repo (code + setup)",
+      "what": "xorbitsai/inference â€” reported by GitHub.",
       "why": "Categorized as MODEL with importance 51/100: Published in last 24h; 9,593 GitHub stars; Open-source",
-      "whats_new": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "whats_new": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop â€” all through one unified, production-ready inference API.",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
       "content_score": 57,
@@ -6782,119 +9061,6 @@
       "tutorial_angle": "Beginner setup guide: from zero to first working result with xorbitsai/inference.",
       "comparison_angle": "xorbitsai/inference vs the best-known alternative on the same task, same prompts.",
       "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "c194f8bd50b7a465",
-    "title": "XYZ-7B — open LLM release",
-    "url": "https://huggingface.co/example/xyz-7b",
-    "source": "Hugging Face",
-    "source_type": "huggingface",
-    "published_at": "2026-09-29T10:26:05+00:00",
-    "discovered_at": "2026-09-29T10:26:05+00:00",
-    "category": "MODEL",
-    "subcategories": [
-      "TUTORIAL",
-      "OPEN_SOURCE"
-    ],
-    "description": "Open-weights 7B chat model with Apache 2.0 license. Demo space available.",
-    "author": "example",
-    "tags": [
-      "llm",
-      "open weights",
-      "open-source",
-      "python",
-      "tutorial",
-      "video"
-    ],
-    "raw_data": {
-      "likes": 850,
-      "downloads": 45000,
-      "model_id": "example/xyz-7b",
-      "stars": 3200,
-      "forks": 300,
-      "language": "Python",
-      "thumbnail": ""
-    },
-    "cluster_id": "c194f8bd50b7a465",
-    "merged_sources": [
-      "GitHub",
-      "Hugging Face",
-      "YouTube · Example AI Channel"
-    ],
-    "merged_urls": [
-      "https://huggingface.co/example/xyz-7b",
-      "https://github.com/example/xyz-inference",
-      "https://www.youtube.com/watch?v=demo1234567"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "Hugging Face model page",
-          "type": "huggingface_model",
-          "url": "https://huggingface.co/example/xyz-7b",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "DIFFICULT",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "EASY",
-        "params_b": 7.0
-      },
-      "note": ""
-    },
-    "importance_score": 78,
-    "importance_reasons": [
-      "Published in last 24h",
-      "Detected in 3 sources",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "HIGH",
-    "trend_score": 84,
-    "trend_status": "VIRAL",
-    "trend_basis": "single-run-signal",
-    "ai": {
-      "summary_en": "XYZ-7B — open LLM release (MODEL) via Hugging Face. Open-weights 7B chat model with Apache 2.0 license. Demo space available.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: XYZ-7B — open LLM release عبر Hugging Face. يمكن تجربته: Hugging Face model page",
-      "what": "XYZ-7B — open LLM release — reported by Hugging Face.",
-      "why": "Categorized as MODEL with importance 78/100: Published in last 24h; Detected in 3 sources; Open-source",
-      "whats_new": "Open-weights 7B chat model with Apache 2.0 license. Demo space available.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "Hugging Face model page",
-      "content_score": 90,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "COMPARISON"
-      ],
-      "video_titles": [
-        "I tested XYZ-7B — open LLM release so you don't have to",
-        "XYZ-7B — open LLM release explained in 10 minutes",
-        "Is XYZ-7B — open LLM release actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (Hugging Face model page) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 90,
-      "content_angle": "Hands-on look at XYZ-7B — open LLM release: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with XYZ-7B — open LLM release.",
-      "comparison_angle": "XYZ-7B — open LLM release vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-fallback"
     }
   }
 ]
