@@ -69,13 +69,15 @@ def send_message(token: str, chat_id: str, html: str, timeout: int = 20) -> bool
         return False
 
 
-def send_alerts(events: List[Dict], token: str, chat_id: str, min_score: int = 75) -> int:
-    """Send alerts for events >= min_score. Returns count sent."""
-    sent = 0
+def send_alerts(events: List[Dict], token: str, chat_id: str, min_score: int = 75):
+    """Send alerts for events >= min_score. Returns (sent, failed)."""
+    sent = failed = 0
     for ev in sorted(events, key=lambda e: e.get("importance_score", 0), reverse=True):
         if int(ev.get("importance_score", 0) or 0) < min_score:
             continue
         if send_message(token, chat_id, format_alert(ev)):
             sent += 1
             ev["notified"] = True
-    return sent
+        else:
+            failed += 1
+    return sent, failed

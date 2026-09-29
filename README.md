@@ -30,7 +30,7 @@ INTERNET → COLLECTORS → NORMALIZE → DEDUP → CLASSIFY → SCORE → AI AN
 | Storage | `data/*.json` | events, trending, models, sources, state — no DB |
 | Notify | `engine/notifications/telegram.py` | Bot API, threshold-gated |
 | UI | `dashboard/` | static HTML/CSS/JS, `localStorage` saves |
-| Schedule | `.github/workflows/radar.yml` | every 30 min, commits JSON |
+| Schedule | `.github/workflows/radar.yml` | every 2 hours, commits JSON |
 
 ## 3. Installation
 
@@ -73,8 +73,8 @@ Optional variables (**Settings → Variables**): `TELEGRAM_MIN_SCORE` (default `
 
 ## 8. GitHub Actions
 
-Workflow file: `.github/workflows/radar.yml` (every 30 min + manual dispatch).
-Change schedule: edit the `cron: "*/30 * * * *"` line (e.g. `"*/15 * * * *"`).
+Workflow file: `.github/workflows/radar.yml` (every 2 hours + manual dispatch).
+Change schedule: edit the `cron: "0 */2 * * *"` line (e.g. `"0 */4 * * *"`).
 
 ## 9. GitHub Pages
 

@@ -169,7 +169,9 @@ def main(argv=None) -> int:
         token, chat = cfg["telegram_bot_token"], cfg["telegram_chat_id"]
         if token and chat:
             sendable = [e for e in fresh if int(e.get("importance_score", 0) or 0) >= cfg["telegram_min_score"]]
-            sent = tg.send_alerts(sendable, token, chat, cfg["telegram_min_score"])
+            sent, failed = tg.send_alerts(sendable, token, chat, cfg["telegram_min_score"])
+            if failed:
+                log("WARNING", f"Telegram: {failed} message(s) failed to send (check token/chat id)")
             if cfg["daily_digest"] and events:
                 tg.send_message(token, chat, tg.format_digest(
                     [e for e in events if int(e.get("importance_score", 0) or 0) >= 60]))
