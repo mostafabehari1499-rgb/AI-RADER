@@ -31,6 +31,9 @@ def find_experiments(ev: Dict) -> Dict:
     options: List[Dict] = []
 
     low = url.lower()
+    if "openrouter.ai/" in low and ev.get("source_type") == "openrouter":
+        label = "OpenRouter (free)" if raw.get("free") else "OpenRouter (paid API)"
+        options.append(_opt(label, "openrouter_model", url))
     if "huggingface.co/spaces/" in low:
         options.append(_opt("Hugging Face Space", "huggingface_space", url))
     elif "huggingface.co/" in low and ev.get("source_type") == "huggingface":

@@ -41,6 +41,15 @@ def classify_event(ev: Dict[str, Any], keywords: Dict[str, List[str]] | None = N
             hits.insert(0, "TOOL")
         else:
             hits.insert(0, "MODEL")
+    if st == "openrouter" and "MODEL" not in hits:
+        hits.insert(0, "MODEL")
+    if st == "civitai":
+        if "VIDEO" not in hits and "video" in text:
+            hits.insert(0, "VIDEO")
+        elif "IMAGE" not in hits:
+            hits.insert(0, "IMAGE")
+    if st in ("hackernews", "reddit") and not hits:
+        hits = ["NEWS"]
 
     if "open-source" in text or "open source" in text or "open weights" in text:
         if "OPEN_SOURCE" not in hits:

@@ -7,7 +7,7 @@ Every collector MUST return a list of Event dicts shaped like this:
   "title": "...",
   "url": "...",
   "source": "github",     # human source name, e.g. "GitHub", "Hugging Face"
-  "source_type": "github|huggingface|youtube|arxiv|rss",
+  "source_type": "github|huggingface|youtube|arxiv|rss|openrouter|civitai|hackernews|reddit",
   "published_at": "...",  # ISO-8601 string (may be "")
   "discovered_at": "...", # ISO-8601 UTC set at collection time
   "category": "...",      # primary category, set by classify.py
@@ -24,7 +24,8 @@ import re
 from datetime import datetime, timezone
 from typing import Any, Dict, List
 
-VALID_SOURCE_TYPES = {"github", "huggingface", "youtube", "arxiv", "rss"}
+VALID_SOURCE_TYPES = {"github", "huggingface", "youtube", "arxiv", "rss",
+                        "openrouter", "civitai", "hackernews", "reddit"}
 
 _WS = re.compile(r"\s+")
 

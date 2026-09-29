@@ -27,7 +27,11 @@ from engine.storage import json_store
 COLLECTORS = [
     ("github", "engine.collectors.github"),
     ("huggingface", "engine.collectors.huggingface"),
+    ("openrouter", "engine.collectors.openrouter"),
     ("arxiv", "engine.collectors.arxiv"),
+    ("civitai", "engine.collectors.civitai"),
+    ("hackernews", "engine.collectors.hackernews"),
+    ("reddit", "engine.collectors.reddit"),
     ("rss", "engine.collectors.rss"),
     ("official_blogs", "engine.collectors.official_blogs"),
     ("youtube", "engine.collectors.youtube"),
@@ -174,7 +178,8 @@ def main(argv=None) -> int:
             sendable = [e for e in fresh if int(e.get("importance_score", 0) or 0) >= cfg["telegram_min_score"]]
             sent, failed = tg.send_alerts(sendable, token, chat, cfg["telegram_min_score"])
             if failed:
-                log("WARNING", f"Telegram: {failed} message(s) failed to send (check token/chat id)")
+                log("WARNING", f"Telegram: {failed} message(s) failed to send")
+                log("WARNING", tg.diagnose(token, chat))
             if cfg["daily_digest"] and events:
                 tg.send_message(token, chat, tg.format_digest(
                     [e for e in events if int(e.get("importance_score", 0) or 0) >= 60]))
