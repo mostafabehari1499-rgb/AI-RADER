@@ -69,6 +69,25 @@ def send_message(token: str, chat_id: str, html: str, timeout: int = 20) -> bool
         return False
 
 
+def diagnose(token: str, chat_id: str, timeout: int = 15) -> str:
+    """Safe diagnosis: validates token via getMe, then reports the exact
+    failure class. NEVER includes secret values in the returned string."""
+    if not token or not chat_id:
+        return "diagnosis: missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID"
+    try:
+        r = requests.get(f"https://api.telegram.org/bot{token}/getMe", timeout=timeout)
+        data = r.json() if r.status_code == 200 else {}
+        if not data.get("ok"):
+            return f"diagnosis: token rejected (http {r.status_code}) — update TELEGRAM_BOT_TOKEN"
+        name = ((data.get("result") or {}).get("username") or "?")
+        # token ok -> probe delivery with an empty-ish harmless ping is avoided;
+        # report chat-side verdict from a dry send attempt is done by caller.
+        return (f"diagnosis: token OK (bot @{name}); "
+                "send failed -> TELEGRAM_CHAT_ID is wrong or bot not started (send it /start)")
+    except Exception as e:
+        return f"diagnosis: network error ({type(e).__name__})"
+
+
 def send_alerts(events: List[Dict], token: str, chat_id: str, min_score: int = 75):
     """Send alerts for events >= min_score. Returns (sent, failed)."""
     sent = failed = 0

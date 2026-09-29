@@ -24,9 +24,29 @@ def _load_yaml(path: Path) -> Dict[str, Any]:
         return yaml.safe_load(f) or {}
 
 
+def _load_dotenv(root: Path) -> None:
+    """Minimal .env loader (no extra dependency). Sets vars missing from env.
+    The .env file is gitignored and never committed."""
+    path = root / ".env"
+    if not path.exists():
+        return
+    try:
+        for line in path.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, val = line.partition("=")
+            key, val = key.strip(), val.strip().strip("'\"")
+            if key and key not in os.environ:
+                os.environ[key] = val
+    except Exception:
+        pass
+
+
 def load_config(root: Path | None = None) -> Dict[str, Any]:
     """Load sources.yaml + categories.yaml + env overrides into one dict."""
     base = root or ROOT
+    _load_dotenv(base)
     sources = _load_yaml(base / "config" / "sources.yaml")
     categories = _load_yaml(base / "config" / "categories.yaml")
 
