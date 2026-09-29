@@ -143,6 +143,7 @@ def main(argv=None) -> int:
     root = Path(cfg["root"])
     state = json_store.load_state(root)
     prev_ids = set(state.get("notified_ids", []))
+    prev_urls = set(state.get("notified_urls", []))
 
     if args.demo:
         log("INFO", "demo mode: generating fake events (no network)")
@@ -158,8 +159,10 @@ def main(argv=None) -> int:
                       max_ai=args.limit_ai)
     events = report["events"]
 
-    # filter already-notified (avoid duplicate Telegram messages across runs)
-    fresh = [e for e in events if e.get("id") not in prev_ids]
+    # filter already-notified (avoid duplicate Telegram messages across runs):
+    # an event is skipped if its id OR its url was ever successfully sent
+    fresh = [e for e in events
+             if e.get("id") not in prev_ids and e.get("url", "") not in prev_urls]
 
     sent = 0
     if args.demo or args.dry_run:
@@ -199,6 +202,7 @@ def main(argv=None) -> int:
         except Exception as e:
             log("WARNING", f"pages mirror failed: {e}")
         notified = prev_ids | {e["id"] for e in events if e.get("notified")}
+        notified_urls = prev_urls | {e.get("url", "") for e in events if e.get("notified") and e.get("url")}
         # lightweight cross-run history: per-event metric snapshots enable
         # measured trend velocity on subsequent runs (no database needed)
         now = datetime.now(timezone.utc).isoformat(timespec="seconds")
@@ -219,6 +223,7 @@ def main(argv=None) -> int:
         state.update({
             "last_run": now,
             "notified_ids": sorted(notified)[-500:],
+            "notified_urls": sorted(notified_urls)[-500:],
             "history": history,
             "last_counts": {"total": report["total"], "unique": len(events),
                             "duplicates": report["duplicates"], "sent": sent},
