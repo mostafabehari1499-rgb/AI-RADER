@@ -88,10 +88,14 @@ def diagnose(token: str, chat_id: str, timeout: int = 15) -> str:
         return f"diagnosis: network error ({type(e).__name__})"
 
 
-def send_alerts(events: List[Dict], token: str, chat_id: str, min_score: int = 75):
-    """Send alerts for events >= min_score. Returns (sent, failed)."""
+def send_alerts(events: List[Dict], token: str, chat_id: str, min_score: int = 75,
+                max_alerts: int = 3):
+    """Send alerts for events >= min_score, newest-important first.
+    Stops after max_alerts (0 = unlimited). Returns (sent, failed)."""
     sent = failed = 0
     for ev in sorted(events, key=lambda e: e.get("importance_score", 0), reverse=True):
+        if max_alerts and sent >= max_alerts:
+            break
         if int(ev.get("importance_score", 0) or 0) < min_score:
             continue
         if send_message(token, chat_id, format_alert(ev)):

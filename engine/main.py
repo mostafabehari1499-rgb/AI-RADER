@@ -176,7 +176,8 @@ def main(argv=None) -> int:
         token, chat = cfg["telegram_bot_token"], cfg["telegram_chat_id"]
         if token and chat:
             sendable = [e for e in fresh if int(e.get("importance_score", 0) or 0) >= cfg["telegram_min_score"]]
-            sent, failed = tg.send_alerts(sendable, token, chat, cfg["telegram_min_score"])
+            sent, failed = tg.send_alerts(sendable, token, chat, cfg["telegram_min_score"],
+                                            cfg.get("max_alerts_per_run", 3))
             if failed:
                 log("WARNING", f"Telegram: {failed} message(s) failed to send")
                 log("WARNING", tg.diagnose(token, chat))
