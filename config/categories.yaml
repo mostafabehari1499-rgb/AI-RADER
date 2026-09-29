@@ -1,0 +1,63 @@
+# AI RADAR categories + keyword hints for the deterministic classifier.
+# The classifier assigns one primary category + zero or more subcategories.
+
+categories:
+  - MODEL
+  - AGENT
+  - TOOL
+  - RESEARCH
+  - GITHUB
+  - OPEN_SOURCE
+  - VIDEO
+  - IMAGE
+  - AUDIO
+  - CODING
+  - ROBOTICS
+  - MCP
+  - DATASET
+  - BENCHMARK
+  - API
+  - TUTORIAL
+  - NEWS
+  - OTHER
+
+# Lowercase keyword -> categories. First match wins for primary; all matches become subcategories.
+keywords:
+  "mcp": ["MCP", "AGENT", "TOOL"]
+  "model context protocol": ["MCP", "AGENT"]
+  "agent": ["AGENT"]
+  "autonomous": ["AGENT"]
+  "llm": ["MODEL"]
+  "7b": ["MODEL"]
+  "13b": ["MODEL"]
+  "70b": ["MODEL"]
+  "checkpoint": ["MODEL"]
+  "weights": ["MODEL"]
+  "diffusion": ["IMAGE", "MODEL"]
+  "text-to-video": ["VIDEO", "MODEL"]
+  "text to video": ["VIDEO", "MODEL"]
+  "tts": ["AUDIO"]
+  "text-to-speech": ["AUDIO"]
+  "speech": ["AUDIO"]
+  "copilot": ["CODING"]
+  "codegen": ["CODING"]
+  "swe-bench": ["BENCHMARK", "CODING"]
+  "benchmark": ["BENCHMARK"]
+  "dataset": ["DATASET"]
+  "robot": ["ROBOTICS"]
+  "humanoid": ["ROBOTICS"]
+  "tutorial": ["TUTORIAL"]
+  "how to": ["TUTORIAL"]
+  "github": ["GITHUB"]
+  "open source": ["OPEN_SOURCE"]
+  "open-source": ["OPEN_SOURCE"]
+  "open weights": ["OPEN_SOURCE", "MODEL"]
+  "api": ["API"]
+  "arxiv": ["RESEARCH"]
+  "paper": ["RESEARCH"]
+  "rag": ["RESEARCH", "TOOL"]
+  "quantization": ["RESEARCH", "MODEL"]
+  "distillation": ["RESEARCH", "MODEL"]
+  "inference": ["TOOL"]
+  "colab": ["TUTORIAL", "TOOL"]
+  "hugging face space": ["TOOL", "MODEL"]

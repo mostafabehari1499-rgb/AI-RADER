@@ -1,0 +1,104 @@
+# AI RADAR source configuration — edit without touching code.
+# Set enabled: false to skip a source. Priority affects scoring (high/medium/low).
+
+github:
+  enabled: true
+  priority: high
+  # Search queries run against the public GitHub search API (no key required).
+  queries:
+    - "artificial-intelligence stars:>500 pushed:>2026-01-01"
+    - "llm-agent stars:>200 pushed:>2026-01-01"
+    - "mcp-server stars:>100 pushed:>2026-01-01"
+    - "text-to-video stars:>100 pushed:>2026-01-01"
+  per_query_limit: 15
+  timeout: 15
+
+huggingface:
+  enabled: true
+  priority: high
+  # Public HF API, no key required.
+  models_limit: 30
+  spaces_limit: 15
+  timeout: 15
+
+arxiv:
+  enabled: true
+  priority: high
+  queries:
+    - "cat:cs.CL AND (llm OR agent OR rag OR reasoning)"
+    - "cat:cs.CV AND (diffusion OR vision-language OR text-to-video)"
+    - "cat:cs.RO AND (robotics OR embodied)"
+    - "cat:cs.LG AND (distillation OR quantization OR efficient)"
+  max_results: 15
+  timeout: 20
+
+rss:
+  enabled: true
+  priority: medium
+  timeout: 15
+  max_per_feed: 10
+  sources:
+    - name: "OpenAI Blog"
+      url: "https://openai.com/blog/rss.xml"
+      category: "news"
+      enabled: true
+      priority: high
+    - name: "Google Research Blog"
+      url: "https://research.google/blog/rss/"
+      category: "research"
+      enabled: true
+      priority: high
+    - name: "Hugging Face Blog"
+      url: "https://huggingface.co/blog/feed.xml"
+      category: "news"
+      enabled: true
+      priority: high
+    - name: "MIT Technology Review AI"
+      url: "https://www.technologyreview.com/feed/"
+      category: "news"
+      enabled: false
+      priority: medium
+
+official_blogs:
+  enabled: true
+  priority: high
+  timeout: 15
+  max_per_feed: 8
+  sources:
+    # NOTE: labs offer no public RSS, so these track press coverage via
+    # Google News RSS (reliable, keyless). Names say "press" deliberately —
+    # they are NOT official primary sources.
+    - name: "Anthropic — press"
+      url: "https://news.google.com/rss/search?q=Anthropic%20AI%20announcement&hl=en-US&gl=US&ceid=US:en"
+      category: "news"
+      enabled: true
+      priority: high
+      official: false
+    - name: "DeepMind — press"
+      url: "https://news.google.com/rss/search?q=Google%20DeepMind&hl=en-US&gl=US&ceid=US:en"
+      category: "research"
+      enabled: true
+      priority: high
+      official: false
+    - name: "Meta AI — press"
+      url: "https://news.google.com/rss/search?q=Meta%20AI%20announcement&hl=en-US&gl=US&ceid=US:en"
+      category: "research"
+      enabled: true
+      priority: medium
+      official: false
+
+youtube:
+  enabled: true
+  priority: medium
+  timeout: 15
+  max_per_channel: 6
+  # Channel IDs (RSS works with NO api key). Add/remove freely.
+  # Human-friendly names only used for display.
+  channels:
+    - name: "Example AI Channel"
+      channel_id: "UCbfYPyITQ-7l4upoX8nvctg"
+      enabled: true
+  # Used only if YOUTUBE_API_KEY is set; otherwise ignored.
+  search_terms:
+    - "new open source LLM"
+    - "AI agent tutorial"

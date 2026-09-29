@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>⚡ AI RADAR — Discover → Understand → Test → Create</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">⚡ AI RADAR</div>
+  <div class="tagline">Discover → Understand → Test → Create</div>
+  <div class="top-actions">
+    <input id="search" type="search" placeholder="Search title, tags, source…" autocomplete="off">
+    <select id="sort">
+      <option value="newest">Newest</option>
+      <option value="important">Most Important</option>
+      <option value="trending">Trending</option>
+      <option value="content">Content Opportunity</option>
+    </select>
+  </div>
+</header>
+
+<nav id="filters" class="filters"></nav>
+<main>
+  <div id="stats" class="stats"></div>
+  <div id="grid" class="grid"></div>
+  <div id="empty" class="empty" hidden>No events match. Try another filter or run the radar.</div>
+</main>
+
+<div id="modal" class="modal" hidden>
+  <div class="modal-card">
+    <button id="modal-close" class="modal-close">✕</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<footer class="footer">AI RADAR · static dashboard · data from <code>data/events.json</code> · saved items live in your browser</footer>
+<script src="app.js"></script>
+</body>
+</html>

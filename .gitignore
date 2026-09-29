@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+*.log
+# NOTE: data/state.json is intentionally COMMITTED (not ignored) so GitHub
+# Actions runs remember notified event IDs and history across runs.
+# It contains no secrets — only timestamps, counts and public metrics.

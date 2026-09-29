@@ -1,0 +1,45 @@
+name: AI RADAR
+
+# Runs every 2 hours (12x/day). ~1 min/run ≈ 360 min/month — well inside
+# the GitHub free tier (2000 min/month). Tighten to "0 */4 * * *" (6x/day)
+# if you want even more headroom, or "*/30 * * * *" only for testing.
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"   # cache deps -> each run ~40-60s instead of ~2 min
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MIN_SCORE: ${{ vars.TELEGRAM_MIN_SCORE || '75' }}
+          DAILY_DIGEST: ${{ vars.DAILY_DIGEST || 'false' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.0-flash' }}
+          RETENTION_DAYS: ${{ vars.RETENTION_DAYS || '90' }}
+        run: python -m engine.main
+
+      - name: Commit updated data
+        run: |
+          git config user.name "ai-radar-bot"
+          git config user.email "ai-radar-bot@users.noreply.github.com"
+          git add data/ dashboard/data/
+          git diff --cached --quiet || git commit -m "radar update $(date -u +%FT%TZ)"
+          git push
