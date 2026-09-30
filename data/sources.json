@@ -1,12 +1,12 @@
 {
   "reddit": "disabled",
-  "youtube": "ok",
-  "huggingface": "ok",
-  "civitai": "ok",
   "openrouter": "ok",
+  "huggingface": "ok",
+  "youtube": "ok",
+  "civitai": "ok",
   "rss": "ok",
   "arxiv": "ok",
-  "official_blogs": "ok",
   "github": "ok",
-  "hackernews": "ok"
+  "hackernews": "ok",
+  "official_blogs": "Anthropic — press: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Anthropic%20AI%20announcement&hl=en-US&gl=US&ceid=US:en; DeepMind — press: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Google%20DeepMind&hl=en-US&gl=US&ceid=US:en; Meta AI — press: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Meta%20AI%20announcement&hl=en-US&gl=US&ceid=US:en"
 }
