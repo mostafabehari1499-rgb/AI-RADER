@@ -1,12 +1,12 @@
 {
   "reddit": "disabled",
   "openrouter": "ok",
-  "youtube": "ok",
-  "civitai": "ok",
   "huggingface": "ok",
+  "youtube": "Example AI Channel: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+  "civitai": "ok",
   "rss": "ok",
   "official_blogs": "ok",
-  "arxiv": "ok",
-  "github": "ok",
-  "hackernews": "ok"
+  "github": "rate-limited",
+  "hackernews": "ok",
+  "arxiv": "query failed: 429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.CL+AND+%28llm+OR+agent+OR+rag+OR+reasoning%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20); query failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.RO+AND+%28robotics+OR+embodied%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"
 }
