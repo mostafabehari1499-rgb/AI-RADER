@@ -1,12 +1,12 @@
 {
   "reddit": "disabled",
   "openrouter": "ok",
-  "youtube": "ok",
-  "huggingface": "ok",
   "civitai": "ok",
+  "huggingface": "ok",
+  "youtube": "ok",
   "rss": "ok",
   "official_blogs": "ok",
-  "arxiv": "ok",
+  "hackernews": "ok",
   "github": "ok",
-  "hackernews": "ok"
+  "arxiv": "query failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.CL+AND+%28llm+OR+agent+OR+rag+OR+reasoning%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.CV+AND+%28diffusion+OR+vision-language+OR+text-to-video%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20); query failed: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"
 }
