@@ -1,5 +1,105 @@
 [
   {
+    "id": "931b2677acbcd7be",
+    "title": "Gugu8/L-CED-15B",
+    "url": "https://huggingface.co/Gugu8/L-CED-15B",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-10-08T22:33:56.000Z",
+    "discovered_at": "2026-10-08T22:34:20+00:00",
+    "category": "MODEL",
+    "subcategories": [],
+    "description": "Tags: l_ced_moe, region:us",
+    "author": "Gugu8",
+    "tags": [
+      "l_ced_moe",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "Gugu8/L-CED-15B",
+      "likes": 0,
+      "downloads": 10761,
+      "pipeline_tag": "",
+      "library": "",
+      "last_modified": "2026-10-08T22:33:56.000Z",
+      "gated": false
+    },
+    "cluster_id": "931b2677acbcd7be",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/Gugu8/L-CED-15B"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/Gugu8/L-CED-15B",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "NOT PRACTICAL",
+        "ram8": "NOT PRACTICAL",
+        "vram8": "NOT PRACTICAL",
+        "vram16": "DIFFICULT",
+        "cloud_demo": "POSSIBLE",
+        "params_b": 15.0
+      },
+      "note": ""
+    },
+    "importance_score": 36,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Free demo available"
+    ],
+    "importance_level": "LOW",
+    "trend_score": 56,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "Gugu8/L-CED-15B (MODEL) via Hugging Face. Tags: l_ced_moe, region:us",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: Gugu8/L-CED-15B عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "Gugu8/L-CED-15B — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 36/100: Published in last 24h; Free demo available",
+      "whats_new": "Tags: l_ced_moe, region:us",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 42,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "COMPARISON"
+      ],
+      "video_titles": [
+        "I tested Gugu8/L-CED-15B so you don't have to",
+        "Gugu8/L-CED-15B explained in 10 minutes",
+        "Is Gugu8/L-CED-15B actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (Hugging Face model page) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at Gugu8/L-CED-15B: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with Gugu8/L-CED-15B.",
+      "comparison_angle": "Gugu8/L-CED-15B vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
     "id": "6c3f995a2e7d12f4",
     "title": "Louis-CFM/coucou",
     "url": "https://github.com/Louis-CFM/coucou",
@@ -201,6 +301,215 @@
       "tutorial_angle": "Beginner setup guide: from zero to first working result with Ebony-Vinyl/dsh-our-free-model.",
       "comparison_angle": "Ebony-Vinyl/dsh-our-free-model vs the best-known alternative on the same task, same prompts.",
       "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "85ee7a3aef761044",
+    "title": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T22:27:05Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "AGENT",
+    "subcategories": [
+      "GITHUB",
+      "RESEARCH",
+      "TOOL",
+      "OPEN_SOURCE"
+    ],
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "author": "ruvnet",
+    "tags": [
+      "TypeScript"
+    ],
+    "raw_data": {
+      "stars": 74139,
+      "forks": 8811,
+      "language": "TypeScript",
+      "open_issues": 1011,
+      "updated_at": "2026-10-08T22:17:43Z",
+      "pushed_at": "2026-10-08T22:27:05Z"
+    },
+    "cluster_id": "85ee7a3aef761044",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/ruvnet/ruflo"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 55,
+    "importance_reasons": [
+      "Published in last 24h",
+      "74,139 GitHub stars",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 55,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "ruvnet/ruflo (AGENT) via GitHub. 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG int",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: ruvnet/ruflo عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "ruvnet/ruflo — reported by GitHub.",
+      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 74,139 GitHub stars; Open-source",
+      "whats_new": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 61,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested ruvnet/ruflo so you don't have to",
+        "ruvnet/ruflo explained in 10 minutes",
+        "Is ruvnet/ruflo actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at ruvnet/ruflo: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with ruvnet/ruflo.",
+      "comparison_angle": "ruvnet/ruflo vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "f22dd7c1d692e7c4",
+    "title": "invoke-ai/InvokeAI",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T22:13:13Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "IMAGE",
+    "subcategories": [
+      "MODEL",
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+    "author": "invoke-ai",
+    "tags": [
+      "TypeScript"
+    ],
+    "raw_data": {
+      "stars": 28473,
+      "forks": 3009,
+      "language": "TypeScript",
+      "open_issues": 333,
+      "updated_at": "2026-10-08T22:13:20Z",
+      "pushed_at": "2026-10-08T22:13:13Z"
+    },
+    "cluster_id": "f22dd7c1d692e7c4",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/invoke-ai/InvokeAI"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/invoke-ai/InvokeAI",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 55,
+    "importance_reasons": [
+      "Published in last 24h",
+      "28,473 GitHub stars",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 55,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "invoke-ai/InvokeAI (IMAGE) via GitHub. Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an indu",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: invoke-ai/InvokeAI عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "invoke-ai/InvokeAI — reported by GitHub.",
+      "why": "Categorized as IMAGE with importance 55/100: Published in last 24h; 28,473 GitHub stars; Open-source",
+      "whats_new": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial product",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 61,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested invoke-ai/InvokeAI so you don't have to",
+        "invoke-ai/InvokeAI explained in 10 minutes",
+        "Is invoke-ai/InvokeAI actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at invoke-ai/InvokeAI: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with invoke-ai/InvokeAI.",
+      "comparison_angle": "invoke-ai/InvokeAI vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
     }
   },
   {
@@ -633,12 +942,12 @@
       "Rust"
     ],
     "raw_data": {
-      "stars": 55078,
-      "forks": 6387,
+      "stars": 55087,
+      "forks": 6388,
       "language": "Rust",
-      "open_issues": 484,
-      "updated_at": "2026-10-08T16:58:02Z",
-      "pushed_at": "2026-10-08T16:53:25Z"
+      "open_issues": 485,
+      "updated_at": "2026-10-08T22:07:36Z",
+      "pushed_at": "2026-10-08T22:16:13Z"
     },
     "cluster_id": "e680cf2570215345",
     "merged_sources": [
@@ -672,7 +981,7 @@
     "importance_score": 55,
     "importance_reasons": [
       "Published in last 24h",
-      "55,078 GitHub stars",
+      "55,087 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
@@ -684,7 +993,7 @@
       "summary_en": "aaif-goose/goose (AGENT) via GitHub. an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: aaif-goose/goose عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "aaif-goose/goose — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 55,078 GitHub stars; Open-source",
+      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 55,087 GitHub stars; Open-source",
       "whats_new": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -837,12 +1146,12 @@
       "TypeScript"
     ],
     "raw_data": {
-      "stars": 90281,
-      "forks": 11947,
+      "stars": 90298,
+      "forks": 11950,
       "language": "TypeScript",
-      "open_issues": 937,
-      "updated_at": "2026-10-08T17:01:33Z",
-      "pushed_at": "2026-10-08T17:01:57Z"
+      "open_issues": 951,
+      "updated_at": "2026-10-08T21:51:31Z",
+      "pushed_at": "2026-10-08T21:49:54Z"
     },
     "cluster_id": "cb43801e6e228815",
     "merged_sources": [
@@ -876,7 +1185,7 @@
     "importance_score": 55,
     "importance_reasons": [
       "Published in last 24h",
-      "90,281 GitHub stars",
+      "90,298 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
@@ -888,7 +1197,7 @@
       "summary_en": "OpenHands/OpenHands (GITHUB) via GitHub. 🙌 OpenHands: AI-Driven Development",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: OpenHands/OpenHands عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "OpenHands/OpenHands — reported by GitHub.",
-      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 90,281 GitHub stars; Open-source",
+      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 90,298 GitHub stars; Open-source",
       "whats_new": "🙌 OpenHands: AI-Driven Development",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -940,12 +1249,12 @@
       "TypeScript"
     ],
     "raw_data": {
-      "stars": 27180,
-      "forks": 5288,
+      "stars": 27183,
+      "forks": 5289,
       "language": "TypeScript",
-      "open_issues": 1380,
-      "updated_at": "2026-10-08T16:59:07Z",
-      "pushed_at": "2026-10-08T16:57:52Z"
+      "open_issues": 1358,
+      "updated_at": "2026-10-08T22:32:39Z",
+      "pushed_at": "2026-10-08T22:32:51Z"
     },
     "cluster_id": "953753d9e4209239",
     "merged_sources": [
@@ -979,7 +1288,7 @@
     "importance_score": 55,
     "importance_reasons": [
       "Published in last 24h",
-      "27,180 GitHub stars",
+      "27,183 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
@@ -991,7 +1300,7 @@
       "summary_en": "vercel/ai (AGENT) via GitHub. The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: vercel/ai عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "vercel/ai — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 27,180 GitHub stars; Open-source",
+      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 27,183 GitHub stars; Open-source",
       "whats_new": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -1042,12 +1351,12 @@
       "Python"
     ],
     "raw_data": {
-      "stars": 67257,
-      "forks": 7386,
+      "stars": 67302,
+      "forks": 7390,
       "language": "Python",
-      "open_issues": 457,
-      "updated_at": "2026-10-08T16:58:54Z",
-      "pushed_at": "2026-10-08T16:42:39Z"
+      "open_issues": 452,
+      "updated_at": "2026-10-08T22:30:42Z",
+      "pushed_at": "2026-10-08T20:39:13Z"
     },
     "cluster_id": "9fe46db2afdcc947",
     "merged_sources": [
@@ -1081,7 +1390,7 @@
     "importance_score": 55,
     "importance_reasons": [
       "Published in last 24h",
-      "67,257 GitHub stars",
+      "67,302 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
@@ -1093,7 +1402,7 @@
       "summary_en": "usestrix/strix (GITHUB) via GitHub. Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: usestrix/strix عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "usestrix/strix — reported by GitHub.",
-      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 67,257 GitHub stars; Open-source",
+      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 67,302 GitHub stars; Open-source",
       "whats_new": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -1145,12 +1454,12 @@
       "TypeScript"
     ],
     "raw_data": {
-      "stars": 29791,
+      "stars": 29790,
       "forks": 3852,
       "language": "TypeScript",
-      "open_issues": 406,
-      "updated_at": "2026-10-08T15:59:03Z",
-      "pushed_at": "2026-10-08T17:00:51Z"
+      "open_issues": 358,
+      "updated_at": "2026-10-08T20:41:13Z",
+      "pushed_at": "2026-10-08T22:27:05Z"
     },
     "cluster_id": "bb25f6526c21af9d",
     "merged_sources": [
@@ -1184,19 +1493,19 @@
     "importance_score": 55,
     "importance_reasons": [
       "Published in last 24h",
-      "29,791 GitHub stars",
+      "29,790 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
     "importance_level": "NORMAL",
     "trend_score": 55,
     "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
+    "trend_basis": "history-compared",
     "ai": {
       "summary_en": "simstudioai/sim (AGENT) via GitHub. Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: simstudioai/sim عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "simstudioai/sim — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 29,791 GitHub stars; Open-source",
+      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 29,790 GitHub stars; Open-source",
       "whats_new": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -2289,12 +2598,12 @@
       "Python"
     ],
     "raw_data": {
-      "stars": 74730,
-      "forks": 5784,
+      "stars": 74750,
+      "forks": 5786,
       "language": "Python",
-      "open_issues": 372,
-      "updated_at": "2026-10-08T17:01:01Z",
-      "pushed_at": "2026-10-08T16:46:38Z"
+      "open_issues": 379,
+      "updated_at": "2026-10-08T22:17:15Z",
+      "pushed_at": "2026-10-08T22:30:25Z"
     },
     "cluster_id": "964c27a889386458",
     "merged_sources": [
@@ -2328,7 +2637,7 @@
     "importance_score": 47,
     "importance_reasons": [
       "Published in last 24h",
-      "74,730 GitHub stars",
+      "74,750 GitHub stars",
       "Free demo available"
     ],
     "importance_level": "NORMAL",
@@ -2339,7 +2648,7 @@
       "summary_en": "headroomlabs-ai/headroom (MCP) via GitHub. Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: headroomlabs-ai/headroom عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "headroomlabs-ai/headroom — reported by GitHub.",
-      "why": "Categorized as MCP with importance 47/100: Published in last 24h; 74,730 GitHub stars; Free demo available",
+      "why": "Categorized as MCP with importance 47/100: Published in last 24h; 74,750 GitHub stars; Free demo available",
       "whats_new": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -2595,12 +2904,12 @@
       "Python"
     ],
     "raw_data": {
-      "stars": 23069,
-      "forks": 1322,
+      "stars": 23071,
+      "forks": 1321,
       "language": "Python",
-      "open_issues": 608,
-      "updated_at": "2026-10-08T16:53:22Z",
-      "pushed_at": "2026-10-08T16:53:11Z"
+      "open_issues": 609,
+      "updated_at": "2026-10-08T20:52:43Z",
+      "pushed_at": "2026-10-08T22:18:31Z"
     },
     "cluster_id": "258174d1184b1e7c",
     "merged_sources": [
@@ -2634,7 +2943,7 @@
     "importance_score": 55,
     "importance_reasons": [
       "Published in last 24h",
-      "23,069 GitHub stars",
+      "23,071 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
@@ -2646,7 +2955,7 @@
       "summary_en": "marimo-team/marimo (GITHUB) via GitHub. A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: marimo-team/marimo عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "marimo-team/marimo — reported by GitHub.",
-      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 23,069 GitHub stars; Open-source",
+      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 23,071 GitHub stars; Open-source",
       "whats_new": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -2680,554 +2989,38 @@
     }
   },
   {
-    "id": "93d21b4d3b9c81a8",
-    "title": "langflow-ai/langflow",
-    "url": "https://github.com/langflow-ai/langflow",
+    "id": "5cecc71877cd1d0a",
+    "title": "WenyuChiou/awesome-agentic-ai-zh",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
     "source": "GitHub",
     "source_type": "github",
-    "published_at": "2026-10-08T00:11:09Z",
-    "discovered_at": "2026-10-08T01:24:24+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-    "author": "langflow-ai",
-    "tags": [
-      "Python"
-    ],
-    "raw_data": {
-      "stars": 155401,
-      "forks": 10189,
-      "language": "Python",
-      "open_issues": 1144,
-      "updated_at": "2026-10-08T17:00:15Z",
-      "pushed_at": "2026-10-08T16:56:01Z"
-    },
-    "cluster_id": "93d21b4d3b9c81a8",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/langflow-ai/langflow"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/langflow-ai/langflow",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 60,
-    "importance_reasons": [
-      "Published in last 24h",
-      "155,401 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "IMPORTANT",
-    "trend_score": 55,
-    "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
-    "ai": {
-      "summary_en": "langflow-ai/langflow (AGENT) via GitHub. Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: langflow-ai/langflow عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "langflow-ai/langflow — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 60/100: Published in last 24h; 155,401 GitHub stars; Open-source",
-      "whats_new": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 66,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested langflow-ai/langflow so you don't have to",
-        "langflow-ai/langflow explained in 10 minutes",
-        "Is langflow-ai/langflow actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at langflow-ai/langflow: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with langflow-ai/langflow.",
-      "comparison_angle": "langflow-ai/langflow vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-fallback"
-    }
-  },
-  {
-    "id": "3dfd11f8900e22f7",
-    "title": "KeygraphHQ/shannon",
-    "url": "https://github.com/KeygraphHQ/shannon",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:21:52Z",
-    "discovered_at": "2026-10-08T01:24:24+00:00",
-    "category": "GITHUB",
-    "subcategories": [
-      "API",
-      "OPEN_SOURCE"
-    ],
-    "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-    "author": "KeygraphHQ",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 48658,
-      "forks": 5572,
-      "language": "TypeScript",
-      "open_issues": 21,
-      "updated_at": "2026-10-08T01:22:04Z",
-      "pushed_at": "2026-10-08T01:21:52Z"
-    },
-    "cluster_id": "3dfd11f8900e22f7",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/KeygraphHQ/shannon"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/KeygraphHQ/shannon",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 55,
-    "importance_reasons": [
-      "Published in last 24h",
-      "48,658 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 55,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "KeygraphHQ/shannon (GITHUB) via GitHub. Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: KeygraphHQ/shannon عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "KeygraphHQ/shannon — reported by GitHub.",
-      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 48,658 GitHub stars; Open-source",
-      "whats_new": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 61,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested KeygraphHQ/shannon so you don't have to",
-        "KeygraphHQ/shannon explained in 10 minutes",
-        "Is KeygraphHQ/shannon actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 70,
-      "content_angle": "Hands-on look at KeygraphHQ/shannon: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with KeygraphHQ/shannon.",
-      "comparison_angle": "KeygraphHQ/shannon vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "ad541a667b8fc794",
-    "title": "google/adk-python",
-    "url": "https://github.com/google/adk-python",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:19:36Z",
-    "discovered_at": "2026-10-08T01:24:24+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-    "author": "google",
-    "tags": [
-      "Python"
-    ],
-    "raw_data": {
-      "stars": 21745,
-      "forks": 4118,
-      "language": "Python",
-      "open_issues": 422,
-      "updated_at": "2026-10-08T16:57:28Z",
-      "pushed_at": "2026-10-08T16:56:53Z"
-    },
-    "cluster_id": "ad541a667b8fc794",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/google/adk-python"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/google/adk-python",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 55,
-    "importance_reasons": [
-      "Published in last 24h",
-      "21,745 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 55,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "google/adk-python (AGENT) via GitHub. An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: google/adk-python عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "google/adk-python — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 21,745 GitHub stars; Open-source",
-      "whats_new": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 61,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested google/adk-python so you don't have to",
-        "google/adk-python explained in 10 minutes",
-        "Is google/adk-python actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at google/adk-python: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with google/adk-python.",
-      "comparison_angle": "google/adk-python vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "08f3db93308dc964",
-    "title": "coleam00/Archon",
-    "url": "https://github.com/coleam00/Archon",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:11:23Z",
-    "discovered_at": "2026-10-08T01:24:24+00:00",
-    "category": "GITHUB",
-    "subcategories": [
-      "OPEN_SOURCE"
-    ],
-    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-    "author": "coleam00",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 23640,
-      "forks": 3495,
-      "language": "TypeScript",
-      "open_issues": 246,
-      "updated_at": "2026-10-08T01:11:31Z",
-      "pushed_at": "2026-10-08T01:11:23Z"
-    },
-    "cluster_id": "08f3db93308dc964",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/coleam00/Archon"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/coleam00/Archon",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 55,
-    "importance_reasons": [
-      "Published in last 24h",
-      "23,640 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 55,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "coleam00/Archon (GITHUB) via GitHub. The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: coleam00/Archon عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "coleam00/Archon — reported by GitHub.",
-      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 23,640 GitHub stars; Open-source",
-      "whats_new": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 61,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested coleam00/Archon so you don't have to",
-        "coleam00/Archon explained in 10 minutes",
-        "Is coleam00/Archon actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 70,
-      "content_angle": "Hands-on look at coleam00/Archon: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with coleam00/Archon.",
-      "comparison_angle": "coleam00/Archon vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "e68a3c60701079f3",
-    "title": "langchain-ai/langgraph",
-    "url": "https://github.com/langchain-ai/langgraph",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-07T23:29:29Z",
-    "discovered_at": "2026-10-08T01:24:24+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "Build resilient agents.",
-    "author": "langchain-ai",
-    "tags": [
-      "Python"
-    ],
-    "raw_data": {
-      "stars": 42875,
-      "forks": 7288,
-      "language": "Python",
-      "open_issues": 798,
-      "updated_at": "2026-10-08T08:05:05Z",
-      "pushed_at": "2026-10-08T07:26:46Z"
-    },
-    "cluster_id": "e68a3c60701079f3",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/langchain-ai/langgraph"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/langchain-ai/langgraph",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 55,
-    "importance_reasons": [
-      "Published in last 24h",
-      "42,875 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 55,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "langchain-ai/langgraph (AGENT) via GitHub. Build resilient agents.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: langchain-ai/langgraph عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "langchain-ai/langgraph — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 42,875 GitHub stars; Open-source",
-      "whats_new": "Build resilient agents.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 61,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested langchain-ai/langgraph so you don't have to",
-        "langchain-ai/langgraph explained in 10 minutes",
-        "Is langchain-ai/langgraph actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at langchain-ai/langgraph: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with langchain-ai/langgraph.",
-      "comparison_angle": "langchain-ai/langgraph vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "85f9c34ee9ac015e",
-    "title": "comet-ml/opik",
-    "url": "https://github.com/comet-ml/opik",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:03:48Z",
-    "discovered_at": "2026-10-08T01:24:21+00:00",
+    "published_at": "2026-10-08T21:06:16Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
     "category": "AGENT",
     "subcategories": [
       "MODEL",
       "GITHUB",
-      "RESEARCH",
-      "TOOL",
       "OPEN_SOURCE"
     ],
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
-    "author": "comet-ml",
+    "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
+    "author": "WenyuChiou",
     "tags": [
       "Python"
     ],
     "raw_data": {
-      "stars": 22450,
-      "forks": 1849,
+      "stars": 7428,
+      "forks": 991,
       "language": "Python",
-      "open_issues": 186,
-      "updated_at": "2026-10-08T16:11:21Z",
-      "pushed_at": "2026-10-08T17:02:05Z"
+      "open_issues": 5,
+      "updated_at": "2026-10-08T21:06:33Z",
+      "pushed_at": "2026-10-08T21:06:16Z"
     },
-    "cluster_id": "85f9c34ee9ac015e",
+    "cluster_id": "5cecc71877cd1d0a",
     "merged_sources": [
       "GitHub"
     ],
     "merged_urls": [
-      "https://github.com/comet-ml/opik"
+      "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
     ],
     "experiment": {
       "can_test_free": true,
@@ -3236,7 +3029,7 @@
         {
           "name": "GitHub repo (code + setup)",
           "type": "github_repo",
-          "url": "https://github.com/comet-ml/opik",
+          "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
           "status": "available"
         }
       ],
@@ -3251,26 +3044,26 @@
       },
       "note": ""
     },
-    "importance_score": 55,
+    "importance_score": 51,
     "importance_reasons": [
       "Published in last 24h",
-      "22,450 GitHub stars",
+      "7,428 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
     "importance_level": "NORMAL",
-    "trend_score": 55,
+    "trend_score": 50,
     "trend_status": "RISING",
-    "trend_basis": "history-compared",
+    "trend_basis": "single-run-signal",
     "ai": {
-      "summary_en": "comet-ml/opik (AGENT) via GitHub. Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: comet-ml/opik عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "comet-ml/opik — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 55/100: Published in last 24h; 22,450 GitHub stars; Open-source",
-      "whats_new": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "summary_en": "WenyuChiou/awesome-agentic-ai-zh (AGENT) via GitHub. A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: WenyuChiou/awesome-agentic-ai-zh عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "WenyuChiou/awesome-agentic-ai-zh — reported by GitHub.",
+      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 7,428 GitHub stars; Open-source",
+      "whats_new": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
-      "content_score": 61,
+      "content_score": 57,
       "content_formats": [
         "LIVE TEST",
         "TUTORIAL",
@@ -3278,9 +3071,9 @@
         "NEWS"
       ],
       "video_titles": [
-        "I tested comet-ml/opik so you don't have to",
-        "comet-ml/opik explained in 10 minutes",
-        "Is comet-ml/opik actually good? Honest test"
+        "I tested WenyuChiou/awesome-agentic-ai-zh so you don't have to",
+        "WenyuChiou/awesome-agentic-ai-zh explained in 10 minutes",
+        "Is WenyuChiou/awesome-agentic-ai-zh actually good? Honest test"
       ],
       "video_angles": [
         "Potentially useful content angle: live first-test + honest verdict.",
@@ -3291,45 +3084,48 @@
         "Compare against one well-known baseline on the same prompt."
       ],
       "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at comet-ml/opik: what it does, who it helps, and whether the free option works.",
+      "content_angle": "Hands-on look at WenyuChiou/awesome-agentic-ai-zh: what it does, who it helps, and whether the free option works.",
       "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
       "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with comet-ml/opik.",
-      "comparison_angle": "comet-ml/opik vs the best-known alternative on the same task, same prompts.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with WenyuChiou/awesome-agentic-ai-zh.",
+      "comparison_angle": "WenyuChiou/awesome-agentic-ai-zh vs the best-known alternative on the same task, same prompts.",
       "ai_model": "deterministic-skipped"
     }
   },
   {
-    "id": "232c6a0b1d6947a0",
-    "title": "koala73/worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
+    "id": "ee2118e3ea323406",
+    "title": "leancoderkavy/premiere-pro-mcp",
+    "url": "https://github.com/leancoderkavy/premiere-pro-mcp",
     "source": "GitHub",
     "source_type": "github",
-    "published_at": "2026-10-08T01:05:54Z",
-    "discovered_at": "2026-10-08T01:24:21+00:00",
-    "category": "GITHUB",
+    "published_at": "2026-10-08T22:20:53Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "MCP",
     "subcategories": [
+      "AGENT",
+      "TOOL",
+      "GITHUB",
       "OPEN_SOURCE"
     ],
-    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "author": "koala73",
+    "description": "Adobe Premiere Pro MCP — independent, local-first server for supported workflows. Connect Claude, Codex, or Cursor through a local CEP bridge.",
+    "author": "leancoderkavy",
     "tags": [
       "TypeScript"
     ],
     "raw_data": {
-      "stars": 88052,
-      "forks": 13435,
+      "stars": 340,
+      "forks": 66,
       "language": "TypeScript",
-      "open_issues": 350,
-      "updated_at": "2026-10-08T16:56:02Z",
-      "pushed_at": "2026-10-08T16:58:35Z"
+      "open_issues": 3,
+      "updated_at": "2026-10-08T22:20:39Z",
+      "pushed_at": "2026-10-08T22:20:53Z"
     },
-    "cluster_id": "232c6a0b1d6947a0",
+    "cluster_id": "ee2118e3ea323406",
     "merged_sources": [
       "GitHub"
     ],
     "merged_urls": [
-      "https://github.com/koala73/worldmonitor"
+      "https://github.com/leancoderkavy/premiere-pro-mcp"
     ],
     "experiment": {
       "can_test_free": true,
@@ -3338,7 +3134,7 @@
         {
           "name": "GitHub repo (code + setup)",
           "type": "github_repo",
-          "url": "https://github.com/koala73/worldmonitor",
+          "url": "https://github.com/leancoderkavy/premiere-pro-mcp",
           "status": "available"
         }
       ],
@@ -3353,26 +3149,25 @@
       },
       "note": ""
     },
-    "importance_score": 55,
+    "importance_score": 43,
     "importance_reasons": [
       "Published in last 24h",
-      "88,052 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
     "importance_level": "NORMAL",
-    "trend_score": 55,
+    "trend_score": 50,
     "trend_status": "RISING",
     "trend_basis": "history-compared",
     "ai": {
-      "summary_en": "koala73/worldmonitor (GITHUB) via GitHub. Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: koala73/worldmonitor عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "koala73/worldmonitor — reported by GitHub.",
-      "why": "Categorized as GITHUB with importance 55/100: Published in last 24h; 88,052 GitHub stars; Open-source",
-      "whats_new": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "summary_en": "leancoderkavy/premiere-pro-mcp (MCP) via GitHub. Adobe Premiere Pro MCP — independent, local-first server for supported workflows. Connect Claude, Codex, or Cursor through a local CEP bridge.",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: leancoderkavy/premiere-pro-mcp عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "leancoderkavy/premiere-pro-mcp — reported by GitHub.",
+      "why": "Categorized as MCP with importance 43/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "Adobe Premiere Pro MCP — independent, local-first server for supported workflows. Connect Claude, Codex, or Cursor through a local CEP bridge.",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
-      "content_score": 61,
+      "content_score": 49,
       "content_formats": [
         "LIVE TEST",
         "TUTORIAL",
@@ -3380,9 +3175,9 @@
         "NEWS"
       ],
       "video_titles": [
-        "I tested koala73/worldmonitor so you don't have to",
-        "koala73/worldmonitor explained in 10 minutes",
-        "Is koala73/worldmonitor actually good? Honest test"
+        "I tested leancoderkavy/premiere-pro-mcp so you don't have to",
+        "leancoderkavy/premiere-pro-mcp explained in 10 minutes",
+        "Is leancoderkavy/premiere-pro-mcp actually good? Honest test"
       ],
       "video_angles": [
         "Potentially useful content angle: live first-test + honest verdict.",
@@ -3393,11 +3188,421 @@
         "Compare against one well-known baseline on the same prompt."
       ],
       "creator_opportunity_score": 70,
-      "content_angle": "Hands-on look at koala73/worldmonitor: what it does, who it helps, and whether the free option works.",
+      "content_angle": "Hands-on look at leancoderkavy/premiere-pro-mcp: what it does, who it helps, and whether the free option works.",
       "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
       "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with koala73/worldmonitor.",
-      "comparison_angle": "koala73/worldmonitor vs the best-known alternative on the same task, same prompts.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with leancoderkavy/premiere-pro-mcp.",
+      "comparison_angle": "leancoderkavy/premiere-pro-mcp vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "c273b2f7b65f73f8",
+    "title": "kyegomez/swarms",
+    "url": "https://github.com/kyegomez/swarms",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T21:46:38Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "AGENT",
+    "subcategories": [
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "author": "kyegomez",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 7237,
+      "forks": 1038,
+      "language": "Python",
+      "open_issues": 298,
+      "updated_at": "2026-10-08T21:46:41Z",
+      "pushed_at": "2026-10-08T21:46:38Z"
+    },
+    "cluster_id": "c273b2f7b65f73f8",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/kyegomez/swarms"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/kyegomez/swarms",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 51,
+    "importance_reasons": [
+      "Published in last 24h",
+      "7,237 GitHub stars",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 50,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "kyegomez/swarms (AGENT) via GitHub. The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: kyegomez/swarms عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "kyegomez/swarms — reported by GitHub.",
+      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 7,237 GitHub stars; Open-source",
+      "whats_new": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 57,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested kyegomez/swarms so you don't have to",
+        "kyegomez/swarms explained in 10 minutes",
+        "Is kyegomez/swarms actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at kyegomez/swarms: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with kyegomez/swarms.",
+      "comparison_angle": "kyegomez/swarms vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "d10a3a6caa412356",
+    "title": "voxel51/fiftyone",
+    "url": "https://github.com/voxel51/fiftyone",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T22:31:58Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "DATASET",
+    "subcategories": [
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "Refine high-quality datasets and visual AI models",
+    "author": "voxel51",
+    "tags": [
+      "TypeScript"
+    ],
+    "raw_data": {
+      "stars": 11160,
+      "forks": 835,
+      "language": "TypeScript",
+      "open_issues": 733,
+      "updated_at": "2026-10-08T21:37:32Z",
+      "pushed_at": "2026-10-08T22:31:58Z"
+    },
+    "cluster_id": "d10a3a6caa412356",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/voxel51/fiftyone"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/voxel51/fiftyone",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 51,
+    "importance_reasons": [
+      "Published in last 24h",
+      "11,160 GitHub stars",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 50,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "voxel51/fiftyone (DATASET) via GitHub. Refine high-quality datasets and visual AI models",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: voxel51/fiftyone عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "voxel51/fiftyone — reported by GitHub.",
+      "why": "Categorized as DATASET with importance 51/100: Published in last 24h; 11,160 GitHub stars; Open-source",
+      "whats_new": "Refine high-quality datasets and visual AI models",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 57,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested voxel51/fiftyone so you don't have to",
+        "voxel51/fiftyone explained in 10 minutes",
+        "Is voxel51/fiftyone actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at voxel51/fiftyone: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with voxel51/fiftyone.",
+      "comparison_angle": "voxel51/fiftyone vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "d9b2bf77c6a64257",
+    "title": "CodeWithCJ/SparkyFitness",
+    "url": "https://github.com/CodeWithCJ/SparkyFitness",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T21:13:51Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "GITHUB",
+    "subcategories": [
+      "OPEN_SOURCE"
+    ],
+    "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+    "author": "CodeWithCJ",
+    "tags": [
+      "TypeScript"
+    ],
+    "raw_data": {
+      "stars": 6266,
+      "forks": 399,
+      "language": "TypeScript",
+      "open_issues": 165,
+      "updated_at": "2026-10-08T21:56:20Z",
+      "pushed_at": "2026-10-08T21:13:51Z"
+    },
+    "cluster_id": "d9b2bf77c6a64257",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/CodeWithCJ/SparkyFitness"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/CodeWithCJ/SparkyFitness",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 51,
+    "importance_reasons": [
+      "Published in last 24h",
+      "6,266 GitHub stars",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 50,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "CodeWithCJ/SparkyFitness (GITHUB) via GitHub. SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: CodeWithCJ/SparkyFitness عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "CodeWithCJ/SparkyFitness — reported by GitHub.",
+      "why": "Categorized as GITHUB with importance 51/100: Published in last 24h; 6,266 GitHub stars; Open-source",
+      "whats_new": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 57,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested CodeWithCJ/SparkyFitness so you don't have to",
+        "CodeWithCJ/SparkyFitness explained in 10 minutes",
+        "Is CodeWithCJ/SparkyFitness actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at CodeWithCJ/SparkyFitness: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with CodeWithCJ/SparkyFitness.",
+      "comparison_angle": "CodeWithCJ/SparkyFitness vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "8fb656f7b803a32b",
+    "title": "kornia/kornia",
+    "url": "https://github.com/kornia/kornia",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T20:34:00Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "GITHUB",
+    "subcategories": [
+      "OPEN_SOURCE"
+    ],
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "author": "kornia",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 11408,
+      "forks": 1374,
+      "language": "Python",
+      "open_issues": 160,
+      "updated_at": "2026-10-08T21:48:44Z",
+      "pushed_at": "2026-10-08T20:34:00Z"
+    },
+    "cluster_id": "8fb656f7b803a32b",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/kornia/kornia"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/kornia/kornia",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 51,
+    "importance_reasons": [
+      "Published in last 24h",
+      "11,408 GitHub stars",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 50,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "kornia/kornia (GITHUB) via GitHub. 🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: kornia/kornia عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "kornia/kornia — reported by GitHub.",
+      "why": "Categorized as GITHUB with importance 51/100: Published in last 24h; 11,408 GitHub stars; Open-source",
+      "whats_new": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 57,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested kornia/kornia so you don't have to",
+        "kornia/kornia explained in 10 minutes",
+        "Is kornia/kornia actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at kornia/kornia: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with kornia/kornia.",
+      "comparison_angle": "kornia/kornia vs the best-known alternative on the same task, same prompts.",
       "ai_model": "deterministic-skipped"
     }
   },
@@ -4872,12 +5077,12 @@
       "Python"
     ],
     "raw_data": {
-      "stars": 17822,
-      "forks": 7608,
+      "stars": 17816,
+      "forks": 7605,
       "language": "Python",
-      "open_issues": 330,
-      "updated_at": "2026-10-08T16:56:50Z",
-      "pushed_at": "2026-10-08T16:49:48Z"
+      "open_issues": 322,
+      "updated_at": "2026-10-08T21:38:23Z",
+      "pushed_at": "2026-10-08T22:05:10Z"
     },
     "cluster_id": "a7dafe1fab7ee1d4",
     "merged_sources": [
@@ -4911,19 +5116,19 @@
     "importance_score": 51,
     "importance_reasons": [
       "Published in last 24h",
-      "17,822 GitHub stars",
+      "17,816 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
     "importance_level": "NORMAL",
     "trend_score": 50,
     "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
+    "trend_basis": "history-compared",
     "ai": {
       "summary_en": "rocketride-org/rocketride-server (AGENT) via GitHub. High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includ",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: rocketride-org/rocketride-server عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "rocketride-org/rocketride-server — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 17,822 GitHub stars; Open-source",
+      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 17,816 GitHub stars; Open-source",
       "whats_new": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -6113,12 +6318,12 @@
       "TypeScript"
     ],
     "raw_data": {
-      "stars": 6083,
-      "forks": 495,
+      "stars": 6084,
+      "forks": 494,
       "language": "TypeScript",
-      "open_issues": 99,
-      "updated_at": "2026-10-08T16:04:12Z",
-      "pushed_at": "2026-10-08T16:52:02Z"
+      "open_issues": 95,
+      "updated_at": "2026-10-08T22:03:42Z",
+      "pushed_at": "2026-10-08T20:32:42Z"
     },
     "cluster_id": "2525b302960593cf",
     "merged_sources": [
@@ -6152,19 +6357,19 @@
     "importance_score": 51,
     "importance_reasons": [
       "Published in last 24h",
-      "6,083 GitHub stars",
+      "6,084 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
     "importance_level": "NORMAL",
     "trend_score": 50,
     "trend_status": "RISING",
-    "trend_basis": "history-compared",
+    "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "truefoundry/trueforge (AGENT) via GitHub. The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: truefoundry/trueforge عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "truefoundry/trueforge — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 6,083 GitHub stars; Open-source",
+      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 6,084 GitHub stars; Open-source",
       "whats_new": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -6322,12 +6527,12 @@
       "Rust"
     ],
     "raw_data": {
-      "stars": 8829,
+      "stars": 8834,
       "forks": 987,
       "language": "Rust",
-      "open_issues": 112,
-      "updated_at": "2026-10-08T08:02:10Z",
-      "pushed_at": "2026-10-08T07:51:14Z"
+      "open_issues": 108,
+      "updated_at": "2026-10-08T20:36:12Z",
+      "pushed_at": "2026-10-08T21:56:53Z"
     },
     "cluster_id": "0626cf7653885e12",
     "merged_sources": [
@@ -6361,19 +6566,19 @@
     "importance_score": 51,
     "importance_reasons": [
       "Published in last 24h",
-      "8,829 GitHub stars",
+      "8,834 GitHub stars",
       "Open-source",
       "Free demo available"
     ],
     "importance_level": "NORMAL",
     "trend_score": 50,
     "trend_status": "RISING",
-    "trend_basis": "history-compared",
+    "trend_basis": "single-run-signal",
     "ai": {
       "summary_en": "0xPlaygrounds/rig (MODEL) via GitHub. ⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "summary_ar": "رصد رادار الذكاء الاصطناعي: 0xPlaygrounds/rig عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
       "what": "0xPlaygrounds/rig — reported by GitHub.",
-      "why": "Categorized as MODEL with importance 51/100: Published in last 24h; 8,829 GitHub stars; Open-source",
+      "why": "Categorized as MODEL with importance 51/100: Published in last 24h; 8,834 GitHub stars; Open-source",
       "whats_new": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "who": "AI builders, students, and content creators following open AI releases.",
       "can_test": "GitHub repo (code + setup)",
@@ -6510,289 +6715,183 @@
     }
   },
   {
-    "id": "5baec92a69d376e4",
-    "title": "awslabs/aidlc-workflows",
-    "url": "https://github.com/awslabs/aidlc-workflows",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:24:12Z",
-    "discovered_at": "2026-10-08T01:24:24+00:00",
-    "category": "AGENT",
+    "id": "620ec0fde53e775e",
+    "title": "Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2]",
+    "url": "https://civitai.com/models/2726952",
+    "source": "Civitai",
+    "source_type": "civitai",
+    "published_at": "2026-10-08T22:08:19.485Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "IMAGE",
     "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-    "author": "awslabs",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 5085,
-      "forks": 921,
-      "language": "TypeScript",
-      "open_issues": 289,
-      "updated_at": "2026-10-08T16:59:34Z",
-      "pushed_at": "2026-10-08T17:00:14Z"
-    },
-    "cluster_id": "5baec92a69d376e4",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/awslabs/aidlc-workflows"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/awslabs/aidlc-workflows",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 51,
-    "importance_reasons": [
-      "Published in last 24h",
-      "5,085 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 50,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "awslabs/aidlc-workflows (AGENT) via GitHub. AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: awslabs/aidlc-workflows عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "awslabs/aidlc-workflows — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 5,085 GitHub stars; Open-source",
-      "whats_new": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 57,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested awslabs/aidlc-workflows so you don't have to",
-        "awslabs/aidlc-workflows explained in 10 minutes",
-        "Is awslabs/aidlc-workflows actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at awslabs/aidlc-workflows: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with awslabs/aidlc-workflows.",
-      "comparison_angle": "awslabs/aidlc-workflows vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "30124532e2d806f6",
-    "title": "EKKOLearnAI/ekko-studio",
-    "url": "https://github.com/EKKOLearnAI/ekko-studio",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:06:18Z",
-    "discovered_at": "2026-10-08T01:24:24+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
-    "author": "EKKOLearnAI",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 11331,
-      "forks": 1386,
-      "language": "TypeScript",
-      "open_issues": 465,
-      "updated_at": "2026-10-08T08:00:07Z",
-      "pushed_at": "2026-10-08T07:59:51Z"
-    },
-    "cluster_id": "30124532e2d806f6",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/EKKOLearnAI/ekko-studio"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/EKKOLearnAI/ekko-studio",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 51,
-    "importance_reasons": [
-      "Published in last 24h",
-      "11,331 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 50,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "EKKOLearnAI/ekko-studio (AGENT) via GitHub. Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: EKKOLearnAI/ekko-studio عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "EKKOLearnAI/ekko-studio — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 11,331 GitHub stars; Open-source",
-      "whats_new": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 57,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested EKKOLearnAI/ekko-studio so you don't have to",
-        "EKKOLearnAI/ekko-studio explained in 10 minutes",
-        "Is EKKOLearnAI/ekko-studio actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at EKKOLearnAI/ekko-studio: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with EKKOLearnAI/ekko-studio.",
-      "comparison_angle": "EKKOLearnAI/ekko-studio vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "08a16499d5c89953",
-    "title": "NirDiamant/Prompt_Engineering",
-    "url": "https://github.com/NirDiamant/Prompt_Engineering",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T00:50:35Z",
-    "discovered_at": "2026-10-08T01:24:24+00:00",
-    "category": "MODEL",
-    "subcategories": [
-      "TUTORIAL",
+      "OPEN_SOURCE",
       "GITHUB",
       "RESEARCH",
-      "TOOL",
-      "OPEN_SOURCE"
+      "TOOL"
     ],
-    "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
-    "author": "NirDiamant",
+    "description": "<p><strong>This is an </strong><span style=\"color:rgb(130, 201, 30)\"><strong><u>advanced workflow</u></strong></span><strong> designed for those familiar with ComfyUI who want </strong><span style=\"color:rgb(250, 176, 5)\"><strong>pro grade</strong></span><strong> results. It is custom node heavy and has numerous options designed for those who want granular control over their end result. I encourage you to take the time to learn it. If you feel overwhelmed, you can start with my simple workflow</strong><span style=\"color:rgb(130, 201, 30)\"><strong> </strong></span><a target=\"_blank\" rel=\"ugc\" href=\"https://civitai.red/models/2600919/lonecats-simple-workflows-zit-krea-2-klein9b-illustrious-flux-wan22-qwen-image-edit\"><span style=\"font-family:Aptos, sans-serif;font-size:12pt;line-height:115%\"><strong>HERE</strong></span></a></p><p></p><p></p><p><strong>LC123 Nodes: </strong><a target=\"_blank\" rel=\"ugc\" href=\"https://github.com/lonecatone23/ComfyUI_LC123_nodes\"><strong>https://github.com/l",
+    "author": "lonecatone23",
     "tags": [
-      "Jupyter Notebook"
+      "Workflows",
+      "Krea 2",
+      "image",
+      "civitai",
+      "tool",
+      "lonecat",
+      "krea 2"
     ],
     "raw_data": {
-      "stars": 7890,
-      "forks": 1034,
-      "language": "Jupyter Notebook",
-      "open_issues": 12,
-      "updated_at": "2026-10-08T00:56:51Z",
-      "pushed_at": "2026-10-08T00:50:35Z"
+      "model_id": 2726952,
+      "downloads": 20474,
+      "likes": 452,
+      "comments": 0,
+      "model_type": "Workflows"
     },
-    "cluster_id": "08a16499d5c89953",
+    "cluster_id": "620ec0fde53e775e",
     "merged_sources": [
-      "GitHub"
+      "Civitai"
     ],
     "merged_urls": [
-      "https://github.com/NirDiamant/Prompt_Engineering"
+      "https://civitai.com/models/2726952"
     ],
     "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/NirDiamant/Prompt_Engineering",
-          "status": "available"
-        }
-      ],
+      "can_test_free": false,
+      "confidence": "low",
+      "options": [],
       "hardware": {
         "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
+        "cpu": "NOT PRACTICAL",
+        "ram8": "DIFFICULT",
+        "vram8": "DIFFICULT",
+        "vram16": "POSSIBLE",
         "cloud_demo": "POSSIBLE",
-        "params_b": null
+        "params_b": 9.0
       },
-      "note": ""
+      "note": "No verifiable free testing link found."
     },
-    "importance_score": 51,
+    "importance_score": 38,
     "importance_reasons": [
       "Published in last 24h",
-      "7,890 GitHub stars",
-      "Open-source",
-      "Free demo available"
+      "Open-source"
     ],
-    "importance_level": "NORMAL",
-    "trend_score": 50,
+    "importance_level": "LOW",
+    "trend_score": 48,
     "trend_status": "RISING",
     "trend_basis": "single-run-signal",
     "ai": {
-      "summary_en": "NirDiamant/Prompt_Engineering (MODEL) via GitHub. 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: NirDiamant/Prompt_Engineering عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "NirDiamant/Prompt_Engineering — reported by GitHub.",
-      "why": "Categorized as MODEL with importance 51/100: Published in last 24h; 7,890 GitHub stars; Open-source",
-      "whats_new": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
+      "summary_en": "Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2] (IMAGE) via Civitai. <p><strong>This is an </strong><span style=\"color:rgb(130, 201, 30)\"><strong><u>advanced workflow</u></strong></span><strong> designed for those familiar with ComfyUI who want </strong><span style=\"color:rgb(250, 176, 5)",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2] عبر Civitai. لا يوجد رابط تجربة مجاني مؤكد بعد.",
+      "what": "Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2] — reported by Civitai.",
+      "why": "Categorized as IMAGE with importance 38/100: Published in last 24h; Open-source",
+      "whats_new": "<p><strong>This is an </strong><span style=\"color:rgb(130, 201, 30)\"><strong><u>advanced workflow</u></strong></span><strong> designed for those familiar with ComfyUI who want </strong><span style=\"color:rgb(250, 176, 5)\"><strong>pro grade</strong></span><strong> results. It is custom node heavy and",
       "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 57,
+      "can_test": "no verified free demo found yet",
+      "content_score": 38,
+      "content_formats": [
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2] so you don't have to",
+        "Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2] explained in 10 minutes",
+        "Is Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2] actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (no verified free demo found yet) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 55,
+      "content_angle": "Hands-on look at Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2]: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (no verified free demo found yet) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2].",
+      "comparison_angle": "Krea 2 Pro Grade w/ Speed Boost 🚀, Image Edit, Style Transfer, Moodboard, Controlnet, Multi-reference, Smart Detailers, In & Outpaint, & Low VRAM options [Workflows/Krea 2] vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "451d27ef87d649a4",
+    "title": "Vxtzq/Crowd-v1",
+    "url": "https://huggingface.co/Vxtzq/Crowd-v1",
+    "source": "Hugging Face",
+    "source_type": "huggingface",
+    "published_at": "2026-10-08T22:33:16.000Z",
+    "discovered_at": "2026-10-08T22:34:20+00:00",
+    "category": "MODEL",
+    "subcategories": [
+      "DATASET"
+    ],
+    "description": "Tags: text-generation, ia, dataset:openbmb/Ultra-FineWeb-L3, dataset:HuggingFaceFW/fineweb, dataset:Vxtzq/CrowdGPT",
+    "author": "Vxtzq",
+    "tags": [
+      "text-generation",
+      "ia",
+      "dataset:openbmb/Ultra-FineWeb-L3",
+      "dataset:HuggingFaceFW/fineweb",
+      "dataset:Vxtzq/CrowdGPT",
+      "license:mit",
+      "region:us"
+    ],
+    "raw_data": {
+      "model_id": "Vxtzq/Crowd-v1",
+      "likes": 11,
+      "downloads": 81305,
+      "pipeline_tag": "text-generation",
+      "library": "",
+      "last_modified": "2026-10-08T22:33:16.000Z",
+      "gated": false
+    },
+    "cluster_id": "451d27ef87d649a4",
+    "merged_sources": [
+      "Hugging Face"
+    ],
+    "merged_urls": [
+      "https://huggingface.co/Vxtzq/Crowd-v1"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "Hugging Face model page",
+          "type": "huggingface_model",
+          "url": "https://huggingface.co/Vxtzq/Crowd-v1",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 40,
+    "importance_reasons": [
+      "Published in last 24h",
+      "81,305 HF downloads",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 48,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "Vxtzq/Crowd-v1 (MODEL) via Hugging Face. Tags: text-generation, ia, dataset:openbmb/Ultra-FineWeb-L3, dataset:HuggingFaceFW/fineweb, dataset:Vxtzq/CrowdGPT",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: Vxtzq/Crowd-v1 عبر Hugging Face. يمكن تجربته: Hugging Face model page",
+      "what": "Vxtzq/Crowd-v1 — reported by Hugging Face.",
+      "why": "Categorized as MODEL with importance 40/100: Published in last 24h; 81,305 HF downloads; Free demo available",
+      "whats_new": "Tags: text-generation, ia, dataset:openbmb/Ultra-FineWeb-L3, dataset:HuggingFaceFW/fineweb, dataset:Vxtzq/CrowdGPT",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "Hugging Face model page",
+      "content_score": 46,
       "content_formats": [
         "LIVE TEST",
         "TUTORIAL",
@@ -6800,546 +6899,24 @@
         "COMPARISON"
       ],
       "video_titles": [
-        "I tested NirDiamant/Prompt_Engineering so you don't have to",
-        "NirDiamant/Prompt_Engineering explained in 10 minutes",
-        "Is NirDiamant/Prompt_Engineering actually good? Honest test"
+        "I tested Vxtzq/Crowd-v1 so you don't have to",
+        "Vxtzq/Crowd-v1 explained in 10 minutes",
+        "Is Vxtzq/Crowd-v1 actually good? Honest test"
       ],
       "video_angles": [
         "Potentially useful content angle: live first-test + honest verdict.",
         "Potentially useful content angle: beginner-friendly setup walkthrough."
       ],
       "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 82,
-      "content_angle": "Hands-on look at NirDiamant/Prompt_Engineering: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with NirDiamant/Prompt_Engineering.",
-      "comparison_angle": "NirDiamant/Prompt_Engineering vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "6791294b57ec813a",
-    "title": "aipoch/open-science",
-    "url": "https://github.com/aipoch/open-science",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:15:24Z",
-    "discovered_at": "2026-10-08T01:24:23+00:00",
-    "category": "MCP",
-    "subcategories": [
-      "AGENT",
-      "TOOL",
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
-    "author": "aipoch",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 5482,
-      "forks": 508,
-      "language": "TypeScript",
-      "open_issues": 48,
-      "updated_at": "2026-10-08T07:47:06Z",
-      "pushed_at": "2026-10-08T07:49:19Z"
-    },
-    "cluster_id": "6791294b57ec813a",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/aipoch/open-science"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/aipoch/open-science",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 51,
-    "importance_reasons": [
-      "Published in last 24h",
-      "5,482 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 50,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "aipoch/open-science (MCP) via GitHub. The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for ",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: aipoch/open-science عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "aipoch/open-science — reported by GitHub.",
-      "why": "Categorized as MCP with importance 51/100: Published in last 24h; 5,482 GitHub stars; Open-source",
-      "whats_new": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 57,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested aipoch/open-science so you don't have to",
-        "aipoch/open-science explained in 10 minutes",
-        "Is aipoch/open-science actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 70,
-      "content_angle": "Hands-on look at aipoch/open-science: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with aipoch/open-science.",
-      "comparison_angle": "aipoch/open-science vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "f2e146ada42413d6",
-    "title": "Giskard-AI/giskard-oss",
-    "url": "https://github.com/Giskard-AI/giskard-oss",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:04:29Z",
-    "discovered_at": "2026-10-08T01:24:21+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "MODEL",
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
-    "author": "Giskard-AI",
-    "tags": [
-      "Python"
-    ],
-    "raw_data": {
-      "stars": 5869,
-      "forks": 547,
-      "language": "Python",
-      "open_issues": 72,
-      "updated_at": "2026-10-08T01:02:25Z",
-      "pushed_at": "2026-10-08T01:04:29Z"
-    },
-    "cluster_id": "f2e146ada42413d6",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/Giskard-AI/giskard-oss"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/Giskard-AI/giskard-oss",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 51,
-    "importance_reasons": [
-      "Published in last 24h",
-      "5,869 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 50,
-    "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
-    "ai": {
-      "summary_en": "Giskard-AI/giskard-oss (AGENT) via GitHub. 🐢 Open-Source Evaluation & Testing library for LLM Agents",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Giskard-AI/giskard-oss عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "Giskard-AI/giskard-oss — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 5,869 GitHub stars; Open-source",
-      "whats_new": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 57,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested Giskard-AI/giskard-oss so you don't have to",
-        "Giskard-AI/giskard-oss explained in 10 minutes",
-        "Is Giskard-AI/giskard-oss actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Try the free option (Hugging Face model page) and record what breaks.",
         "Compare against one well-known baseline on the same prompt."
       ],
       "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at Giskard-AI/giskard-oss: what it does, who it helps, and whether the free option works.",
+      "content_angle": "Hands-on look at Vxtzq/Crowd-v1: what it does, who it helps, and whether the free option works.",
       "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with Giskard-AI/giskard-oss.",
-      "comparison_angle": "Giskard-AI/giskard-oss vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "26bee507ed6130ab",
-    "title": "open-metadata/OpenMetadata",
-    "url": "https://github.com/open-metadata/OpenMetadata",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:20:11Z",
-    "discovered_at": "2026-10-08T01:24:21+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
-    "author": "open-metadata",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 15416,
-      "forks": 2433,
-      "language": "TypeScript",
-      "open_issues": 955,
-      "updated_at": "2026-10-08T17:00:05Z",
-      "pushed_at": "2026-10-08T17:01:46Z"
-    },
-    "cluster_id": "26bee507ed6130ab",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/open-metadata/OpenMetadata"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/open-metadata/OpenMetadata",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 51,
-    "importance_reasons": [
-      "Published in last 24h",
-      "15,416 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 50,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "open-metadata/OpenMetadata (AGENT) via GitHub. The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: open-metadata/OpenMetadata عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "open-metadata/OpenMetadata — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 51/100: Published in last 24h; 15,416 GitHub stars; Open-source",
-      "whats_new": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 57,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested open-metadata/OpenMetadata so you don't have to",
-        "open-metadata/OpenMetadata explained in 10 minutes",
-        "Is open-metadata/OpenMetadata actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at open-metadata/OpenMetadata: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with open-metadata/OpenMetadata.",
-      "comparison_angle": "open-metadata/OpenMetadata vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "c0e059f3562b93ab",
-    "title": "Gentleman-Programming/gentle-ai",
-    "url": "https://github.com/Gentleman-Programming/gentle-ai",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:03:51Z",
-    "discovered_at": "2026-10-08T01:24:21+00:00",
-    "category": "MCP",
-    "subcategories": [
-      "AGENT",
-      "TOOL",
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
-    "author": "Gentleman-Programming",
-    "tags": [
-      "Go"
-    ],
-    "raw_data": {
-      "stars": 7594,
-      "forks": 828,
-      "language": "Go",
-      "open_issues": 918,
-      "updated_at": "2026-10-08T01:20:01Z",
-      "pushed_at": "2026-10-08T01:03:51Z"
-    },
-    "cluster_id": "c0e059f3562b93ab",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/Gentleman-Programming/gentle-ai"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 51,
-    "importance_reasons": [
-      "Published in last 24h",
-      "7,594 GitHub stars",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 50,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "Gentleman-Programming/gentle-ai (MCP) via GitHub. Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bou",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Gentleman-Programming/gentle-ai عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "Gentleman-Programming/gentle-ai — reported by GitHub.",
-      "why": "Categorized as MCP with importance 51/100: Published in last 24h; 7,594 GitHub stars; Open-source",
-      "whats_new": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 57,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested Gentleman-Programming/gentle-ai so you don't have to",
-        "Gentleman-Programming/gentle-ai explained in 10 minutes",
-        "Is Gentleman-Programming/gentle-ai actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 70,
-      "content_angle": "Hands-on look at Gentleman-Programming/gentle-ai: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with Gentleman-Programming/gentle-ai.",
-      "comparison_angle": "Gentleman-Programming/gentle-ai vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "02179eef8eb35fb0",
-    "title": "firecrawl/firecrawl-mcp-server",
-    "url": "https://github.com/firecrawl/firecrawl-mcp-server",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T01:17:47Z",
-    "discovered_at": "2026-10-08T01:24:21+00:00",
-    "category": "MCP",
-    "subcategories": [
-      "AGENT",
-      "TOOL",
-      "MODEL",
-      "GITHUB",
-      "API"
-    ],
-    "description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
-    "author": "firecrawl",
-    "tags": [
-      "JavaScript"
-    ],
-    "raw_data": {
-      "stars": 7571,
-      "forks": 902,
-      "language": "JavaScript",
-      "open_issues": 157,
-      "updated_at": "2026-10-08T16:58:34Z",
-      "pushed_at": "2026-10-08T16:58:18Z"
-    },
-    "cluster_id": "02179eef8eb35fb0",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/firecrawl/firecrawl-mcp-server"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/firecrawl/firecrawl-mcp-server",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 43,
-    "importance_reasons": [
-      "Published in last 24h",
-      "7,571 GitHub stars",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 50,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "firecrawl/firecrawl-mcp-server (MCP) via GitHub. 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: firecrawl/firecrawl-mcp-server عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "firecrawl/firecrawl-mcp-server — reported by GitHub.",
-      "why": "Categorized as MCP with importance 43/100: Published in last 24h; 7,571 GitHub stars; Free demo available",
-      "whats_new": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 49,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested firecrawl/firecrawl-mcp-server so you don't have to",
-        "firecrawl/firecrawl-mcp-server explained in 10 minutes",
-        "Is firecrawl/firecrawl-mcp-server actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 70,
-      "content_angle": "Hands-on look at firecrawl/firecrawl-mcp-server: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with firecrawl/firecrawl-mcp-server.",
-      "comparison_angle": "firecrawl/firecrawl-mcp-server vs the best-known alternative on the same task, same prompts.",
+      "experiment_angle": "Run the free option (Hugging Face model page) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with Vxtzq/Crowd-v1.",
+      "comparison_angle": "Vxtzq/Crowd-v1 vs the best-known alternative on the same task, same prompts.",
       "ai_model": "deterministic-skipped"
     }
   },
@@ -7541,6 +7118,1035 @@
       "tutorial_angle": "Beginner setup guide: from zero to first working result with MiniMax H3 Ultra Fastest True 4 Steps + HD Sound | 6GB VRAM 16GB RAM [Workflows/MiniMax H3].",
       "comparison_angle": "MiniMax H3 Ultra Fastest True 4 Steps + HD Sound | 6GB VRAM 16GB RAM [Workflows/MiniMax H3] vs the best-known alternative on the same task, same prompts.",
       "ai_model": "deterministic-fallback"
+    }
+  },
+  {
+    "id": "ed1979cfb2147b43",
+    "title": "gptme/gptme",
+    "url": "https://github.com/gptme/gptme",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T22:07:07Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "AGENT",
+    "subcategories": [
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+    "author": "gptme",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 4444,
+      "forks": 448,
+      "language": "Python",
+      "open_issues": 40,
+      "updated_at": "2026-10-08T22:04:15Z",
+      "pushed_at": "2026-10-08T22:07:07Z"
+    },
+    "cluster_id": "ed1979cfb2147b43",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/gptme/gptme"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/gptme/gptme",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "gptme/gptme (AGENT) via GitHub. Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: gptme/gptme عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "gptme/gptme — reported by GitHub.",
+      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested gptme/gptme so you don't have to",
+        "gptme/gptme explained in 10 minutes",
+        "Is gptme/gptme actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at gptme/gptme: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with gptme/gptme.",
+      "comparison_angle": "gptme/gptme vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "bcd20358cdcb6c74",
+    "title": "raullenchai/Rapid-MLX",
+    "url": "https://github.com/raullenchai/Rapid-MLX",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T21:04:40Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "AGENT",
+    "subcategories": [
+      "MODEL",
+      "GITHUB",
+      "OPEN_SOURCE",
+      "API",
+      "TOOL"
+    ],
+    "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights.",
+    "author": "raullenchai",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 3942,
+      "forks": 429,
+      "language": "Python",
+      "open_issues": 31,
+      "updated_at": "2026-10-08T20:56:32Z",
+      "pushed_at": "2026-10-08T21:04:40Z"
+    },
+    "cluster_id": "bcd20358cdcb6c74",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/raullenchai/Rapid-MLX"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/raullenchai/Rapid-MLX",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "raullenchai/Rapid-MLX (AGENT) via GitHub. Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: raullenchai/Rapid-MLX عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "raullenchai/Rapid-MLX — reported by GitHub.",
+      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights.",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested raullenchai/Rapid-MLX so you don't have to",
+        "raullenchai/Rapid-MLX explained in 10 minutes",
+        "Is raullenchai/Rapid-MLX actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at raullenchai/Rapid-MLX: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with raullenchai/Rapid-MLX.",
+      "comparison_angle": "raullenchai/Rapid-MLX vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "0853ca3f30373204",
+    "title": "777genius/agent-teams-ai",
+    "url": "https://github.com/777genius/agent-teams-ai",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T22:14:25Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "AGENT",
+    "subcategories": [
+      "MODEL",
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub/Kiro/Z.AI/Xiaomi/MiniMax/Kimi(300+ models, 200+ LLM providers, free models no auth) Build your AI company with multiple teams",
+    "author": "777genius",
+    "tags": [
+      "TypeScript"
+    ],
+    "raw_data": {
+      "stars": 2240,
+      "forks": 371,
+      "language": "TypeScript",
+      "open_issues": 33,
+      "updated_at": "2026-10-08T20:56:08Z",
+      "pushed_at": "2026-10-08T22:14:25Z"
+    },
+    "cluster_id": "0853ca3f30373204",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/777genius/agent-teams-ai"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/777genius/agent-teams-ai",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "777genius/agent-teams-ai (AGENT) via GitHub. You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/Git",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: 777genius/agent-teams-ai عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "777genius/agent-teams-ai — reported by GitHub.",
+      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub/Kiro/Z.AI/Xiaomi/MiniMax/Kimi(300+ models, 200+ LLM providers, free models n",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested 777genius/agent-teams-ai so you don't have to",
+        "777genius/agent-teams-ai explained in 10 minutes",
+        "Is 777genius/agent-teams-ai actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at 777genius/agent-teams-ai: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with 777genius/agent-teams-ai.",
+      "comparison_angle": "777genius/agent-teams-ai vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "63028b2ed5b8201b",
+    "title": "he-yufeng/CoreCoder",
+    "url": "https://github.com/he-yufeng/CoreCoder",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T20:27:39Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "AGENT",
+    "subcategories": [
+      "MODEL",
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
+    "author": "he-yufeng",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 1800,
+      "forks": 443,
+      "language": "Python",
+      "open_issues": 0,
+      "updated_at": "2026-10-08T20:27:46Z",
+      "pushed_at": "2026-10-08T20:27:39Z"
+    },
+    "cluster_id": "63028b2ed5b8201b",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/he-yufeng/CoreCoder"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/he-yufeng/CoreCoder",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "he-yufeng/CoreCoder (AGENT) via GitHub. Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: he-yufeng/CoreCoder عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "he-yufeng/CoreCoder — reported by GitHub.",
+      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested he-yufeng/CoreCoder so you don't have to",
+        "he-yufeng/CoreCoder explained in 10 minutes",
+        "Is he-yufeng/CoreCoder actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at he-yufeng/CoreCoder: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with he-yufeng/CoreCoder.",
+      "comparison_angle": "he-yufeng/CoreCoder vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "93e99bdd1f801572",
+    "title": "homeassistant-ai/ha-mcp",
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T22:24:43Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "MCP",
+    "subcategories": [
+      "AGENT",
+      "TOOL",
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "The Unofficial and Awesome Home Assistant MCP Server",
+    "author": "homeassistant-ai",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 4984,
+      "forks": 231,
+      "language": "Python",
+      "open_issues": 12,
+      "updated_at": "2026-10-08T22:29:40Z",
+      "pushed_at": "2026-10-08T22:24:43Z"
+    },
+    "cluster_id": "93e99bdd1f801572",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/homeassistant-ai/ha-mcp"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "homeassistant-ai/ha-mcp (MCP) via GitHub. The Unofficial and Awesome Home Assistant MCP Server",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: homeassistant-ai/ha-mcp عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "homeassistant-ai/ha-mcp — reported by GitHub.",
+      "why": "Categorized as MCP with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "The Unofficial and Awesome Home Assistant MCP Server",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested homeassistant-ai/ha-mcp so you don't have to",
+        "homeassistant-ai/ha-mcp explained in 10 minutes",
+        "Is homeassistant-ai/ha-mcp actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at homeassistant-ai/ha-mcp: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with homeassistant-ai/ha-mcp.",
+      "comparison_angle": "homeassistant-ai/ha-mcp vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "b3738be055b18f9f",
+    "title": "svnscha/mcp-windbg",
+    "url": "https://github.com/svnscha/mcp-windbg",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T22:23:31Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "MCP",
+    "subcategories": [
+      "AGENT",
+      "TOOL",
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "Model Context Protocol for WinDbg.",
+    "author": "svnscha",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 1611,
+      "forks": 163,
+      "language": "Python",
+      "open_issues": 2,
+      "updated_at": "2026-10-08T22:23:04Z",
+      "pushed_at": "2026-10-08T22:23:31Z"
+    },
+    "cluster_id": "b3738be055b18f9f",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/svnscha/mcp-windbg"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/svnscha/mcp-windbg",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "single-run-signal",
+    "ai": {
+      "summary_en": "svnscha/mcp-windbg (MCP) via GitHub. Model Context Protocol for WinDbg.",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: svnscha/mcp-windbg عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "svnscha/mcp-windbg — reported by GitHub.",
+      "why": "Categorized as MCP with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "Model Context Protocol for WinDbg.",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested svnscha/mcp-windbg so you don't have to",
+        "svnscha/mcp-windbg explained in 10 minutes",
+        "Is svnscha/mcp-windbg actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at svnscha/mcp-windbg: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with svnscha/mcp-windbg.",
+      "comparison_angle": "svnscha/mcp-windbg vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "7adf454cb391a9b0",
+    "title": "mxsm/rocketmq-rust",
+    "url": "https://github.com/mxsm/rocketmq-rust",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T22:18:41Z",
+    "discovered_at": "2026-10-08T22:34:22+00:00",
+    "category": "MCP",
+    "subcategories": [
+      "AGENT",
+      "TOOL",
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities.",
+    "author": "mxsm",
+    "tags": [
+      "Rust"
+    ],
+    "raw_data": {
+      "stars": 1525,
+      "forks": 278,
+      "language": "Rust",
+      "open_issues": 45,
+      "updated_at": "2026-10-08T22:18:38Z",
+      "pushed_at": "2026-10-08T22:18:41Z"
+    },
+    "cluster_id": "7adf454cb391a9b0",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/mxsm/rocketmq-rust"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/mxsm/rocketmq-rust",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "mxsm/rocketmq-rust (MCP) via GitHub. 🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities.",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: mxsm/rocketmq-rust عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "mxsm/rocketmq-rust — reported by GitHub.",
+      "why": "Categorized as MCP with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities.",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested mxsm/rocketmq-rust so you don't have to",
+        "mxsm/rocketmq-rust explained in 10 minutes",
+        "Is mxsm/rocketmq-rust actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at mxsm/rocketmq-rust: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with mxsm/rocketmq-rust.",
+      "comparison_angle": "mxsm/rocketmq-rust vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "91c3ede63d9e9dfa",
+    "title": "deepnote/deepnote",
+    "url": "https://github.com/deepnote/deepnote",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T20:52:15Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "AGENT",
+    "subcategories": [
+      "GITHUB",
+      "OPEN_SOURCE"
+    ],
+    "description": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/",
+    "author": "deepnote",
+    "tags": [
+      "TypeScript"
+    ],
+    "raw_data": {
+      "stars": 3015,
+      "forks": 198,
+      "language": "TypeScript",
+      "open_issues": 45,
+      "updated_at": "2026-10-08T19:56:26Z",
+      "pushed_at": "2026-10-08T20:52:15Z"
+    },
+    "cluster_id": "91c3ede63d9e9dfa",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/deepnote/deepnote"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/deepnote/deepnote",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "deepnote/deepnote (AGENT) via GitHub. Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time c",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: deepnote/deepnote عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "deepnote/deepnote — reported by GitHub.",
+      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested deepnote/deepnote so you don't have to",
+        "deepnote/deepnote explained in 10 minutes",
+        "Is deepnote/deepnote actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 77,
+      "content_angle": "Hands-on look at deepnote/deepnote: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with deepnote/deepnote.",
+      "comparison_angle": "deepnote/deepnote vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "d1530489ff5d1ff6",
+    "title": "basetenlabs/truss",
+    "url": "https://github.com/basetenlabs/truss",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T21:51:26Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "GITHUB",
+    "subcategories": [
+      "OPEN_SOURCE"
+    ],
+    "description": "The simplest way to serve AI/ML models in production",
+    "author": "basetenlabs",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 1214,
+      "forks": 130,
+      "language": "Python",
+      "open_issues": 86,
+      "updated_at": "2026-10-08T19:33:33Z",
+      "pushed_at": "2026-10-08T21:51:26Z"
+    },
+    "cluster_id": "d1530489ff5d1ff6",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/basetenlabs/truss"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/basetenlabs/truss",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "basetenlabs/truss (GITHUB) via GitHub. The simplest way to serve AI/ML models in production",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: basetenlabs/truss عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "basetenlabs/truss — reported by GitHub.",
+      "why": "Categorized as GITHUB with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "The simplest way to serve AI/ML models in production",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested basetenlabs/truss so you don't have to",
+        "basetenlabs/truss explained in 10 minutes",
+        "Is basetenlabs/truss actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at basetenlabs/truss: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with basetenlabs/truss.",
+      "comparison_angle": "basetenlabs/truss vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
+    }
+  },
+  {
+    "id": "6691f01f0512c27d",
+    "title": "aeon-toolkit/aeon",
+    "url": "https://github.com/aeon-toolkit/aeon",
+    "source": "GitHub",
+    "source_type": "github",
+    "published_at": "2026-10-08T19:36:02Z",
+    "discovered_at": "2026-10-08T22:34:21+00:00",
+    "category": "GITHUB",
+    "subcategories": [
+      "OPEN_SOURCE"
+    ],
+    "description": "A toolkit for time series  machine learning and deep learning",
+    "author": "aeon-toolkit",
+    "tags": [
+      "Python"
+    ],
+    "raw_data": {
+      "stars": 1458,
+      "forks": 356,
+      "language": "Python",
+      "open_issues": 265,
+      "updated_at": "2026-10-08T19:04:43Z",
+      "pushed_at": "2026-10-08T19:36:02Z"
+    },
+    "cluster_id": "6691f01f0512c27d",
+    "merged_sources": [
+      "GitHub"
+    ],
+    "merged_urls": [
+      "https://github.com/aeon-toolkit/aeon"
+    ],
+    "experiment": {
+      "can_test_free": true,
+      "confidence": "medium",
+      "options": [
+        {
+          "name": "GitHub repo (code + setup)",
+          "type": "github_repo",
+          "url": "https://github.com/aeon-toolkit/aeon",
+          "status": "available"
+        }
+      ],
+      "hardware": {
+        "label": "estimated",
+        "cpu": "POSSIBLE",
+        "ram8": "POSSIBLE",
+        "vram8": "POSSIBLE",
+        "vram16": "EASY",
+        "cloud_demo": "POSSIBLE",
+        "params_b": null
+      },
+      "note": ""
+    },
+    "importance_score": 47,
+    "importance_reasons": [
+      "Published in last 24h",
+      "Open-source",
+      "Free demo available"
+    ],
+    "importance_level": "NORMAL",
+    "trend_score": 46,
+    "trend_status": "RISING",
+    "trend_basis": "history-compared",
+    "ai": {
+      "summary_en": "aeon-toolkit/aeon (GITHUB) via GitHub. A toolkit for time series  machine learning and deep learning",
+      "summary_ar": "رصد رادار الذكاء الاصطناعي: aeon-toolkit/aeon عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
+      "what": "aeon-toolkit/aeon — reported by GitHub.",
+      "why": "Categorized as GITHUB with importance 47/100: Published in last 24h; Open-source; Free demo available",
+      "whats_new": "A toolkit for time series  machine learning and deep learning",
+      "who": "AI builders, students, and content creators following open AI releases.",
+      "can_test": "GitHub repo (code + setup)",
+      "content_score": 53,
+      "content_formats": [
+        "LIVE TEST",
+        "TUTORIAL",
+        "SHORT",
+        "NEWS"
+      ],
+      "video_titles": [
+        "I tested aeon-toolkit/aeon so you don't have to",
+        "aeon-toolkit/aeon explained in 10 minutes",
+        "Is aeon-toolkit/aeon actually good? Honest test"
+      ],
+      "video_angles": [
+        "Potentially useful content angle: live first-test + honest verdict.",
+        "Potentially useful content angle: beginner-friendly setup walkthrough."
+      ],
+      "experiment_ideas": [
+        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
+        "Compare against one well-known baseline on the same prompt."
+      ],
+      "creator_opportunity_score": 70,
+      "content_angle": "Hands-on look at aeon-toolkit/aeon: what it does, who it helps, and whether the free option works.",
+      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
+      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
+      "tutorial_angle": "Beginner setup guide: from zero to first working result with aeon-toolkit/aeon.",
+      "comparison_angle": "aeon-toolkit/aeon vs the best-known alternative on the same task, same prompts.",
+      "ai_model": "deterministic-skipped"
     }
   },
   {
@@ -9095,12 +9701,12 @@
       "Go"
     ],
     "raw_data": {
-      "stars": 1151,
+      "stars": 1152,
       "forks": 112,
       "language": "Go",
-      "open_issues": 31,
-      "updated_at": "2026-10-08T16:05:49Z",
-      "pushed_at": "2026-10-08T16:48:42Z"
+      "open_issues": 23,
+      "updated_at": "2026-10-08T21:05:46Z",
+      "pushed_at": "2026-10-08T21:05:43Z"
     },
     "cluster_id": "d8f35f2c869d3eb6",
     "merged_sources": [
@@ -9199,12 +9805,12 @@
       "Rust"
     ],
     "raw_data": {
-      "stars": 3100,
+      "stars": 3101,
       "forks": 231,
       "language": "Rust",
-      "open_issues": 914,
-      "updated_at": "2026-10-08T16:46:03Z",
-      "pushed_at": "2026-10-08T16:45:59Z"
+      "open_issues": 871,
+      "updated_at": "2026-10-08T21:33:59Z",
+      "pushed_at": "2026-10-08T21:33:56Z"
     },
     "cluster_id": "ebb5ff48f125e60a",
     "merged_sources": [
@@ -9407,9 +10013,9 @@
       "stars": 1228,
       "forks": 185,
       "language": "Python",
-      "open_issues": 97,
-      "updated_at": "2026-10-08T16:01:56Z",
-      "pushed_at": "2026-10-08T16:01:51Z"
+      "open_issues": 98,
+      "updated_at": "2026-10-08T19:55:30Z",
+      "pushed_at": "2026-10-08T22:02:20Z"
     },
     "cluster_id": "04e9b18aff1ca759",
     "merged_sources": [
@@ -9509,9 +10115,9 @@
       "stars": 2250,
       "forks": 188,
       "language": "Go",
-      "open_issues": 185,
-      "updated_at": "2026-10-08T16:00:35Z",
-      "pushed_at": "2026-10-08T16:00:27Z"
+      "open_issues": 186,
+      "updated_at": "2026-10-08T21:40:01Z",
+      "pushed_at": "2026-10-08T22:12:11Z"
     },
     "cluster_id": "161fe0b988a333dd",
     "merged_sources": [
@@ -9690,619 +10296,6 @@
       "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
       "tutorial_angle": "Beginner setup guide: from zero to first working result with crmne/ruby_llm.",
       "comparison_angle": "crmne/ruby_llm vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "039197b08f6e7a0d",
-    "title": "Sumanth077/Hands-On-AI-Engineering",
-    "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T07:05:58Z",
-    "discovered_at": "2026-10-08T08:06:15+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "RESEARCH",
-      "TOOL",
-      "OPEN_SOURCE"
-    ],
-    "description": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
-    "author": "Sumanth077",
-    "tags": [
-      "Python"
-    ],
-    "raw_data": {
-      "stars": 3936,
-      "forks": 952,
-      "language": "Python",
-      "open_issues": 10,
-      "updated_at": "2026-10-08T07:28:32Z",
-      "pushed_at": "2026-10-08T07:05:58Z"
-    },
-    "cluster_id": "039197b08f6e7a0d",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/Sumanth077/Hands-On-AI-Engineering"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 47,
-    "importance_reasons": [
-      "Published in last 24h",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 46,
-    "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
-    "ai": {
-      "summary_en": "Sumanth077/Hands-On-AI-Engineering (AGENT) via GitHub. A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Sumanth077/Hands-On-AI-Engineering عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "Sumanth077/Hands-On-AI-Engineering — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
-      "whats_new": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 53,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested Sumanth077/Hands-On-AI-Engineering so you don't have to",
-        "Sumanth077/Hands-On-AI-Engineering explained in 10 minutes",
-        "Is Sumanth077/Hands-On-AI-Engineering actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at Sumanth077/Hands-On-AI-Engineering: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with Sumanth077/Hands-On-AI-Engineering.",
-      "comparison_angle": "Sumanth077/Hands-On-AI-Engineering vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "1b5747c0f310d284",
-    "title": "kirodotdev/KiroCrew",
-    "url": "https://github.com/kirodotdev/KiroCrew",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T08:05:50Z",
-    "discovered_at": "2026-10-08T08:06:14+00:00",
-    "category": "GITHUB",
-    "subcategories": [
-      "OPEN_SOURCE"
-    ],
-    "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-    "author": "kirodotdev",
-    "tags": [
-      "Python"
-    ],
-    "raw_data": {
-      "stars": 4330,
-      "forks": 763,
-      "language": "Python",
-      "open_issues": 2499,
-      "updated_at": "2026-10-08T17:02:05Z",
-      "pushed_at": "2026-10-08T17:02:02Z"
-    },
-    "cluster_id": "1b5747c0f310d284",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/kirodotdev/KiroCrew"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/kirodotdev/KiroCrew",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 47,
-    "importance_reasons": [
-      "Published in last 24h",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 46,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "kirodotdev/KiroCrew (GITHUB) via GitHub. A persistent workspace for development work that self-improves and continues beyond one session.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: kirodotdev/KiroCrew عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "kirodotdev/KiroCrew — reported by GitHub.",
-      "why": "Categorized as GITHUB with importance 47/100: Published in last 24h; Open-source; Free demo available",
-      "whats_new": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 53,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested kirodotdev/KiroCrew so you don't have to",
-        "kirodotdev/KiroCrew explained in 10 minutes",
-        "Is kirodotdev/KiroCrew actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 70,
-      "content_angle": "Hands-on look at kirodotdev/KiroCrew: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with kirodotdev/KiroCrew.",
-      "comparison_angle": "kirodotdev/KiroCrew vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "2d8756d68814cbfe",
-    "title": "makecindy/cindy",
-    "url": "https://github.com/makecindy/cindy",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T08:03:57Z",
-    "discovered_at": "2026-10-08T08:06:14+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-    "author": "makecindy",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 2939,
-      "forks": 446,
-      "language": "TypeScript",
-      "open_issues": 1680,
-      "updated_at": "2026-10-08T07:45:51Z",
-      "pushed_at": "2026-10-08T08:03:57Z"
-    },
-    "cluster_id": "2d8756d68814cbfe",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/makecindy/cindy"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/makecindy/cindy",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 47,
-    "importance_reasons": [
-      "Published in last 24h",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 46,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "makecindy/cindy (AGENT) via GitHub. Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: makecindy/cindy عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "makecindy/cindy — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
-      "whats_new": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 53,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested makecindy/cindy so you don't have to",
-        "makecindy/cindy explained in 10 minutes",
-        "Is makecindy/cindy actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at makecindy/cindy: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with makecindy/cindy.",
-      "comparison_angle": "makecindy/cindy vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "bdd1ba87fac634e1",
-    "title": "Gentleman-Programming/gentle-shell",
-    "url": "https://github.com/Gentleman-Programming/gentle-shell",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T08:03:34Z",
-    "discovered_at": "2026-10-08T08:06:14+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "Gentle Shell is a Pi-native coding-agent harness for controlled development with Organic Driven Development, optional SDD/OpenSpec, subagents, TDD evidence, review guardrails, skills, and memory integrations.",
-    "author": "Gentleman-Programming",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 1221,
-      "forks": 184,
-      "language": "TypeScript",
-      "open_issues": 624,
-      "updated_at": "2026-10-08T08:03:41Z",
-      "pushed_at": "2026-10-08T08:03:34Z"
-    },
-    "cluster_id": "bdd1ba87fac634e1",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/Gentleman-Programming/gentle-shell"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/Gentleman-Programming/gentle-shell",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 47,
-    "importance_reasons": [
-      "Published in last 24h",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 46,
-    "trend_status": "RISING",
-    "trend_basis": "history-compared",
-    "ai": {
-      "summary_en": "Gentleman-Programming/gentle-shell (AGENT) via GitHub. Gentle Shell is a Pi-native coding-agent harness for controlled development with Organic Driven Development, optional SDD/OpenSpec, subagents, TDD evidence, review guardrails, skills, and memory integrations.",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: Gentleman-Programming/gentle-shell عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "Gentleman-Programming/gentle-shell — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
-      "whats_new": "Gentle Shell is a Pi-native coding-agent harness for controlled development with Organic Driven Development, optional SDD/OpenSpec, subagents, TDD evidence, review guardrails, skills, and memory integrations.",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 53,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested Gentleman-Programming/gentle-shell so you don't have to",
-        "Gentleman-Programming/gentle-shell explained in 10 minutes",
-        "Is Gentleman-Programming/gentle-shell actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at Gentleman-Programming/gentle-shell: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with Gentleman-Programming/gentle-shell.",
-      "comparison_angle": "Gentleman-Programming/gentle-shell vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "625e759436405d55",
-    "title": "dyoshikawa/rulesync",
-    "url": "https://github.com/dyoshikawa/rulesync",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T08:02:52Z",
-    "discovered_at": "2026-10-08T08:06:14+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "A Utility CLI for AI Coding Agents",
-    "author": "dyoshikawa",
-    "tags": [
-      "TypeScript"
-    ],
-    "raw_data": {
-      "stars": 1507,
-      "forks": 158,
-      "language": "TypeScript",
-      "open_issues": 35,
-      "updated_at": "2026-10-08T08:02:56Z",
-      "pushed_at": "2026-10-08T08:02:52Z"
-    },
-    "cluster_id": "625e759436405d55",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/dyoshikawa/rulesync"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/dyoshikawa/rulesync",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 47,
-    "importance_reasons": [
-      "Published in last 24h",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 46,
-    "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
-    "ai": {
-      "summary_en": "dyoshikawa/rulesync (AGENT) via GitHub. A Utility CLI for AI Coding Agents",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: dyoshikawa/rulesync عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "dyoshikawa/rulesync — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
-      "whats_new": "A Utility CLI for AI Coding Agents",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 53,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested dyoshikawa/rulesync so you don't have to",
-        "dyoshikawa/rulesync explained in 10 minutes",
-        "Is dyoshikawa/rulesync actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at dyoshikawa/rulesync: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with dyoshikawa/rulesync.",
-      "comparison_angle": "dyoshikawa/rulesync vs the best-known alternative on the same task, same prompts.",
-      "ai_model": "deterministic-skipped"
-    }
-  },
-  {
-    "id": "80745884255028d7",
-    "title": "tontinton/maki",
-    "url": "https://github.com/tontinton/maki",
-    "source": "GitHub",
-    "source_type": "github",
-    "published_at": "2026-10-08T07:59:04Z",
-    "discovered_at": "2026-10-08T08:06:14+00:00",
-    "category": "AGENT",
-    "subcategories": [
-      "GITHUB",
-      "OPEN_SOURCE"
-    ],
-    "description": "An efficient AI coding agent extendable by neovim-like Lua plugins",
-    "author": "tontinton",
-    "tags": [
-      "Rust"
-    ],
-    "raw_data": {
-      "stars": 1205,
-      "forks": 173,
-      "language": "Rust",
-      "open_issues": 124,
-      "updated_at": "2026-10-08T07:59:08Z",
-      "pushed_at": "2026-10-08T07:59:04Z"
-    },
-    "cluster_id": "80745884255028d7",
-    "merged_sources": [
-      "GitHub"
-    ],
-    "merged_urls": [
-      "https://github.com/tontinton/maki"
-    ],
-    "experiment": {
-      "can_test_free": true,
-      "confidence": "medium",
-      "options": [
-        {
-          "name": "GitHub repo (code + setup)",
-          "type": "github_repo",
-          "url": "https://github.com/tontinton/maki",
-          "status": "available"
-        }
-      ],
-      "hardware": {
-        "label": "estimated",
-        "cpu": "POSSIBLE",
-        "ram8": "POSSIBLE",
-        "vram8": "POSSIBLE",
-        "vram16": "EASY",
-        "cloud_demo": "POSSIBLE",
-        "params_b": null
-      },
-      "note": ""
-    },
-    "importance_score": 47,
-    "importance_reasons": [
-      "Published in last 24h",
-      "Open-source",
-      "Free demo available"
-    ],
-    "importance_level": "NORMAL",
-    "trend_score": 46,
-    "trend_status": "RISING",
-    "trend_basis": "single-run-signal",
-    "ai": {
-      "summary_en": "tontinton/maki (AGENT) via GitHub. An efficient AI coding agent extendable by neovim-like Lua plugins",
-      "summary_ar": "رصد رادار الذكاء الاصطناعي: tontinton/maki عبر GitHub. يمكن تجربته: GitHub repo (code + setup)",
-      "what": "tontinton/maki — reported by GitHub.",
-      "why": "Categorized as AGENT with importance 47/100: Published in last 24h; Open-source; Free demo available",
-      "whats_new": "An efficient AI coding agent extendable by neovim-like Lua plugins",
-      "who": "AI builders, students, and content creators following open AI releases.",
-      "can_test": "GitHub repo (code + setup)",
-      "content_score": 53,
-      "content_formats": [
-        "LIVE TEST",
-        "TUTORIAL",
-        "SHORT",
-        "NEWS"
-      ],
-      "video_titles": [
-        "I tested tontinton/maki so you don't have to",
-        "tontinton/maki explained in 10 minutes",
-        "Is tontinton/maki actually good? Honest test"
-      ],
-      "video_angles": [
-        "Potentially useful content angle: live first-test + honest verdict.",
-        "Potentially useful content angle: beginner-friendly setup walkthrough."
-      ],
-      "experiment_ideas": [
-        "Try the free option (GitHub repo (code + setup)) and record what breaks.",
-        "Compare against one well-known baseline on the same prompt."
-      ],
-      "creator_opportunity_score": 77,
-      "content_angle": "Hands-on look at tontinton/maki: what it does, who it helps, and whether the free option works.",
-      "target_audience": "AI-curious builders, students, and practitioners following open AI releases.",
-      "experiment_angle": "Run the free option (GitHub repo (code + setup)) on 3 fixed prompts and score the outputs.",
-      "tutorial_angle": "Beginner setup guide: from zero to first working result with tontinton/maki.",
-      "comparison_angle": "tontinton/maki vs the best-known alternative on the same task, same prompts.",
       "ai_model": "deterministic-skipped"
     }
   }
