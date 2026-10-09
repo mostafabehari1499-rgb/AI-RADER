@@ -3,10 +3,10 @@
   "openrouter": "ok",
   "huggingface": "ok",
   "civitai": "ok",
-  "youtube": "Example AI Channel: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+  "youtube": "ok",
   "rss": "ok",
   "official_blogs": "ok",
-  "arxiv": "ok",
-  "github": "rate-limited",
-  "hackernews": "ok"
+  "github": "ok",
+  "hackernews": "ok",
+  "arxiv": "query failed: 429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.CL+AND+%28llm+OR+agent+OR+rag+OR+reasoning%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.CV+AND+%28diffusion+OR+vision-language+OR+text-to-video%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.RO+AND+%28robotics+OR+embodied%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.LG+AND+%28distillation+OR+quantization+OR+efficient%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending"
 }
