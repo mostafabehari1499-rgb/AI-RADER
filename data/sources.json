@@ -1,12 +1,12 @@
 {
+  "github": "rate-limited",
   "reddit": "disabled",
+  "openrouter": "ok",
   "huggingface": "ok",
   "youtube": "ok",
   "civitai": "ok",
   "rss": "ok",
+  "arxiv": "ok",
   "official_blogs": "ok",
-  "openrouter": "ok",
-  "github": "ok",
-  "hackernews": "ok",
-  "arxiv": "query failed: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20); query failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.CV+AND+%28diffusion+OR+vision-language+OR+text-to-video%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.RO+AND+%28robotics+OR+embodied%29&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending; query failed: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"
+  "hackernews": "ok"
 }
