@@ -1,12 +1,12 @@
 {
-  "huggingface": "ok",
   "reddit": "disabled",
   "openrouter": "ok",
+  "huggingface": "ok",
   "civitai": "ok",
   "youtube": "ok",
   "rss": "ok",
-  "official_blogs": "ok",
   "arxiv": "ok",
-  "hackernews": "ok",
-  "github": "ok"
+  "official_blogs": "ok",
+  "github": "rate-limited",
+  "hackernews": "ok"
 }
