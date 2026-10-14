@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-14T02:25:42+00:00",
+  "last_run": "2026-10-14T09:06:24+00:00",
   "notified_ids": [
     "0eca207836362547",
     "243139ca844eb900",
@@ -10,1777 +10,18 @@
     "a51925584f282ba8",
     "bfc8d8e538cf3fa4",
     "caf841be2f18ab55",
+    "e244e15ce704fcb6",
     "e340e8dcefb7e729",
     "ebfcd2cb02eb3c5c",
     "f19eed0f724e0041"
   ],
   "last_counts": {
-    "total": 252,
-    "unique": 252,
-    "duplicates": 0,
-    "sent": 0
+    "total": 345,
+    "unique": 344,
+    "duplicates": 1,
+    "sent": 1
   },
   "history": {
-    "06d619c67ec49c4c": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-10T07:50:38+00:00",
-      "metrics": {
-        "stars": 1051,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "73625f49e50930ae": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 3097,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f6284da55ce9c6e6": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 1833,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "d488d2ff5ec76704": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
-      "metrics": {
-        "stars": 3448,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "9ec94d5ff3dc66a4": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
-      "metrics": {
-        "stars": 1137,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "db0e1d4be6e6b81d": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
-      "metrics": {
-        "stars": 4619,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "8c44c1a1770dfb45": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-10T01:25:43+00:00",
-      "metrics": {
-        "stars": 549,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "31e5ba288908d391": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
-      "metrics": {
-        "stars": 678,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "6cd52b0f3e504d07": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 642,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "daf728ccbefff797": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 543,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "5611c58e5e2dabcb": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
-      "metrics": {
-        "stars": 777,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "d97b901e7e606c6b": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 474,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "e39722ef59cf2b27": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-10T23:01:58+00:00",
-      "metrics": {
-        "stars": 468,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "bf99635a0ebed633": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
-      "metrics": {
-        "stars": 804,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "41a73a3eff0b3dd0": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 329,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "6c29336e84a2414c": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
-      "metrics": {
-        "stars": 1154,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "3c5ddd368324cc41": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 944,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "acbebea6f3c44d85": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 49169,
-        "likes": 1589,
-        "sources": 1
-      }
-    },
-    "3e1b0043795bf2f5": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "0834036d411976e7": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "09ebc68f9128a78f": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 176,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "31cbc252bb1ea3f2": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 197,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f50bfbd3eabd686f": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 1906,
-        "likes": 76,
-        "sources": 1
-      }
-    },
-    "6b2985e03ba5691c": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f34441088a2cc37f": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "60b72fc3b430ed00": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "22f91de41bc2fbd7": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "60ca1ccbb2692026": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "7fbb5e355be2d411": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "265b452b3fc6b239": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 282,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "0588526532f0f1f2": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "3b4b962237cb39a7": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "1337732d5e750ca5": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "8066d4e4200ebdc0": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "b9f91f693525c189": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "89dcdd408a6bcca3": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "256b214936dcf081": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "c6f8e23e06dab4aa": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "b0adbf20c1d86423": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f0c0e825c1c19684": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "cecd56b96f949e92": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "47c4beb63798fbbe": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "1ead49f2e4f864c2": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "a70738c0208bd97f": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-10T01:25:43+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "9f846533a06f60fb": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "c630dce464dd2edd": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "74b7a7741ffb73c7": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "6412efd4c4f67a94": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 3,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "934bc84558714c21": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 3,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "63d700ac826b3457": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 11,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "5ecf8117fc4089a8": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 15,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "a25e3070697fa47d": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 1,
-        "likes": 2,
-        "sources": 1
-      }
-    },
-    "1798610324a7a75a": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 1,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "40cb67634980a1f1": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 3,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "c83f1ea85173d8ba": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 3,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "103c8aaac09bb675": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 6,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "cb318c3b9e957112": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 3,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "4ae748528065ba95": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 6,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "ade2376e3afbafc5": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 11,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "025b3cfcea5e0799": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 13,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "f2aad8edddc280a2": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 77,
-        "likes": 6,
-        "sources": 1
-      }
-    },
-    "19118b1f24c25593": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 25,
-        "likes": 7,
-        "sources": 1
-      }
-    },
-    "e77c24219b7765bd": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 9,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "61cc9d4306c7e22d": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 126,
-        "likes": 10,
-        "sources": 1
-      }
-    },
-    "f9c2167e39d3bb73": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 23,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "05bc37cc7a2dd134": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 23,
-        "likes": 2,
-        "sources": 1
-      }
-    },
-    "97cf22a26fcfdf1a": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "ed87e6840111b460": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "0263102f9a81385c": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "e352e6f3a42bb41c": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "30ee2027d3af177c": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "87be70efd33637a7": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "7fff28ead15aa70f": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "0106029c62107fbd": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f28e638fbe0283ef": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f141f633fbce70be": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "5a549b89e50fa40c": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "b7fbbd1ba06b4835": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "de088f59e1057b07": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "abe22780f179eb88": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-10T23:01:58+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "86b97c1ffaa0bc74": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "9c80c8cf031d3e2f": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 750,
-        "likes": 35,
-        "sources": 1
-      }
-    },
-    "d54b246fb73f252e": {
-      "first_seen": "2026-10-09T17:38:27+00:00",
-      "last_seen": "2026-10-09T17:38:27+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "c1da7e98727c6aee": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 44043,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "3887de82657fc26f": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-10T01:25:43+00:00",
-      "metrics": {
-        "stars": 8828,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "2970961304a21493": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 14946,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "0f904a158a0e9445": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
-      "metrics": {
-        "stars": 19708,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "5812e61eed293373": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
-      "metrics": {
-        "stars": 15141,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "5fde80b7574dbda9": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
-      "metrics": {
-        "stars": 10986,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "964c27a889386458": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-10T07:50:38+00:00",
-      "metrics": {
-        "stars": 74863,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "2c7b3c6adf9696a0": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-10T01:25:43+00:00",
-      "metrics": {
-        "stars": 4410,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "d2b5fba0ff3af1cf": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
-      "metrics": {
-        "stars": 1890,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "987cdf8f9a80d05f": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 4990,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "27ea0b5f91ad5676": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-10T19:36:52+00:00",
-      "metrics": {
-        "stars": 2220,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "0709c8f48aaec625": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-12T08:12:39+00:00",
-      "metrics": {
-        "stars": 2847,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f0d1460ad4edc12a": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-11T16:54:14+00:00",
-      "metrics": {
-        "stars": 1212,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "5ceb88ff663bec35": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 1880,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "6a4c1f7389ddff2e": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
-      "metrics": {
-        "stars": 1405,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "acf1241ba01bd7b0": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
-      "metrics": {
-        "stars": 1983,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "83a3f25a567d59ff": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
-      "metrics": {
-        "stars": 1812,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "4f50e0a4aaa342d0": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
-      "metrics": {
-        "stars": 1057,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "db841650a3f70a31": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
-      "metrics": {
-        "stars": 601,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "ee2118e3ea323406": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 345,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "e778d15c31cacad0": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 541,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "864f44f49761fd94": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-11T10:23:27+00:00",
-      "metrics": {
-        "stars": 664,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "bcbfea41de38518c": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 416,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "9fc1aebb67ab0b7e": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-11T16:54:14+00:00",
-      "metrics": {
-        "stars": 968,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "b8241001df697d1c": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
-      "metrics": {
-        "stars": 533,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "5192293287cee5c1": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-11T16:54:14+00:00",
-      "metrics": {
-        "stars": 852,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "cdb9b3d8f550d33d": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-10T19:36:52+00:00",
-      "metrics": {
-        "stars": 620,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "e0baa703bd0a71d5": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 127,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "77db8c4e3f2fe1e9": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
-      "metrics": {
-        "stars": 126,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "cf90e720b11828cd": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "53300c03bb45e657": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "51df70361884e5bd": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "eadefa452110d844": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "d57e520b43fa18cd": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "792ce4646e818d6b": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
-      "metrics": {
-        "stars": 519,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "b063aa14d295a845": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 568,
-        "likes": 54,
-        "sources": 1
-      }
-    },
-    "3812324d28af3c0a": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 2409,
-        "likes": 14,
-        "sources": 1
-      }
-    },
-    "dc954824e8112401": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 10,
-        "likes": 8,
-        "sources": 1
-      }
-    },
-    "35dca3fc4f9e2f82": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 5,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "c5a50ce88737bf39": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 8,
-        "likes": 2,
-        "sources": 1
-      }
-    },
-    "802f3cbb6b048341": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 1,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "961f350dde756be1": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 8,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "1d730964c4b5a5de": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "95331903cc29316a": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 6,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "ae24deda57c21d45": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 8,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "dfe3c92156eadbc7": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 8,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "634f088b645f98af": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 13,
-        "likes": 4,
-        "sources": 1
-      }
-    },
-    "dc0af7cfd29b0203": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 338,
-        "likes": 27,
-        "sources": 1
-      }
-    },
-    "3279dbf387e2eb29": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 5,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "7ca17ae849248cdb": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 225,
-        "likes": 20,
-        "sources": 1
-      }
-    },
-    "81f70a2eb05a6a9a": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 5,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "5ae00675e78ee080": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 10,
-        "likes": 4,
-        "sources": 1
-      }
-    },
-    "329085cde1d19794": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 28,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "5c9e3c717e4230ee": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 15,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "675465bdcede8c89": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 18,
-        "likes": 3,
-        "sources": 1
-      }
-    },
-    "ad0fe51fb1f2f6fc": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 419,
-        "likes": 40,
-        "sources": 1
-      }
-    },
-    "f68401968abd6bfa": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 32,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "eefd965d5af74a79": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 8,
-        "likes": 3,
-        "sources": 1
-      }
-    },
-    "818874d983e767a5": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 8,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "0cd10eccbaffe2ab": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 143,
-        "likes": 5,
-        "sources": 1
-      }
-    },
-    "03594af2d59abdef": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 55,
-        "likes": 6,
-        "sources": 1
-      }
-    },
-    "5ee96b18a57fad6e": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "b6fee5b79ef8cad2": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "1c36e927d55c34c4": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f4d1669116a6c110": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 2,
-        "sources": 1
-      }
-    },
-    "064dc132f2e4aef8": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "54d73b0285666c5c": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "46624b5e4afe9fed": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "ca66f5255bcd8c24": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 23,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "ee0a1f7004ef7498": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-11T16:54:14+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "9865022b18def0a7": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "2bb25dfb752c1d14": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-10T14:02:57+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "aff37b6e6c5062ba": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "95c66b579e9cf4df": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "3a05f56ec8d0900c": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "08a0be798d89540b": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "3560e6805fc22cb2": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 2,
-        "sources": 1
-      }
-    },
-    "c7483639beace6ed": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "2b9a9247e8d46971": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "6c8de4d64c19f6d0": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "01c4dcbd126210f3": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "319394528ed8677c": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "302b1f23a101b0a4": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "979edc7ae6174538": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "69bddf3cfeb4f5f0": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "3b3d1a13485d9bd4": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "f740dd3ac3ea2d64": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-10T01:25:43+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 1,
-        "sources": 1
-      }
-    },
-    "50d4eced2994e1f8": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-10T01:25:43+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "3f7e1b300f1d1d4e": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-12T00:48:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "561b65cf8de65531": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "2b4a0e354b3d0776": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "4c6f4bb0fd01c35a": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
-    "84d30294f7c10ea3": {
-      "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-09T21:57:16+00:00",
-      "metrics": {
-        "stars": 0,
-        "downloads": 0,
-        "likes": 0,
-        "sources": 1
-      }
-    },
     "dc9b71416392ae5a": {
       "first_seen": "2026-10-09T21:57:16+00:00",
       "last_seen": "2026-10-09T21:57:16+00:00",
@@ -1873,7 +114,7 @@
     },
     "6e8e289114c6d421": {
       "first_seen": "2026-10-09T21:57:16+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -1893,9 +134,9 @@
     },
     "e68a3c60701079f3": {
       "first_seen": "2026-10-10T01:25:43+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 43212,
+        "stars": 43239,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -1913,9 +154,9 @@
     },
     "6791294b57ec813a": {
       "first_seen": "2026-10-10T01:25:43+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 5532,
+        "stars": 4843,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -1993,9 +234,9 @@
     },
     "0f68e85b2e07aa06": {
       "first_seen": "2026-10-10T01:25:43+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 2115,
+        "stars": 2128,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -2073,7 +314,7 @@
     },
     "c070cc36ea2192f1": {
       "first_seen": "2026-10-10T01:25:43+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 4021,
         "downloads": 0,
@@ -2083,9 +324,9 @@
     },
     "c59bba85a8f17373": {
       "first_seen": "2026-10-10T01:25:43+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 1203,
+        "stars": 1204,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -2133,9 +374,9 @@
     },
     "d063e32409d71e02": {
       "first_seen": "2026-10-10T01:25:43+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 748,
+        "stars": 749,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -2183,9 +424,9 @@
     },
     "f19e2499cdb830c6": {
       "first_seen": "2026-10-10T01:25:43+00:00",
-      "last_seen": "2026-10-12T00:48:16+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 252,
+        "stars": 256,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -2863,7 +1104,7 @@
     },
     "0fcaf4cd327f73ce": {
       "first_seen": "2026-10-10T01:25:43+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -2983,9 +1224,9 @@
     },
     "de9c5f015fd4a274": {
       "first_seen": "2026-10-10T07:50:38+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 4876,
+        "stars": 4883,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -3263,7 +1504,7 @@
     },
     "528aefe5f7afe921": {
       "first_seen": "2026-10-10T07:50:38+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -3833,7 +2074,7 @@
     },
     "67386056a6b6a96d": {
       "first_seen": "2026-10-10T07:50:38+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -3853,9 +2094,9 @@
     },
     "bfc8d8e538cf3fa4": {
       "first_seen": "2026-10-10T14:02:57+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 147766,
+        "stars": 147827,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -3873,9 +2114,9 @@
     },
     "64c932b951a63d75": {
       "first_seen": "2026-10-10T14:02:57+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 28463,
+        "stars": 28476,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -3883,9 +2124,9 @@
     },
     "ede4e5588166c6d0": {
       "first_seen": "2026-10-10T14:02:57+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 26738,
+        "stars": 26737,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -3913,9 +2154,9 @@
     },
     "abe9bc01580f1eda": {
       "first_seen": "2026-10-10T14:02:57+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 3434,
+        "stars": 3435,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -3973,9 +2214,9 @@
     },
     "37b9271451b5e4da": {
       "first_seen": "2026-10-10T14:02:57+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 222,
+        "stars": 235,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -4613,11 +2854,11 @@
     },
     "ea4da199211bf66c": {
       "first_seen": "2026-10-10T14:02:57+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 11,
-        "likes": 1,
+        "likes": 2,
         "sources": 1
       }
     },
@@ -4743,7 +2984,7 @@
     },
     "4fa702ace3acb77c": {
       "first_seen": "2026-10-10T14:02:57+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -5733,7 +3974,7 @@
     },
     "baa7ea4c17c6918f": {
       "first_seen": "2026-10-10T19:36:52+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -5943,9 +4184,9 @@
     },
     "930d751855472169": {
       "first_seen": "2026-10-10T23:01:58+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 126,
+        "stars": 127,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -6643,9 +4884,9 @@
     },
     "439a754e0c5ee60f": {
       "first_seen": "2026-10-11T02:33:23+00:00",
-      "last_seen": "2026-10-11T02:33:23+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 1268,
+        "stars": 1275,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -6823,7 +5064,7 @@
     },
     "6fb0fa29186bc49f": {
       "first_seen": "2026-10-11T02:33:23+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 625,
         "downloads": 0,
@@ -6913,9 +5154,9 @@
     },
     "2a44bcac22df4f4a": {
       "first_seen": "2026-10-11T02:33:23+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 338,
+        "stars": 339,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -7533,7 +5774,7 @@
     },
     "5e9cbf1d929dce20": {
       "first_seen": "2026-10-11T02:33:23+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -7543,7 +5784,7 @@
     },
     "fa19f183614d9970": {
       "first_seen": "2026-10-11T02:33:23+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -7553,7 +5794,7 @@
     },
     "e76fc86f0e55316e": {
       "first_seen": "2026-10-11T02:33:23+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -7573,7 +5814,7 @@
     },
     "745d6ffed89940ba": {
       "first_seen": "2026-10-11T02:33:23+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -7593,9 +5834,9 @@
     },
     "a4f2d2d1855edb90": {
       "first_seen": "2026-10-11T10:23:27+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 187563,
+        "stars": 187565,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -7653,9 +5894,9 @@
     },
     "28638c4b3b34e4c2": {
       "first_seen": "2026-10-11T10:23:27+00:00",
-      "last_seen": "2026-10-11T21:09:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 5243,
+        "stars": 5253,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -7743,9 +5984,9 @@
     },
     "1f2b27926dd0cf97": {
       "first_seen": "2026-10-11T10:23:27+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 829,
+        "stars": 836,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -7773,9 +6014,9 @@
     },
     "59c57e13b9047bf1": {
       "first_seen": "2026-10-11T10:23:27+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 431,
+        "stars": 442,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -8563,7 +6804,7 @@
     },
     "c14c0e21ce03883c": {
       "first_seen": "2026-10-11T10:23:27+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -8753,9 +6994,9 @@
     },
     "5fc28f908e66e15e": {
       "first_seen": "2026-10-11T16:54:14+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 306,
+        "stars": 308,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -9113,7 +7354,7 @@
     },
     "1063fb53f4938227": {
       "first_seen": "2026-10-11T16:54:14+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -9433,9 +7674,9 @@
     },
     "cb43801e6e228815": {
       "first_seen": "2026-10-11T21:09:46+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 90823,
+        "stars": 90852,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -9493,7 +7734,7 @@
     },
     "ebb5ff48f125e60a": {
       "first_seen": "2026-10-11T21:09:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 3099,
         "downloads": 0,
@@ -9503,9 +7744,9 @@
     },
     "be7ec6df66fad82d": {
       "first_seen": "2026-10-11T21:09:46+00:00",
-      "last_seen": "2026-10-12T08:12:39+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 1824,
+        "stars": 1829,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -9513,9 +7754,9 @@
     },
     "9e20050e1effaf49": {
       "first_seen": "2026-10-11T21:09:46+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 4370,
+        "stars": 4371,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -9603,9 +7844,9 @@
     },
     "94868440aba9013b": {
       "first_seen": "2026-10-11T21:09:46+00:00",
-      "last_seen": "2026-10-12T08:12:39+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 4455,
+        "stars": 4461,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -10303,7 +8544,7 @@
     },
     "14793535e4ea6885": {
       "first_seen": "2026-10-11T21:09:46+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -10463,9 +8704,9 @@
     },
     "a51925584f282ba8": {
       "first_seen": "2026-10-12T00:48:16+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 114912,
+        "stars": 115027,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -10473,9 +8714,9 @@
     },
     "6eeef4d3ef60122a": {
       "first_seen": "2026-10-12T00:48:16+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 29955,
+        "stars": 29974,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -10493,7 +8734,7 @@
     },
     "e14f0d35a94da893": {
       "first_seen": "2026-10-12T00:48:16+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 7161,
         "downloads": 0,
@@ -10683,9 +8924,9 @@
     },
     "544b5d983cf03da3": {
       "first_seen": "2026-10-12T00:48:16+00:00",
-      "last_seen": "2026-10-12T08:12:39+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 2777,
+        "stars": 2778,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -10743,9 +8984,9 @@
     },
     "72fee741fe096b2a": {
       "first_seen": "2026-10-12T00:48:16+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 165,
+        "stars": 166,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11313,7 +9554,7 @@
     },
     "6a0dc7931c050308": {
       "first_seen": "2026-10-12T00:48:16+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -11323,7 +9564,7 @@
     },
     "11203e37ca4ddbba": {
       "first_seen": "2026-10-12T00:48:16+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -11363,9 +9604,9 @@
     },
     "119c74ef0c27b75b": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 9608,
+        "stars": 9610,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11383,9 +9624,9 @@
     },
     "b67fa8168752444c": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 8761,
+        "stars": 8774,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11393,9 +9634,9 @@
     },
     "362b564eebe715d4": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 5478,
+        "stars": 5492,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11403,9 +9644,9 @@
     },
     "91e7d7764f9203c0": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T01:42:40+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 7570,
+        "stars": 7590,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11413,9 +9654,9 @@
     },
     "bcd31d41d538dfa2": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-12T08:12:39+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 18012,
+        "stars": 18014,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11423,9 +9664,9 @@
     },
     "bdc1ef33cc36e873": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-12T08:12:39+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 3087,
+        "stars": 3088,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11483,9 +9724,9 @@
     },
     "d0b3bec7d7099a4c": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 2020,
+        "stars": 2042,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11603,7 +9844,7 @@
     },
     "3c5bade7686550c5": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 691,
         "downloads": 0,
@@ -11613,9 +9854,9 @@
     },
     "095695946109e778": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 461,
+        "stars": 489,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11633,9 +9874,9 @@
     },
     "7f2e77cd5f6bd85d": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 569,
+        "stars": 570,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -11643,7 +9884,7 @@
     },
     "c3204ed111de001f": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 235,
         "downloads": 0,
@@ -11733,7 +9974,7 @@
     },
     "a76aebe6734921a6": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 130,
         "downloads": 0,
@@ -11823,7 +10064,7 @@
     },
     "43b96bf990d7d685": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12353,7 +10594,7 @@
     },
     "75f9cafa15a6a2a5": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12363,7 +10604,7 @@
     },
     "6d66af263e2456c9": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12373,17 +10614,17 @@
     },
     "dec2b82eee587487": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
-        "likes": 11316,
+        "likes": 11317,
         "sources": 1
       }
     },
     "8db57495d989053d": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12393,7 +10634,7 @@
     },
     "d4daa85ce9f87151": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12403,7 +10644,7 @@
     },
     "1c8597a4c2bdc3b1": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12413,7 +10654,7 @@
     },
     "22afd6078a3252a4": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12423,7 +10664,7 @@
     },
     "5b73f5942ff6ca73": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12433,7 +10674,7 @@
     },
     "b80644d35ddfe868": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12443,17 +10684,17 @@
     },
     "688a2abcdd8f158d": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
-        "likes": 5103,
+        "likes": 5104,
         "sources": 1
       }
     },
     "e8e984fb6c1b8fd0": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12463,7 +10704,7 @@
     },
     "c4e2d8d7404d4370": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12473,7 +10714,7 @@
     },
     "8090b1fa6477473a": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12483,7 +10724,7 @@
     },
     "be948e4f4524a9cb": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12493,7 +10734,7 @@
     },
     "8779758295c8e7b1": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12513,7 +10754,7 @@
     },
     "1383f17402506be8": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12523,7 +10764,7 @@
     },
     "5711341aad81eebb": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12533,7 +10774,7 @@
     },
     "51cafca29f8ad035": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12543,7 +10784,7 @@
     },
     "c1c6b59a02cd27ed": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12563,7 +10804,7 @@
     },
     "1906cfc7af93e241": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12573,7 +10814,7 @@
     },
     "533651e59b8258d2": {
       "first_seen": "2026-10-12T08:12:39+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12673,7 +10914,7 @@
     },
     "9af4e13533a87480": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12703,7 +10944,7 @@
     },
     "3ad7b7f6f6b6b558": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -12713,7 +10954,7 @@
     },
     "b7c976b2e4e607a7": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13333,7 +11574,7 @@
     },
     "87006b64e5d76729": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13343,7 +11584,7 @@
     },
     "00960729359254f7": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13913,7 +12154,7 @@
     },
     "933f1d3953137d09": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13923,7 +12164,7 @@
     },
     "52fed65453bdfa52": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13933,7 +12174,7 @@
     },
     "999573468ab8e878": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13943,7 +12184,7 @@
     },
     "afa5f7535f99666f": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13953,7 +12194,7 @@
     },
     "ce76050ad76a8e09": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13973,7 +12214,7 @@
     },
     "7534a2f13282949c": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13983,7 +12224,7 @@
     },
     "4dffa587aff6268c": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -13993,7 +12234,7 @@
     },
     "eb06fb23d71ec825": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -14003,7 +12244,7 @@
     },
     "c21f828b063762dd": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -14013,7 +12254,7 @@
     },
     "9e2e45f1536c9aea": {
       "first_seen": "2026-10-12T19:28:29+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -14053,9 +12294,9 @@
     },
     "258174d1184b1e7c": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 23151,
+        "stars": 23157,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14063,9 +12304,9 @@
     },
     "922a1f0140723070": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 52598,
+        "stars": 52615,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14073,9 +12314,9 @@
     },
     "a865b46c535c3a1f": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 30230,
+        "stars": 30286,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14123,9 +12364,9 @@
     },
     "a0ff4b046b1774bb": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 17924,
+        "stars": 18167,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14133,9 +12374,9 @@
     },
     "fcfbc68586d080cb": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 10785,
+        "stars": 10800,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14163,9 +12404,9 @@
     },
     "2cf4017ff65e17a2": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 6265,
+        "stars": 6275,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14213,9 +12454,9 @@
     },
     "ada470671abdf115": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 2435,
+        "stars": 2441,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14283,9 +12524,9 @@
     },
     "abf51163b195fd65": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 4617,
+        "stars": 4619,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14373,9 +12614,9 @@
     },
     "d9ad2fbba5e1baf9": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 893,
+        "stars": 945,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14513,9 +12754,9 @@
     },
     "e001b8aa2667adfb": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 122,
+        "stars": 123,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -14603,7 +12844,7 @@
     },
     "37be592e3c92451a": {
       "first_seen": "2026-10-13T01:42:40+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -15213,9 +13454,9 @@
     },
     "9a09d0773f12ff4d": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 33646,
+        "stars": 33882,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -15223,9 +13464,9 @@
     },
     "7021bd35a618c14e": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 92158,
+        "stars": 92182,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -15233,9 +13474,9 @@
     },
     "0d03df4b9b9bae6a": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 74329,
+        "stars": 74446,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -15263,7 +13504,7 @@
     },
     "8fb656f7b803a32b": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 11424,
         "downloads": 0,
@@ -15313,9 +13554,9 @@
     },
     "03ec4b7e432e0c7e": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 5678,
+        "stars": 5683,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -15323,9 +13564,9 @@
     },
     "5a065d0b4b3bce47": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 9020,
+        "stars": 9257,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -15333,9 +13574,9 @@
     },
     "8d08d1ba55391f0c": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 9506,
+        "stars": 9638,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -15383,9 +13624,9 @@
     },
     "d8f35f2c869d3eb6": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 1185,
+        "stars": 1194,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -15453,7 +13694,7 @@
     },
     "4ce85026a121445d": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 702,
         "downloads": 0,
@@ -15513,9 +13754,9 @@
     },
     "085f177765f1d968": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 736,
+        "stars": 739,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -15573,9 +13814,9 @@
     },
     "233e737051aee4bb": {
       "first_seen": "2026-10-13T08:38:20+00:00",
-      "last_seen": "2026-10-13T08:38:20+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 552,
+        "stars": 555,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16383,9 +14624,9 @@
     },
     "415301498cacc09a": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 53453,
+        "stars": 53503,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16403,9 +14644,9 @@
     },
     "f96aca2a41333c82": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 25033,
+        "stars": 25044,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16413,9 +14654,9 @@
     },
     "5751bf5566a9c7ae": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 21920,
+        "stars": 22106,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16443,9 +14684,9 @@
     },
     "42fb548ec47e148b": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 9535,
+        "stars": 9539,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16473,9 +14714,9 @@
     },
     "161fe0b988a333dd": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 2272,
+        "stars": 2279,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16543,9 +14784,9 @@
     },
     "a1b7bb2c018213ad": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 1123,
+        "stars": 1122,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16583,9 +14824,9 @@
     },
     "40f4907ad0baf15e": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 2223,
+        "stars": 2225,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16623,7 +14864,7 @@
     },
     "251155f5a1911c9e": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 958,
         "downloads": 0,
@@ -16693,9 +14934,9 @@
     },
     "ae65873a6d7565b6": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-13T17:12:46+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 816,
+        "stars": 819,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -16863,7 +15104,7 @@
     },
     "6fd4e23f532a4d04": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -16883,7 +15124,7 @@
     },
     "ac51bcc0b281874b": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -16893,7 +15134,7 @@
     },
     "6b1691d26928cca9": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -16903,7 +15144,7 @@
     },
     "093944e564e5fbc2": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -16913,7 +15154,7 @@
     },
     "55f35a88c565865f": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -16923,7 +15164,7 @@
     },
     "2c6f439c70091c94": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -17343,7 +15584,7 @@
     },
     "7977354149e55517": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -17363,7 +15604,7 @@
     },
     "ed3c94c5582bd60e": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -17513,7 +15754,7 @@
     },
     "565d24da1c8111c7": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -17523,7 +15764,7 @@
     },
     "19d1153973a845a6": {
       "first_seen": "2026-10-13T17:12:46+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -17543,9 +15784,9 @@
     },
     "54c0ceb9910a6fde": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 35780,
+        "stars": 35803,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -17573,9 +15814,9 @@
     },
     "2525b302960593cf": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 6213,
+        "stars": 6225,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -17713,9 +15954,9 @@
     },
     "d03bf9b4f80379a9": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-13T22:02:07+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
-        "stars": 2063,
+        "stars": 2066,
         "downloads": 0,
         "likes": 0,
         "sources": 1
@@ -17913,7 +16154,7 @@
     },
     "24a396923b2dd319": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -17933,7 +16174,7 @@
     },
     "1c67e13efd015480": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -17943,7 +16184,7 @@
     },
     "d00244e569093351": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18413,7 +16654,7 @@
     },
     "28c2bdbaea430d52": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18543,7 +16784,7 @@
     },
     "5488cb7d68c7b533": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18553,7 +16794,7 @@
     },
     "abc2986147f7c095": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18563,7 +16804,7 @@
     },
     "685c4e60f26e4b89": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18573,7 +16814,7 @@
     },
     "d50f120952a8c43b": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18583,7 +16824,7 @@
     },
     "242d102dc2950db6": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18593,7 +16834,7 @@
     },
     "9ae0efde0809b34d": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18603,7 +16844,7 @@
     },
     "404f6789dc1a7b6f": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18613,7 +16854,7 @@
     },
     "b75a93ff02e6a3c4": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18623,7 +16864,7 @@
     },
     "33a5f1f4374b523f": {
       "first_seen": "2026-10-13T22:02:07+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18683,7 +16924,7 @@
     },
     "ed1979cfb2147b43": {
       "first_seen": "2026-10-14T02:25:42+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 4448,
         "downloads": 0,
@@ -18743,7 +16984,7 @@
     },
     "4ade393d41ed2ecd": {
       "first_seen": "2026-10-14T02:25:42+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 345,
         "downloads": 0,
@@ -18763,7 +17004,7 @@
     },
     "4dd4363e9f3cdfa6": {
       "first_seen": "2026-10-14T02:25:42+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18773,7 +17014,7 @@
     },
     "cad9b8e4f092cb46": {
       "first_seen": "2026-10-14T02:25:42+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -18783,7 +17024,7 @@
     },
     "72f98af8d011f51f": {
       "first_seen": "2026-10-14T02:25:42+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
@@ -19013,11 +17254,11 @@
     },
     "01bc33af959c21d2": {
       "first_seen": "2026-10-14T02:25:42+00:00",
-      "last_seen": "2026-10-14T02:25:42+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
       "metrics": {
         "stars": 0,
         "downloads": 0,
-        "likes": 1,
+        "likes": 2,
         "sources": 1
       }
     },
@@ -20020,11 +18261,1772 @@
         "likes": 0,
         "sources": 1
       }
+    },
+    "e244e15ce704fcb6": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 172910,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6d58e85a85ba4c1f": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 207328,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "e19a9d8ba858d91a": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 28658,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "85f9c34ee9ac015e": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 22591,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "08f3db93308dc964": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 23685,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8ef0c68c016994d0": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 28167,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "4622d7211a8d71f2": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 83276,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "0a872378a09d1e2b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 10828,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "c7652c48e9127a2b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 9236,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "0aefcc9ee3bc1686": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 8046,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "69e96edaca5e6f16": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 7056,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "df58f2f2520a2305": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 17868,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "0e613cf8ca8df05b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 3143,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "4622f4c7810a4f69": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 4023,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "bcd20358cdcb6c74": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 3976,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "b96c404a037ab795": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 1781,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "832bd5c267cb6c9c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 1623,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "cf53538daa33c33a": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 1502,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "b94ef651b5c02e97": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 2912,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8d8071bd04af2eaf": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 1795,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6461a0787d3b8579": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 1644,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "2959f6f56385dba9": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 2034,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "e97fb17940f48774": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 2623,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8e5dd3835e2de035": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 1324,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "f32bfdfd40e38363": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 1361,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "9a2c6814cdae38a1": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 12049,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "7f9b8a036e5374ef": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 477,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6236f9a3b939d48b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 269,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "49c399f51ecc10e5": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 584,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "7343096f4a113e25": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 316,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "3dce8432d40c8f17": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 242,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "22f399e30e100d34": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 377,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "0703b66d23aa36a7": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 504,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "1df4c5dc68982186": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 224,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "dc57b9804505cdc7": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 442,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "254c38e2bccef677": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 565,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8447a39ae4c61e7c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 413,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "f154e9e3c2d3cc25": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 561,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "cbf49c80fc14e1cd": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 873,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "37222a738dde95c2": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 492,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "08d642ad13d4e13e": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 636,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "cf3a2157cebd067f": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 120,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "0f207bf6d1b2c74b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "c3d6d8d40fe9d75b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8668000877599bb6": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "243ea5c2cf4fa244": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "dfecef30b88a14e1": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "296cef41414be7b7": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "fc8b683f4bc4c5c8": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 5755,
+        "likes": 172,
+        "sources": 1
+      }
+    },
+    "4a093550488dd3bd": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 3502,
+        "likes": 489,
+        "sources": 1
+      }
+    },
+    "e1964aeeb0807d6f": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "ac12d4d38960938b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "a783da9140f3bfe9": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 263,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "4f123abbde61cbcf": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 690,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "7bff436889fef4d2": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 3933,
+        "likes": 120,
+        "sources": 1
+      }
+    },
+    "dd99cbc668f5a9a8": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 803,
+        "likes": 55,
+        "sources": 1
+      }
+    },
+    "9b35a56773edc4c8": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 1213,
+        "likes": 76,
+        "sources": 1
+      }
+    },
+    "c81e626f0228f460": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 870,
+        "likes": 78,
+        "sources": 1
+      }
+    },
+    "21e8802a1b52ac59": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "e49c50304e8b75fb": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8f13ebb08912949f": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8c57ab0f310a2862": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "59313da8caccc0ff": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "bfca3e0922b7e4a2": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "4b7ca8da9bbb69fd": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8e8e78dfc518993d": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "b0e9ab111c81fe27": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6104a8266e1f2aa7": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "51b59ccb74849d0c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "994fb283dc4633b6": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "34e73c2a5a294af0": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "76b5143b488ba22c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 37,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "0d0e99297f7a6644": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "d93efbf68a69cbb8": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "d40852360c4eeb15": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "577943b920bd4907": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 2,
+        "sources": 1
+      }
+    },
+    "8e26d62a7c0adef5": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8d2fdb39f2f15c45": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "fe54c545fca72b7b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "29abb03f3fcc7829": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 2,
+        "sources": 1
+      }
+    },
+    "97b9ba697ad002e3": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "ddcc9f23ba31d3c3": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "86c1057d322f2ea5": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "5e0ef152f0d5c6a1": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "bbd221cb67f226c4": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "85d120f3dce1c248": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "44efcef64a34264b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "42bbc958814fee80": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "e08d9b81ea078e27": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "b902d3692da9a26c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6230efbc3a75a527": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 1,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "1a8639115c991f2c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "1f5e9434c5eb8e1c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 3,
+        "likes": 3,
+        "sources": 1
+      }
+    },
+    "b223114c62a6b50a": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 23,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "5a17c27b2a13dd25": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 7,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "f5dcceef72fab975": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 7,
+        "likes": 1,
+        "sources": 1
+      }
+    },
+    "c9ed6c8ceee4017d": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 13,
+        "likes": 2,
+        "sources": 1
+      }
+    },
+    "82bb3642db169c6d": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 8,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "ca2092ef241d79e8": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 6,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "b66232f2033fe18a": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 9,
+        "likes": 2,
+        "sources": 1
+      }
+    },
+    "3bdda1bff282e32e": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 32,
+        "likes": 8,
+        "sources": 1
+      }
+    },
+    "8040cb9c16ec4227": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 14,
+        "likes": 3,
+        "sources": 1
+      }
+    },
+    "0891c4dac5fabeab": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 15,
+        "likes": 4,
+        "sources": 1
+      }
+    },
+    "5ddc54a0e79cf76b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 32,
+        "likes": 8,
+        "sources": 1
+      }
+    },
+    "b065d7ef26be46d2": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 4,
+        "sources": 1
+      }
+    },
+    "4a3e047afe2a7752": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 2,
+        "sources": 1
+      }
+    },
+    "37f86841b91b3986": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 61,
+        "likes": 14,
+        "sources": 1
+      }
+    },
+    "8f0f7777b122ed5f": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "cebe5495619dec7d": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "ec164dc9c40ed0a0": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "464c313a71388383": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "3b9493229c39854e": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "179537e939c1aea9": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "996e54948b8cbf56": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "92658be5eaf871f8": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "a27dad54e35187b5": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "1463546dba0f6829": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "13afa8efc4a050f4": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "94bad8b9c704fbf9": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "57dc41138ef75f0f": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "cd344c92e8723f77": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "101cef6aa133b79d": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "a62bce0ec9d708b4": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "7031ef16272204f1": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8cfd65f5dc95325b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "281a3edd05d0739c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "e35a0704dc8de062": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "b40a70b771d97270": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "77330678189cd009": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "86d4ed0ceffec5f4": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "941ee19af82844ef": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "2eda610c6d32efb6": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "09e07520cba8db99": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6dbbf936feec5713": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "e290bee5d5c8357b": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "208cce88b50d647f": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "ac28cd52515335c2": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "ec561a128827310e": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6f0c5ad1e0098994": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6d737ce49bafcc26": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "3a9455c51ad3327a": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "3cb796f83739ccca": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "2b69784bffde53de": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "a653526f4de5678d": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "64f45620989dd586": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "f0727421937536e4": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "8d3cc76e192fce4f": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "2671a36250a22bd1": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "1684c841222cd234": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "65cb86c876d7582a": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "7b57da64af67e55e": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "67683fd8e42999b4": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "41f5118a92e55923": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "9cb7119c575e1893": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "150ccff48e0999c4": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "593f9a1a60f635aa": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "22815ed063803270": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "d0dca047664e9b38": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "9b5b2ff6eb9be6b8": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "6a56f81ee2b40388": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "eb173eab15700115": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "3e80d1ad56a47840": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "dd166276fa9025da": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "5c370953ec3618ac": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "dd7ef8391c7296e7": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "9f72ad601528747a": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "eb5e477516676826": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "86eb50d41434dd85": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "e48a382b92b441e6": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "3d2d48c15edf57de": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "a6fafe4ade2ac366": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "96da843517d9428a": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 4,
+        "likes": 12,
+        "sources": 1
+      }
+    },
+    "ea27855174e32aaf": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "eec7b7c4fa1f108c": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "06d83ea373015946": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
+    },
+    "593bc2c228750c04": {
+      "first_seen": "2026-10-14T09:06:24+00:00",
+      "last_seen": "2026-10-14T09:06:24+00:00",
+      "metrics": {
+        "stars": 0,
+        "downloads": 0,
+        "likes": 0,
+        "sources": 1
+      }
     }
   },
   "notified_urls": [
     "https://github.com/DietrichGebert/ponytail",
     "https://github.com/deepseek-ai/deepseek-harness",
+    "https://github.com/f/prompts.chat",
     "https://github.com/google-gemini/gemini-cli",
     "https://github.com/langchain-ai/langchain",
     "https://github.com/langflow-ai/langflow",
