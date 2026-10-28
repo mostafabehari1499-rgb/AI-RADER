@@ -1,12 +1,12 @@
 {
   "reddit": "disabled",
   "openrouter": "ok",
-  "huggingface": "ok",
   "civitai": "ok",
-  "youtube": "Example AI Channel: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+  "huggingface": "ok",
+  "youtube": "ok",
   "rss": "ok",
   "official_blogs": "ok",
   "arxiv": "ok",
-  "github": "rate-limited",
-  "hackernews": "ok"
+  "hackernews": "ok",
+  "github": "rate-limited"
 }
