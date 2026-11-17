@@ -1,12 +1,12 @@
 {
   "reddit": "disabled",
   "openrouter": "ok",
-  "youtube": "ok",
   "huggingface": "ok",
   "civitai": "ok",
+  "youtube": "ok",
   "rss": "ok",
-  "official_blogs": "ok",
+  "official_blogs": "Anthropic — press: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Anthropic%20AI%20announcement&hl=en-US&gl=US&ceid=US:en; Meta AI — press: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Meta%20AI%20announcement&hl=en-US&gl=US&ceid=US:en",
   "arxiv": "ok",
-  "hackernews": "ok",
-  "github": "ok"
+  "github": "ok",
+  "hackernews": "ok"
 }
